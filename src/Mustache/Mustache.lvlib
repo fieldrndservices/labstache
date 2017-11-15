@@ -11,5 +11,7 @@
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Parser.lvclass" Type="LVClass" URL="../Public/Parser/Parser.lvclass"/>
+		<Item Name="Reader.lvclass" Type="LVClass" URL="../Public/Reader/Reader.lvclass"/>
 	</Item>
 </Library>
