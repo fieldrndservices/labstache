@@ -9,8 +9,7 @@
 </Property>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Parse Hello World.vi" Type="VI" URL="../Public/Parse Hello World.vi"/>
-		<Item Name="Parse Text.vi" Type="VI" URL="../Public/Parse Text.vi"/>
+		<Item Name="Parser.lvlib" Type="Library" URL="../Public/Parser/Parser.lvlib"/>
 		<Item Name="Run All.vi" Type="VI" URL="../Public/Run All.vi"/>
 	</Item>
 </Library>
