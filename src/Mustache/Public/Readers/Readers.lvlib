@@ -10,6 +10,7 @@
 </Property>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Reader.lvclass" Type="LVClass" URL="../Public/Abstract/Reader.lvclass"/>
+		<Item Name="Abstract.lvclass" Type="LVClass" URL="../Public/Abstract/Abstract.lvclass"/>
+		<Item Name="String.lvclass" Type="LVClass" URL="../Public/String/String.lvclass"/>
 	</Item>
 </Library>
