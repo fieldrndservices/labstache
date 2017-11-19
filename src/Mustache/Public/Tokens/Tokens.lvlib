@@ -15,5 +15,6 @@
 		<Item Name="EscapedVariable.lvclass" Type="LVClass" URL="../Public/EscapedVariable/EscapedVariable.lvclass"/>
 		<Item Name="Text.lvclass" Type="LVClass" URL="../Public/Text/Text.lvclass"/>
 		<Item Name="UnescapedVariable.lvclass" Type="LVClass" URL="../Public/UnescapedVariable/UnescapedVariable.lvclass"/>
+		<Item Name="Variable.lvclass" Type="LVClass" URL="../Public/Variable/Variable.lvclass"/>
 	</Item>
 </Library>
