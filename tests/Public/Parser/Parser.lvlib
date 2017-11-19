@@ -12,8 +12,10 @@
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Parse Nothing.vi" Type="VI" URL="../Public/Parse Nothing.vi"/>
+		<Item Name="Parse Tag-Text.vi" Type="VI" URL="../Public/Parse Tag-Text.vi"/>
 		<Item Name="Parse Tag.vi" Type="VI" URL="../Public/Parse Tag.vi"/>
-		<Item Name="Parse Text then Tag.vi" Type="VI" URL="../Public/Parse Text then Tag.vi"/>
+		<Item Name="Parse Text-Tag-Text.vi" Type="VI" URL="../Public/Parse Text-Tag-Text.vi"/>
+		<Item Name="Parse Text-Tag.vi" Type="VI" URL="../Public/Parse Text-Tag.vi"/>
 		<Item Name="Parse Text.vi" Type="VI" URL="../Public/Parse Text.vi"/>
 		<Item Name="Run All.vi" Type="VI" URL="../Public/Run All.vi"/>
 	</Item>
