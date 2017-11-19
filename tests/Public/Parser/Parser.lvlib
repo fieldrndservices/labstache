@@ -11,6 +11,7 @@
 </Property>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Parse Empty Tag.vi" Type="VI" URL="../Public/Parse Empty Tag.vi"/>
 		<Item Name="Parse Nothing.vi" Type="VI" URL="../Public/Parse Nothing.vi"/>
 		<Item Name="Parse Tag-Text.vi" Type="VI" URL="../Public/Parse Tag-Text.vi"/>
 		<Item Name="Parse Tag.vi" Type="VI" URL="../Public/Parse Tag.vi"/>
