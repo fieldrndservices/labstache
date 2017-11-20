@@ -13,6 +13,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Abstract.lvclass" Type="LVClass" URL="../Public/Abstract/Abstract.lvclass"/>
 		<Item Name="BeginSection.lvclass" Type="LVClass" URL="../Public/BeginSection/BeginSection.lvclass"/>
+		<Item Name="EndSection.lvclass" Type="LVClass" URL="../Public/EndSection/EndSection.lvclass"/>
 		<Item Name="EscapedVariable.lvclass" Type="LVClass" URL="../Public/EscapedVariable/EscapedVariable.lvclass"/>
 		<Item Name="Keyable.lvclass" Type="LVClass" URL="../Public/Keyable/Keyable.lvclass"/>
 		<Item Name="Text.lvclass" Type="LVClass" URL="../Public/Text/Text.lvclass"/>
