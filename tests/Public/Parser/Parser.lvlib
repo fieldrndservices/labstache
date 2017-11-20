@@ -11,10 +11,14 @@
 </Property>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Parse &amp; UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse &amp; UnescapedVariable-Text.vi"/>
+		<Item Name="Parse &amp; UnescapedVariable.vi" Type="VI" URL="../Public/Parse &amp; UnescapedVariable.vi"/>
 		<Item Name="Parse Empty Tag.vi" Type="VI" URL="../Public/Parse Empty Tag.vi"/>
 		<Item Name="Parse EscapedVariable-Text.vi" Type="VI" URL="../Public/Parse EscapedVariable-Text.vi"/>
 		<Item Name="Parse EscapedVariable.vi" Type="VI" URL="../Public/Parse EscapedVariable.vi"/>
 		<Item Name="Parse Nothing.vi" Type="VI" URL="../Public/Parse Nothing.vi"/>
+		<Item Name="Parse Text-&amp; UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable-Text.vi"/>
+		<Item Name="Parse Text-&amp; UnescapedVariable.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable.vi"/>
 		<Item Name="Parse Text-EscapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable-Text.vi"/>
 		<Item Name="Parse Text-EscapedVariable.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable.vi"/>
 		<Item Name="Parse Text-{} UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-{} UnescapedVariable-Text.vi"/>
