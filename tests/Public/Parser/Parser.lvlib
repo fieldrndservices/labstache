@@ -17,7 +17,10 @@
 		<Item Name="Parse Nothing.vi" Type="VI" URL="../Public/Parse Nothing.vi"/>
 		<Item Name="Parse Text-EscapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable-Text.vi"/>
 		<Item Name="Parse Text-EscapedVariable.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable.vi"/>
+		<Item Name="Parse Text-{} UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-{} UnescapedVariable-Text.vi"/>
+		<Item Name="Parse Text-{} UnescapedVariable.vi" Type="VI" URL="../Public/Parse Text-{} UnescapedVariable.vi"/>
 		<Item Name="Parse Text.vi" Type="VI" URL="../Public/Parse Text.vi"/>
+		<Item Name="Parse {} UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse {} UnescapedVariable-Text.vi"/>
 		<Item Name="Parse {} UnescapedVariable.vi" Type="VI" URL="../Public/Parse {} UnescapedVariable.vi"/>
 		<Item Name="Run All.vi" Type="VI" URL="../Public/Run All.vi"/>
 	</Item>
