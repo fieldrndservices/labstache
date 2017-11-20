@@ -22,6 +22,7 @@
 		<Item Name="Parse Text-&amp; UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable-Text.vi"/>
 		<Item Name="Parse Text-&amp; UnescapedVariable.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable.vi"/>
 		<Item Name="Parse Text-BeginSection-Text.vi" Type="VI" URL="../Public/Parse Text-BeginSection-Text.vi"/>
+		<Item Name="Parse Text-BeginSection.vi" Type="VI" URL="../Public/Parse Text-BeginSection.vi"/>
 		<Item Name="Parse Text-EscapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable-Text.vi"/>
 		<Item Name="Parse Text-EscapedVariable.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable.vi"/>
 		<Item Name="Parse Text-{} UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-{} UnescapedVariable-Text.vi"/>
