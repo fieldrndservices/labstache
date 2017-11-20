@@ -9,7 +9,9 @@
 </Property>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Assert Content is Correct.vi" Type="VI" URL="../Private/Assert Content is Correct.vi"/>
 		<Item Name="Assert Is Class.vi" Type="VI" URL="../Private/Assert Is Class.vi"/>
+		<Item Name="Assert Key is Correct.vi" Type="VI" URL="../Private/Assert Key is Correct.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
