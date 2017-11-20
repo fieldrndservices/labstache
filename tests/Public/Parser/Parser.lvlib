@@ -16,6 +16,8 @@
 		<Item Name="Parse BeginSection-Text.vi" Type="VI" URL="../Public/Parse BeginSection-Text.vi"/>
 		<Item Name="Parse BeginSection.vi" Type="VI" URL="../Public/Parse BeginSection.vi"/>
 		<Item Name="Parse Empty Tag.vi" Type="VI" URL="../Public/Parse Empty Tag.vi"/>
+		<Item Name="Parse EndSection-Text.vi" Type="VI" URL="../Public/Parse EndSection-Text.vi"/>
+		<Item Name="Parse EndSection.vi" Type="VI" URL="../Public/Parse EndSection.vi"/>
 		<Item Name="Parse EscapedVariable-Text.vi" Type="VI" URL="../Public/Parse EscapedVariable-Text.vi"/>
 		<Item Name="Parse EscapedVariable.vi" Type="VI" URL="../Public/Parse EscapedVariable.vi"/>
 		<Item Name="Parse Nothing.vi" Type="VI" URL="../Public/Parse Nothing.vi"/>
@@ -23,6 +25,8 @@
 		<Item Name="Parse Text-&amp; UnescapedVariable.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable.vi"/>
 		<Item Name="Parse Text-BeginSection-Text.vi" Type="VI" URL="../Public/Parse Text-BeginSection-Text.vi"/>
 		<Item Name="Parse Text-BeginSection.vi" Type="VI" URL="../Public/Parse Text-BeginSection.vi"/>
+		<Item Name="Parse Text-EndSection-Text.vi" Type="VI" URL="../Public/Parse Text-EndSection-Text.vi"/>
+		<Item Name="Parse Text-EndSection.vi" Type="VI" URL="../Public/Parse Text-EndSection.vi"/>
 		<Item Name="Parse Text-EscapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable-Text.vi"/>
 		<Item Name="Parse Text-EscapedVariable.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable.vi"/>
 		<Item Name="Parse Text-{} UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-{} UnescapedVariable-Text.vi"/>
