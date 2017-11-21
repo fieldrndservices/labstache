@@ -27,6 +27,11 @@
 		<Item Name="Parse Nothing.vi" Type="VI" URL="../Public/Parse Nothing.vi"/>
 		<Item Name="Parse Partial-Text.vi" Type="VI" URL="../Public/Parse Partial-Text.vi"/>
 		<Item Name="Parse Partial.vi" Type="VI" URL="../Public/Parse Partial.vi"/>
+		<Item Name="Parse Set Delimiter Example with More Whitespace.vi" Type="VI" URL="../Public/Parse Set Delimiter Example with More Whitespace.vi"/>
+		<Item Name="Parse Set Delimiter Example.vi" Type="VI" URL="../Public/Parse Set Delimiter Example.vi"/>
+		<Item Name="Parse Set Delimiter-Text.vi" Type="VI" URL="../Public/Parse Set Delimiter-Text.vi"/>
+		<Item Name="Parse Set Delimiter-Variable.vi" Type="VI" URL="../Public/Parse Set Delimiter-Variable.vi"/>
+		<Item Name="Parse Set Delimiter.vi" Type="VI" URL="../Public/Parse Set Delimiter.vi"/>
 		<Item Name="Parse Text-&amp; UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable-Text.vi"/>
 		<Item Name="Parse Text-&amp; UnescapedVariable.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable.vi"/>
 		<Item Name="Parse Text-BeginSection-Text.vi" Type="VI" URL="../Public/Parse Text-BeginSection-Text.vi"/>
