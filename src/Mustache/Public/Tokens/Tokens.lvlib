@@ -17,6 +17,7 @@
 		<Item Name="EscapedVariable.lvclass" Type="LVClass" URL="../Public/EscapedVariable/EscapedVariable.lvclass"/>
 		<Item Name="InvertedSection.lvclass" Type="LVClass" URL="../Public/InvertedSection/InvertedSection.lvclass"/>
 		<Item Name="Keyable.lvclass" Type="LVClass" URL="../Public/Keyable/Keyable.lvclass"/>
+		<Item Name="Partial.lvclass" Type="LVClass" URL="../Public/Partial/Partial.lvclass"/>
 		<Item Name="Text.lvclass" Type="LVClass" URL="../Public/Text/Text.lvclass"/>
 		<Item Name="UnescapedVariable.lvclass" Type="LVClass" URL="../Public/UnescapedVariable/UnescapedVariable.lvclass"/>
 	</Item>

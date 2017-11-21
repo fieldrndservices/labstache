@@ -25,6 +25,8 @@
 		<Item Name="Parse InvertedSection-Text.vi" Type="VI" URL="../Public/Parse InvertedSection-Text.vi"/>
 		<Item Name="Parse InvertedSection.vi" Type="VI" URL="../Public/Parse InvertedSection.vi"/>
 		<Item Name="Parse Nothing.vi" Type="VI" URL="../Public/Parse Nothing.vi"/>
+		<Item Name="Parse Partial-Text.vi" Type="VI" URL="../Public/Parse Partial-Text.vi"/>
+		<Item Name="Parse Partial.vi" Type="VI" URL="../Public/Parse Partial.vi"/>
 		<Item Name="Parse Text-&amp; UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable-Text.vi"/>
 		<Item Name="Parse Text-&amp; UnescapedVariable.vi" Type="VI" URL="../Public/Parse Text-&amp; UnescapedVariable.vi"/>
 		<Item Name="Parse Text-BeginSection-Text.vi" Type="VI" URL="../Public/Parse Text-BeginSection-Text.vi"/>
@@ -37,6 +39,8 @@
 		<Item Name="Parse Text-EscapedVariable.vi" Type="VI" URL="../Public/Parse Text-EscapedVariable.vi"/>
 		<Item Name="Parse Text-InvertedSection-Text.vi" Type="VI" URL="../Public/Parse Text-InvertedSection-Text.vi"/>
 		<Item Name="Parse Text-InvertedSection.vi" Type="VI" URL="../Public/Parse Text-InvertedSection.vi"/>
+		<Item Name="Parse Text-Partial-Text.vi" Type="VI" URL="../Public/Parse Text-Partial-Text.vi"/>
+		<Item Name="Parse Text-Partial.vi" Type="VI" URL="../Public/Parse Text-Partial.vi"/>
 		<Item Name="Parse Text-{} UnescapedVariable-Text.vi" Type="VI" URL="../Public/Parse Text-{} UnescapedVariable-Text.vi"/>
 		<Item Name="Parse Text-{} UnescapedVariable.vi" Type="VI" URL="../Public/Parse Text-{} UnescapedVariable.vi"/>
 		<Item Name="Parse Text.vi" Type="VI" URL="../Public/Parse Text.vi"/>
