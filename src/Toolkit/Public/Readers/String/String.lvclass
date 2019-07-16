@@ -31,7 +31,7 @@
 	</Item>
 	<Item Name="API" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Is Done.vi" Type="VI" URL="../Public/Is Done.vi">
+		<Item Name="Is Done.vi" Type="VI" URL="../API/Is Done.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#A!-1#%'5X2B&gt;(6T!!!,1!-!"%.P:'5!!""!-0````]'5W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!!J!)12%&lt;WZF!!"#1(!!(A!!,!V5&lt;W^M;WFU,GRW&lt;'FC$6*F972F=H-O&lt;(:M;7)/5X2S;7ZH,GRW9WRB=X-!!!J4&gt;(*J&lt;G=A4X6U!!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!1%"Q!"Y!!#Q.6'^P&lt;'NJ&gt;#ZM&gt;GRJ9AV3:7&amp;E:8*T,GRW&lt;'FC$F.U=GFO:SZM&gt;G.M98.T!!!*5X2S;7ZH)%FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -40,7 +40,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
 		</Item>
-		<Item Name="New.vi" Type="VI" URL="../Public/New.vi">
+		<Item Name="New.vi" Type="VI" URL="../API/New.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%"!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$Z!=!!?!!!M$62P&lt;WRL;81O&lt;(:M;7).5G6B:'6S=SZM&gt;GRJ9AZ4&gt;(*J&lt;G=O&lt;(:D&lt;'&amp;T=Q!!"F.U=GFO:Q!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!""!-0````]'5X2S;7ZH!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q)!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!#%!!!!!!"!!A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -49,7 +49,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
 		</Item>
-		<Item Name="Next.vi" Type="VI" URL="../Public/Next.vi">
+		<Item Name="Next.vi" Type="VI" URL="../API/Next.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;/!!!!#Q!-1#%'5X2B&gt;(6T!!!,1!-!"%.P:'5!!""!-0````]'5W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!#E!B"%2P&lt;G5!!!^!"1!*1WBB=G&amp;D&gt;'6S!%*!=!!?!!!M$62P&lt;WRL;81O&lt;(:M;7).5G6B:'6S=SZM&gt;GRJ9AZ4&gt;(*J&lt;G=O&lt;(:D&lt;'&amp;T=Q!!#F*F972F=C"0&gt;81!!!1!!!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!1%"Q!"Y!!#Q.6'^P&lt;'NJ&gt;#ZM&gt;GRJ9AV3:7&amp;E:8*T,GRW&lt;'FC$F.U=GFO:SZM&gt;G.M98.T!!!*5G6B:'6S)%FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!=!"Q!*!A!!?!!!$1A!!!E!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#3!!!!!!%!#A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
