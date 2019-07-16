@@ -30,7 +30,7 @@
 	</Item>
 	<Item Name="API" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Compile.vi" Type="VI" URL="../Public/Compile.vi">
+		<Item Name="Compile.vi" Type="VI" URL="../API/Compile.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%O!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$B!=!!?!!!A$62P&lt;WRL;81O&lt;(:M;7)11W^N='FM:8)O&lt;(:D&lt;'&amp;T=Q!!$%.P&lt;8"J&lt;'6S)%^V&gt;!!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!$:!=!!?!!!A$62P&lt;WRL;81O&lt;(:M;7)11W^N='FM:8)O&lt;(:D&lt;'&amp;T=Q!!#U.P&lt;8"J&lt;'6S)%FO!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -39,7 +39,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
 		</Item>
-		<Item Name="Create.vi" Type="VI" URL="../Public/Create.vi">
+		<Item Name="Create.vi" Type="VI" URL="../API/Create.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$H!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$2!=!!?!!!A$62P&lt;WRL;81O&lt;(:M;7)11W^N='FM:8)O&lt;(:D&lt;'&amp;T=Q!!#%.P&lt;8"J&lt;'6S!!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!1#!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!!!!!!!!1!(!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -48,7 +48,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
 		</Item>
-		<Item Name="Destroy.vi" Type="VI" URL="../Public/Destroy.vi">
+		<Item Name="Destroy.vi" Type="VI" URL="../API/Destroy.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$H!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!U1(!!(A!!)!V5&lt;W^M;WFU,GRW&lt;'FC%%.P&lt;8"J&lt;'6S,GRW9WRB=X-!!!B$&lt;WVQ;7RF=A!!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!9#!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!"!!!!!!!1!(!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
