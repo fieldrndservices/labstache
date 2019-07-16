@@ -24,7 +24,7 @@
 			<Item Name="LICENSE.txt" Type="Document" URL="../docs/LICENSE.txt"/>
 		</Item>
 		<Item Name="Tests.lvlib" Type="Library" URL="../tests/Tests.lvlib"/>
-		<Item Name="Toolkit.lvlib" Type="Library" URL="../src/Mustache/Toolkit.lvlib"/>
+		<Item Name="Toolkit.lvlib" Type="Library" URL="../src/Toolkit/Toolkit.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="4822C501820BB5A8313EAE4F8D4B529FArray Size(s)__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/_Caraya_internal_deps/4822C501820BB5A8313EAE4F8D4B529FArray Size(s)__ogtk.vi"/>
