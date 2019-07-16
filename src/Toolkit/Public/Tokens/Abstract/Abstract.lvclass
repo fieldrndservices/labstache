@@ -28,7 +28,4 @@
 	<Item Name="Abstract.ctl" Type="Class Private Data" URL="Abstract.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Public" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-	</Item>
 </LVClass>
