@@ -10,9 +10,9 @@
 
 </Property>
 	<Item Name="Abstract.lvclass" Type="LVClass" URL="../Abstract/Abstract.lvclass"/>
-	<Item Name="EscapedTag.lvclass" Type="LVClass" URL="../EscapedTag/EscapedTag.lvclass"/>
 	<Item Name="NonTerminal.lvclass" Type="LVClass" URL="../NonTerminal/NonTerminal.lvclass"/>
 	<Item Name="Root.lvclass" Type="LVClass" URL="../Root/Root.lvclass"/>
+	<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag/Tag.lvclass"/>
 	<Item Name="Terminal.lvclass" Type="LVClass" URL="../Terminal/Terminal.lvclass"/>
 	<Item Name="Text.lvclass" Type="LVClass" URL="../Text/Text.lvclass"/>
 </Library>
