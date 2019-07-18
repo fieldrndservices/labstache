@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="Compiler.lvclass" Type="LVClass" URL="../Compiler/Compiler.lvclass"/>
+	<Item Name="Nodes.lvlib" Type="Library" URL="../Nodes/Nodes.lvlib"/>
 	<Item Name="Parser.lvclass" Type="LVClass" URL="../Parser/Parser.lvclass"/>
 	<Item Name="Readers.lvlib" Type="Library" URL="../Readers/Readers.lvlib"/>
 	<Item Name="Render.lvclass" Type="LVClass" URL="../Render/Render.lvclass"/>
