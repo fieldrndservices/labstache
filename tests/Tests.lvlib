@@ -15,5 +15,6 @@
 	</Item>
 	<Item Name="Parser.lvlib" Type="Library" URL="../Parser/Parser.lvlib"/>
 	<Item Name="Readers.lvlib" Type="Library" URL="../Readers/Readers.lvlib"/>
+	<Item Name="Render.lvlib" Type="Library" URL="../Render/Render.lvlib"/>
 	<Item Name="Run All.vi" Type="VI" URL="../Run All.vi"/>
 </Library>

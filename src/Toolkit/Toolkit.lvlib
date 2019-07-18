@@ -10,5 +10,7 @@
 	<Item Name="Compiler.lvclass" Type="LVClass" URL="../Compiler/Compiler.lvclass"/>
 	<Item Name="Parser.lvclass" Type="LVClass" URL="../Parser/Parser.lvclass"/>
 	<Item Name="Readers.lvlib" Type="Library" URL="../Readers/Readers.lvlib"/>
+	<Item Name="Render.lvclass" Type="LVClass" URL="../Render/Render.lvclass"/>
 	<Item Name="Tokens.lvlib" Type="Library" URL="../Tokens/Tokens.lvlib"/>
+	<Item Name="Writers.lvlib" Type="Library" URL="../Writers/Writers.lvlib"/>
 </Library>
