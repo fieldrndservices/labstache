@@ -20,11 +20,11 @@
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
 		<Item Name="Nodes.lvlib" Type="Library" URL="../Low-Level/Nodes/Nodes.lvlib"/>
 		<Item Name="Parse.vi" Type="VI" URL="../Low-Level/Parse.vi"/>
+		<Item Name="Readers.lvlib" Type="Library" URL="../Low-Level/Readers/Readers.lvlib"/>
 		<Item Name="Render.vi" Type="VI" URL="../Low-Level/Render.vi"/>
 		<Item Name="Tokens.lvlib" Type="Library" URL="../Low-Level/Tokens/Tokens.lvlib"/>
+		<Item Name="Writers.lvlib" Type="Library" URL="../Low-Level/Writers/Writers.lvlib"/>
 	</Item>
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
-	<Item Name="Readers.lvlib" Type="Library" URL="../Readers/Readers.lvlib"/>
-	<Item Name="Writers.lvlib" Type="Library" URL="../Writers/Writers.lvlib"/>
 </Library>
