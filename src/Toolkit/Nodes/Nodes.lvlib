@@ -11,8 +11,9 @@
 </Property>
 	<Item Name="Abstract.lvclass" Type="LVClass" URL="../Abstract/Abstract.lvclass"/>
 	<Item Name="NonTerminal.lvclass" Type="LVClass" URL="../NonTerminal/NonTerminal.lvclass"/>
-	<Item Name="Root.lvclass" Type="LVClass" URL="../Root/Root.lvclass"/>
+	<Item Name="Section.lvclass" Type="LVClass" URL="../Section/Section.lvclass"/>
 	<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag/Tag.lvclass"/>
+	<Item Name="Template.lvclass" Type="LVClass" URL="../Root/Template.lvclass"/>
 	<Item Name="Terminal.lvclass" Type="LVClass" URL="../Terminal/Terminal.lvclass"/>
 	<Item Name="Text.lvclass" Type="LVClass" URL="../Text/Text.lvclass"/>
 </Library>
