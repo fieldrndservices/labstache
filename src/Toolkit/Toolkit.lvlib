@@ -10,19 +10,21 @@
 	<Item Name="Low-Level" Type="Folder">
 		<Item Name="Support" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Lex Reader.vi" Type="VI" URL="../Low-Level/Support/Lex Reader.vi"/>
+			<Item Name="Lex String.vi" Type="VI" URL="../Low-Level/Support/Lex String.vi"/>
 			<Item Name="Render to String.vi" Type="VI" URL="../Low-Level/Support/Render to String.vi"/>
 			<Item Name="Render to Writer.vi" Type="VI" URL="../Low-Level/Support/Render to Writer.vi"/>
 			<Item Name="Token Key.vi" Type="VI" URL="../Low-Level/Support/Token Key.vi"/>
 		</Item>
-		<Item Name="Compile.vi" Type="VI" URL="../Low-Level/Compile.vi"/>
-		<Item Name="Nodes.lvlib" Type="Library" URL="../Nodes/Nodes.lvlib"/>
+		<Item Name="Lex.vi" Type="VI" URL="../Low-Level/Lex.vi"/>
+		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
+		<Item Name="Nodes.lvlib" Type="Library" URL="../Low-Level/Nodes/Nodes.lvlib"/>
 		<Item Name="Parse.vi" Type="VI" URL="../Low-Level/Parse.vi"/>
-		<Item Name="Parser.lvclass" Type="LVClass" URL="../Parser/Parser.lvclass"/>
 		<Item Name="Render.vi" Type="VI" URL="../Low-Level/Render.vi"/>
-		<Item Name="Tokens.lvlib" Type="Library" URL="../Tokens/Tokens.lvlib"/>
+		<Item Name="Tokens.lvlib" Type="Library" URL="../Low-Level/Tokens/Tokens.lvlib"/>
 	</Item>
+	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
-	<Item Name="Execute.vi" Type="VI" URL="../Execute.vi"/>
 	<Item Name="Readers.lvlib" Type="Library" URL="../Readers/Readers.lvlib"/>
 	<Item Name="Writers.lvlib" Type="Library" URL="../Writers/Writers.lvlib"/>
 </Library>
