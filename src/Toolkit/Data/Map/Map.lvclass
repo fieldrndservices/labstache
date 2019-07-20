@@ -56,7 +56,7 @@
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074266624</Property>
 		</Item>
 		<Item Name="From String Array.vi" Type="VI" URL="../Support/From String Array.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#E!!!!"Q!-1$$`````!UNF?1!/1$$`````"6:B&lt;(6F!"J!5!!#!!!!!1Z,:8EN6G&amp;M&gt;75A5'&amp;J=A!!%E"!!!(`````!!)%2'&amp;U91!!"!!!!$2!=!!?!!!G$62P&lt;WRL;81O&lt;(:M;7)+2'&amp;U93ZM&gt;GRJ9AN.98!O&lt;(:D&lt;'&amp;T=Q!!!UVB=!!?!0!!!Q!$!!1!"1-!!"E!!B!!!!!!!!!!#1!!!!!"!!9!!!!!</Property>

@@ -12,6 +12,9 @@
 	<Item Name="Render Escaped Tag-Text.vi" Type="VI" URL="../Render Escaped Tag-Text.vi"/>
 	<Item Name="Render Escaped Tag.vi" Type="VI" URL="../Render Escaped Tag.vi"/>
 	<Item Name="Render False Section.vi" Type="VI" URL="../Render False Section.vi"/>
+	<Item Name="Render Non-Empty List Section.vi" Type="VI" URL="../Render Non-Empty List Section.vi"/>
+	<Item Name="Render Non-False Section.vi" Type="VI" URL="../Render Non-False Section.vi"/>
+	<Item Name="Render Non-False Value Section.vi" Type="VI" URL="../Render Non-False Value Section.vi"/>
 	<Item Name="Render True Section.vi" Type="VI" URL="../Render True Section.vi"/>
 	<Item Name="Render Unescaped Tag-Text.vi" Type="VI" URL="../Render Unescaped Tag-Text.vi"/>
 	<Item Name="Render Unescaped Tag.vi" Type="VI" URL="../Render Unescaped Tag.vi"/>
