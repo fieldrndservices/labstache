@@ -10,6 +10,7 @@
 	<Item Name="Low-Level" Type="Folder">
 		<Item Name="Support" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Context.lvclass" Type="LVClass" URL="../Low-Level/Support/Context/Context.lvclass"/>
 			<Item Name="Lex Reader.vi" Type="VI" URL="../Low-Level/Support/Lex Reader.vi"/>
 			<Item Name="Lex String.vi" Type="VI" URL="../Low-Level/Support/Lex String.vi"/>
 			<Item Name="Render to String.vi" Type="VI" URL="../Low-Level/Support/Render to String.vi"/>

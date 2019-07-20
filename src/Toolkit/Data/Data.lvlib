@@ -12,7 +12,6 @@
 	<Item Name="Abstract.lvclass" Type="LVClass" URL="../Abstract/Abstract.lvclass"/>
 	<Item Name="Array.lvclass" Type="LVClass" URL="../Array/Array.lvclass"/>
 	<Item Name="Boolean.lvclass" Type="LVClass" URL="../Boolean/Boolean.lvclass"/>
-	<Item Name="Context.lvclass" Type="LVClass" URL="../Context/Context.lvclass"/>
 	<Item Name="Function.lvclass" Type="LVClass" URL="../Function/Function.lvclass"/>
 	<Item Name="Map.lvclass" Type="LVClass" URL="../Map/Map.lvclass"/>
 	<Item Name="Null.lvclass" Type="LVClass" URL="../Null/Null.lvclass"/>
