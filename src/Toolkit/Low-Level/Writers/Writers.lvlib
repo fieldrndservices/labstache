@@ -10,5 +10,5 @@
 
 </Property>
 	<Item Name="Abstract.lvclass" Type="LVClass" URL="../Abstract/Abstract.lvclass"/>
-	<Item Name="String.lvclass" Type="LVClass" URL="../String.lvclass"/>
+	<Item Name="String.lvclass" Type="LVClass" URL="../String/String.lvclass"/>
 </Library>
