@@ -12,6 +12,7 @@
 	<Item Name="Abstract.lvclass" Type="LVClass" URL="../Abstract/Abstract.lvclass"/>
 	<Item Name="BeginSection.lvclass" Type="LVClass" URL="../BeginSection/BeginSection.lvclass"/>
 	<Item Name="Comment.lvclass" Type="LVClass" URL="../Comment/Comment.lvclass"/>
+	<Item Name="Contentable.lvclass" Type="LVClass" URL="../Contentable/Contentable.lvclass"/>
 	<Item Name="EndSection.lvclass" Type="LVClass" URL="../EndSection/EndSection.lvclass"/>
 	<Item Name="EscapedVariable.lvclass" Type="LVClass" URL="../EscapedVariable/EscapedVariable.lvclass"/>
 	<Item Name="InvertedSection.lvclass" Type="LVClass" URL="../InvertedSection/InvertedSection.lvclass"/>
