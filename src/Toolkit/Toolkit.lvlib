@@ -8,11 +8,14 @@
 
 </Property>
 	<Item Name="Low-Level" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Support" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Item Name="Context.lvclass" Type="LVClass" URL="../Low-Level/Support/Context/Context.lvclass"/>
 			<Item Name="Lex Reader.vi" Type="VI" URL="../Low-Level/Support/Lex Reader.vi"/>
 			<Item Name="Lex String.vi" Type="VI" URL="../Low-Level/Support/Lex String.vi"/>
+			<Item Name="Parse Token.vi" Type="VI" URL="../Low-Level/Support/Parse Token.vi"/>
+			<Item Name="Parse Tokens.vi" Type="VI" URL="../Low-Level/Support/Parse Tokens.vi"/>
 			<Item Name="Render Children.vi" Type="VI" URL="../Low-Level/Support/Render Children.vi"/>
 			<Item Name="Render Comment.vi" Type="VI" URL="../Low-Level/Support/Render Comment.vi"/>
 			<Item Name="Render Node.vi" Type="VI" URL="../Low-Level/Support/Render Node.vi"/>
@@ -26,6 +29,7 @@
 		</Item>
 		<Item Name="Lex.vi" Type="VI" URL="../Low-Level/Lex.vi"/>
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
+		<Item Name="Loaders.lvlib" Type="Library" URL="../Low-Level/Loaders/Loaders.lvlib"/>
 		<Item Name="Nodes.lvlib" Type="Library" URL="../Low-Level/Nodes/Nodes.lvlib"/>
 		<Item Name="Parse.vi" Type="VI" URL="../Low-Level/Parse.vi"/>
 		<Item Name="Readers.lvlib" Type="Library" URL="../Low-Level/Readers/Readers.lvlib"/>

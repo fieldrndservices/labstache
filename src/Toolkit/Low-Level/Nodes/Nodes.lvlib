@@ -12,6 +12,7 @@
 	<Item Name="Abstract.lvclass" Type="LVClass" URL="../Abstract/Abstract.lvclass"/>
 	<Item Name="Comment.lvclass" Type="LVClass" URL="../Comment/Comment.lvclass"/>
 	<Item Name="NonTerminal.lvclass" Type="LVClass" URL="../NonTerminal/NonTerminal.lvclass"/>
+	<Item Name="Partial.lvclass" Type="LVClass" URL="../Partial/Partial.lvclass"/>
 	<Item Name="Root.lvclass" Type="LVClass" URL="../Root/Root.lvclass"/>
 	<Item Name="Section.lvclass" Type="LVClass" URL="../Section/Section.lvclass"/>
 	<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag/Tag.lvclass"/>

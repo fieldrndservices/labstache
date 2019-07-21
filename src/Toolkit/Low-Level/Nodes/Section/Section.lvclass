@@ -57,20 +57,6 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1107820544</Property>
 		</Item>
 	</Item>
-	<Item Name="Parent" Type="Property Definition">
-		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Parent</Property>
-		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Parent</Property>
-		<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-		<Item Name="Read Parent.vi" Type="VI" URL="../Read Parent.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$Z!=!!?!!!M$62P&lt;WRL;81O&lt;(:M;7),4G^E:8-O&lt;(:M;7)117*T&gt;(*B9X1O&lt;(:D&lt;'&amp;T=Q!!"F"B=G6O&gt;!!!1%"Q!"Y!!#M.6'^P&lt;'NJ&gt;#ZM&gt;GRJ9AN/&lt;W2F=SZM&gt;GRJ9A^4:7.U;7^O,GRW9WRB=X-!#V.F9X2J&lt;WYA4X6U!":!5!!$!!!!!1!##%6S=G^S)%FO!!"!1(!!(A!!+QV5&lt;W^M;WFU,GRW&lt;'FC#UZP:'6T,GRW&lt;'FC$V.F9X2J&lt;WYO&lt;(:D&lt;'&amp;T=Q!+5W6D&gt;'FP&lt;C"*&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
-		</Item>
-	</Item>
 	<Item Name="Source" Type="Property Definition">
 		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Source</Property>
 		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Source</Property>
@@ -82,7 +68,7 @@
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">34078736</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">41943056</Property>
 		</Item>
 	</Item>
 	<Item Name="New.vi" Type="VI" URL="../New.vi">
