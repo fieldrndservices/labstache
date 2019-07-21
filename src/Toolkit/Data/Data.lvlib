@@ -15,5 +15,6 @@
 	<Item Name="Function.lvclass" Type="LVClass" URL="../Function/Function.lvclass"/>
 	<Item Name="Map.lvclass" Type="LVClass" URL="../Map/Map.lvclass"/>
 	<Item Name="Null.lvclass" Type="LVClass" URL="../Null/Null.lvclass"/>
+	<Item Name="Path.lvclass" Type="LVClass" URL="../Path/Path.lvclass"/>
 	<Item Name="String.lvclass" Type="LVClass" URL="../String/String.lvclass"/>
 </Library>
