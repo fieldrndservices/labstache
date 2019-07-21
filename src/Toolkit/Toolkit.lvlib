@@ -13,6 +13,13 @@
 			<Item Name="Context.lvclass" Type="LVClass" URL="../Low-Level/Support/Context/Context.lvclass"/>
 			<Item Name="Lex Reader.vi" Type="VI" URL="../Low-Level/Support/Lex Reader.vi"/>
 			<Item Name="Lex String.vi" Type="VI" URL="../Low-Level/Support/Lex String.vi"/>
+			<Item Name="Render Children.vi" Type="VI" URL="../Low-Level/Support/Render Children.vi"/>
+			<Item Name="Render Comment.vi" Type="VI" URL="../Low-Level/Support/Render Comment.vi"/>
+			<Item Name="Render Node.vi" Type="VI" URL="../Low-Level/Support/Render Node.vi"/>
+			<Item Name="Render Section Children.vi" Type="VI" URL="../Low-Level/Support/Render Section Children.vi"/>
+			<Item Name="Render Section.vi" Type="VI" URL="../Low-Level/Support/Render Section.vi"/>
+			<Item Name="Render Tag.vi" Type="VI" URL="../Low-Level/Support/Render Tag.vi"/>
+			<Item Name="Render Text.vi" Type="VI" URL="../Low-Level/Support/Render Text.vi"/>
 			<Item Name="Render to String.vi" Type="VI" URL="../Low-Level/Support/Render to String.vi"/>
 			<Item Name="Render to Writer.vi" Type="VI" URL="../Low-Level/Support/Render to Writer.vi"/>
 			<Item Name="Token Key.vi" Type="VI" URL="../Low-Level/Support/Token Key.vi"/>
