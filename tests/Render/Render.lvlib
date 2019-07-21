@@ -19,6 +19,7 @@
 	<Item Name="Render Non-False Section.vi" Type="VI" URL="../Render Non-False Section.vi"/>
 	<Item Name="Render Non-False Value Section.vi" Type="VI" URL="../Render Non-False Value Section.vi"/>
 	<Item Name="Render Section-Text.vi" Type="VI" URL="../Render Section-Text.vi"/>
+	<Item Name="Render String Partial.vi" Type="VI" URL="../Render String Partial.vi"/>
 	<Item Name="Render Text-Comment-Text.vi" Type="VI" URL="../Render Text-Comment-Text.vi"/>
 	<Item Name="Render Text-Comment.vi" Type="VI" URL="../Render Text-Comment.vi"/>
 	<Item Name="Render Text-Section-Text.vi" Type="VI" URL="../Render Text-Section-Text.vi"/>

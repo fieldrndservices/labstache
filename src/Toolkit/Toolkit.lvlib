@@ -26,6 +26,7 @@
 			<Item Name="Render to String.vi" Type="VI" URL="../Low-Level/Support/Render to String.vi"/>
 			<Item Name="Render to Writer.vi" Type="VI" URL="../Low-Level/Support/Render to Writer.vi"/>
 			<Item Name="Token Key.vi" Type="VI" URL="../Low-Level/Support/Token Key.vi"/>
+			<Item Name="Render Partial.vi" Type="VI" URL="../Low-Level/Support/Render Partial.vi"/>
 		</Item>
 		<Item Name="Lex.vi" Type="VI" URL="../Low-Level/Lex.vi"/>
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
