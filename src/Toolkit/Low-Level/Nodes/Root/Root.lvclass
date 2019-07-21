@@ -27,20 +27,6 @@
 	<Item Name="Root.ctl" Type="Class Private Data" URL="Root.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Source" Type="Property Definition">
-		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Source</Property>
-		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Source</Property>
-		<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-		<Item Name="Read Source.vi" Type="VI" URL="../Read Source.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Z!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!""!-0````]'5W^V=G.F!!!]1(!!(A!!+!V5&lt;W^M;WFU,GRW&lt;'FC#UZP:'6T,GRW&lt;'FC$&amp;*P&lt;X1O&lt;(:D&lt;'&amp;T=Q!!#%ZP:'5A4X6U!!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!/E"Q!"Y!!#A.6'^P&lt;'NJ&gt;#ZM&gt;GRJ9AN/&lt;W2F=SZM&gt;GRJ9AR3&lt;W^U,GRW9WRB=X-!!!&gt;/&lt;W2F)%FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#1!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">34078736</Property>
-		</Item>
-	</Item>
 	<Item Name="New.vi" Type="VI" URL="../New.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"3!!!!!A!Y1(!!(A!!+!V5&lt;W^M;WFU,GRW&lt;'FC#UZP:'6T,GRW&lt;'FC$&amp;*P&lt;X1O&lt;(:D&lt;'&amp;T=Q!!"&amp;*P&lt;X1!!")!]!!"!!!#!!!!!!!*!!!!!!%!!1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
