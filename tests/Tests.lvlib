@@ -14,6 +14,7 @@
 		<Item Name="Assert Key is Correct.vi" Type="VI" URL="../Support/Assert Key is Correct.vi"/>
 	</Item>
 	<Item Name="Lexer.lvlib" Type="Library" URL="../Lexer/Lexer.lvlib"/>
+	<Item Name="Nodes.lvlib" Type="Library" URL="../Nodes/Nodes.lvlib"/>
 	<Item Name="Readers.lvlib" Type="Library" URL="../Readers/Readers.lvlib"/>
 	<Item Name="Render.lvlib" Type="Library" URL="../Render/Render.lvlib"/>
 	<Item Name="Run All.vi" Type="VI" URL="../Run All.vi"/>
