@@ -4,7 +4,7 @@
 
 ## What is Mustache for LabVIEW?
 
-Mustache-LV is a pure LabVIEW library for working with logic-free [mustache](https://mustache.github.io/) templates. Logic-less Mustache templates are a simple template design that works great with any text-based file, especially formats that use a markup language, i.e. HTML. This library enables [LabVIEW](https://www.ni.com/labview) developers to interact with and use Mustache templates.
+Mustache for LabVIEW is a pure LabVIEW library for working with logic-free [mustache](https://mustache.github.io/) templates. Logic-less Mustache templates are a simple design that works great with any text-based file, especially formats that use a markup language, such as HTML. This library enables [LabVIEW](https://www.ni.com/labview) developers to interact with and use Mustache templates.
 
 ## Installation
 
