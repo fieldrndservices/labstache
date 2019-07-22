@@ -28,6 +28,9 @@
 			<Item Name="Token Key.vi" Type="VI" URL="../Low-Level/Support/Token Key.vi"/>
 			<Item Name="Render Partial.vi" Type="VI" URL="../Low-Level/Support/Render Partial.vi"/>
 		</Item>
+		<Item Name="Type Definitions" Type="Folder">
+			<Item Name="Delimiters.ctl" Type="VI" URL="../Low-Level/Type Definitions/Delimiters.ctl"/>
+		</Item>
 		<Item Name="Lex.vi" Type="VI" URL="../Low-Level/Lex.vi"/>
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
 		<Item Name="Loaders.lvlib" Type="Library" URL="../Low-Level/Loaders/Loaders.lvlib"/>

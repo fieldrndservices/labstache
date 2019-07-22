@@ -18,6 +18,7 @@
 	<Item Name="InvertedSection.lvclass" Type="LVClass" URL="../InvertedSection/InvertedSection.lvclass"/>
 	<Item Name="Keyable.lvclass" Type="LVClass" URL="../Keyable/Keyable.lvclass"/>
 	<Item Name="Partial.lvclass" Type="LVClass" URL="../Partial/Partial.lvclass"/>
+	<Item Name="SetDelimiter.lvclass" Type="LVClass" URL="../SetDelimiter/SetDelimiter.lvclass"/>
 	<Item Name="Text.lvclass" Type="LVClass" URL="../Text/Text.lvclass"/>
 	<Item Name="UnescapedVariable.lvclass" Type="LVClass" URL="../UnescapedVariable/UnescapedVariable.lvclass"/>
 </Library>
