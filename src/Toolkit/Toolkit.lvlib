@@ -43,4 +43,7 @@
 	</Item>
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
+	<Item Name="Render Delimiter.vi" Type="VI" URL="../Low-Level/Support/Render Delimiter.vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>
