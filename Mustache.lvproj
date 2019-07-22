@@ -27,7 +27,9 @@
 			<Item Name="LICENSE.txt" Type="Document" URL="../docs/LICENSE.txt"/>
 			<Item Name="README.md" Type="Document" URL="../README.md"/>
 		</Item>
-		<Item Name="Examples" Type="Folder"/>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Simple.vi" Type="VI" URL="../src/Examples/Simple.vi"/>
+		</Item>
 		<Item Name="Tests.lvlib" Type="Library" URL="../tests/Tests.lvlib"/>
 		<Item Name="Toolkit.lvlib" Type="Library" URL="../src/Toolkit/Toolkit.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
