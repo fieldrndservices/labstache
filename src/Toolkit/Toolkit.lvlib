@@ -27,6 +27,7 @@
 			<Item Name="Render to Writer.vi" Type="VI" URL="../Low-Level/Support/Render to Writer.vi"/>
 			<Item Name="Token Key.vi" Type="VI" URL="../Low-Level/Support/Token Key.vi"/>
 			<Item Name="Render Partial.vi" Type="VI" URL="../Low-Level/Support/Render Partial.vi"/>
+			<Item Name="Render Delimiter.vi" Type="VI" URL="../Low-Level/Support/Render Delimiter.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Delimiters.ctl" Type="VI" URL="../Low-Level/Type Definitions/Delimiters.ctl"/>
@@ -43,7 +44,4 @@
 	</Item>
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
-	<Item Name="Render Delimiter.vi" Type="VI" URL="../Low-Level/Support/Render Delimiter.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-	</Item>
 </Library>
