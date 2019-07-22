@@ -11,6 +11,7 @@
 </Property>
 	<Item Name="Render Comment-Text.vi" Type="VI" URL="../Render Comment-Text.vi"/>
 	<Item Name="Render Comment.vi" Type="VI" URL="../Render Comment.vi"/>
+	<Item Name="Render Delimiter.vi" Type="VI" URL="../Render Delimiter.vi"/>
 	<Item Name="Render Escaped Tag-Text.vi" Type="VI" URL="../Render Escaped Tag-Text.vi"/>
 	<Item Name="Render Escaped Tag.vi" Type="VI" URL="../Render Escaped Tag.vi"/>
 	<Item Name="Render False Section.vi" Type="VI" URL="../Render False Section.vi"/>
