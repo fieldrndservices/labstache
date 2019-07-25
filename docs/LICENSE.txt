@@ -1,4 +1,4 @@
-Mustache: A LabVIEW Toolkit for Rendering Logic-Less Mustache Templates
+Labstache: A LabVIEW Toolkit for Rendering Logic-Less Mustache Templates
 
                               The MIT License
 

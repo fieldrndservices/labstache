@@ -1,14 +1,14 @@
 [OPTIONS]
 Auto Index=Yes
 Compatibility=1.1 or later
-Compiled file=..\..\builds\Help\Mustache.chm
+Compiled file=..\..\builds\Help\Labstache.chm
 Contents file=Table of Contents.hhc
 Default topic=pages\Preface.html
 Display compile progress=No
-Error log file=..\..\builds\Help\Mustache.log
+Error log file=..\..\builds\Help\Labstache.log
 Index file=Index.hhk
 Language=0x409 English (United States)
-Title=Mustache
+Title=Labstache
 
 [INFOTYPES]
 
