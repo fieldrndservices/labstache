@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file, which is wr
 - Low-level Lexer class
 - Tests
 - Examples
+- VI documentation
 - HTML Help documentation
 - Scripts for building and packaging toolkit
 - License file
