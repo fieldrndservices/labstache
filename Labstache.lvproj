@@ -554,7 +554,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">../builds/Toolkit</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{61C137C2-EF1A-43FC-968A-9BE44F5FC6F9}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Toolkit</Property>
@@ -571,7 +571,7 @@
 				<Property Name="Destination[3].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[3].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="DestinationCount" Type="Int">4</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D22A2B15-BC4D-41AF-8721-D808710FAA10}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{38EF4903-3EDA-43BE-808A-6E3BD78D1E69}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Toolkit.lvlib</Property>
