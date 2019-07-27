@@ -492,7 +492,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">../builds/Examples</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E58C4568-1A4C-4802-82A7-8983AFD63A2D}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Examples</Property>
@@ -554,24 +554,20 @@
 				<Property Name="Bld_localDestDir" Type="Path">../builds/Toolkit</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{61C137C2-EF1A-43FC-968A-9BE44F5FC6F9}</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">13</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Toolkit</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/Toolkit/Support</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
-				<Property Name="Destination[2].destName" Type="Str">Low-Level</Property>
-				<Property Name="Destination[2].path" Type="Path">../builds/Toolkit/Low-Level</Property>
+				<Property Name="Destination[2].destName" Type="Str">Documentation</Property>
+				<Property Name="Destination[2].path" Type="Path">../builds/Toolkit</Property>
 				<Property Name="Destination[2].path.type" Type="Str">relativeToProject</Property>
-				<Property Name="Destination[2].preserveHierarchy" Type="Bool">true</Property>
-				<Property Name="Destination[3].destName" Type="Str">Data</Property>
-				<Property Name="Destination[3].path" Type="Path">../builds/Toolkit/Data</Property>
-				<Property Name="Destination[3].path.type" Type="Str">relativeToProject</Property>
-				<Property Name="Destination[3].preserveHierarchy" Type="Bool">true</Property>
-				<Property Name="DestinationCount" Type="Int">4</Property>
-				<Property Name="Source[0].itemID" Type="Str">{38EF4903-3EDA-43BE-808A-6E3BD78D1E69}</Property>
+				<Property Name="DestinationCount" Type="Int">3</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E12A8198-E9FE-4871-89CD-46079CAB7B9C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Toolkit.lvlib</Property>
@@ -579,47 +575,40 @@
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="Source[10].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[10].itemID" Type="Ref">/My Computer/Documentation/LICENSE.txt</Property>
-				<Property Name="Source[10].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[10].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data.lvlib/Boolean.lvclass/From.vi</Property>
+				<Property Name="Source[10].type" Type="Str">VI</Property>
 				<Property Name="Source[11].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[11].itemID" Type="Ref">/My Computer/Documentation/README.md</Property>
-				<Property Name="Source[11].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[11].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data.lvlib/Function.lvclass/Execute.vi</Property>
+				<Property Name="Source[11].type" Type="Str">VI</Property>
 				<Property Name="Source[12].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[12].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data/Types.lvlib/Array.lvclass/From.vi</Property>
+				<Property Name="Source[12].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data.lvlib/Map.lvclass/Find.vi</Property>
 				<Property Name="Source[12].type" Type="Str">VI</Property>
 				<Property Name="Source[13].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[13].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data/Types.lvlib/Boolean.lvclass/From.vi</Property>
+				<Property Name="Source[13].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data.lvlib/Map.lvclass/From.vi</Property>
 				<Property Name="Source[13].type" Type="Str">VI</Property>
 				<Property Name="Source[14].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[14].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data/Types.lvlib/Function.lvclass/Execute.vi</Property>
+				<Property Name="Source[14].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data.lvlib/Path.lvclass/From.vi</Property>
 				<Property Name="Source[14].type" Type="Str">VI</Property>
 				<Property Name="Source[15].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[15].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data/Types.lvlib/Map.lvclass/Find.vi</Property>
+				<Property Name="Source[15].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data.lvlib/String.lvclass/From.vi</Property>
 				<Property Name="Source[15].type" Type="Str">VI</Property>
 				<Property Name="Source[16].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[16].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data/Types.lvlib/Map.lvclass/From.vi</Property>
-				<Property Name="Source[16].type" Type="Str">VI</Property>
-				<Property Name="Source[17].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[17].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data/Types.lvlib/Path.lvclass/From.vi</Property>
-				<Property Name="Source[17].type" Type="Str">VI</Property>
-				<Property Name="Source[18].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[18].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data/Types.lvlib/String.lvclass/From.vi</Property>
-				<Property Name="Source[18].type" Type="Str">VI</Property>
-				<Property Name="Source[19].Container.applyDestination" Type="Bool">true</Property>
-				<Property Name="Source[19].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[19].destinationIndex" Type="Int">3</Property>
-				<Property Name="Source[19].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data</Property>
-				<Property Name="Source[19].type" Type="Str">Container</Property>
+				<Property Name="Source[16].itemID" Type="Ref">/My Computer/Scripts.lvlib</Property>
+				<Property Name="Source[16].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[16].sourceInclusion" Type="Str">Exclude</Property>
+				<Property Name="Source[16].type" Type="Str">Library</Property>
+				<Property Name="Source[17].Container.applyDestination" Type="Bool">true</Property>
+				<Property Name="Source[17].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[17].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[17].destinationIndex" Type="Int">2</Property>
+				<Property Name="Source[17].itemID" Type="Ref">/My Computer/Documentation</Property>
+				<Property Name="Source[17].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[17].type" Type="Str">Container</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Tests.lvlib</Property>
 				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Exclude</Property>
 				<Property Name="Source[2].type" Type="Str">Library</Property>
-				<Property Name="Source[20].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[20].itemID" Type="Ref">/My Computer/Scripts.lvlib</Property>
-				<Property Name="Source[20].Library.allowMissingMembers" Type="Bool">true</Property>
-				<Property Name="Source[20].sourceInclusion" Type="Str">Exclude</Property>
-				<Property Name="Source[20].type" Type="Str">Library</Property>
 				<Property Name="Source[3].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[3].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
@@ -634,25 +623,19 @@
 				<Property Name="Source[4].type" Type="Str">Container</Property>
 				<Property Name="Source[5].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[5].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[5].destinationIndex" Type="Int">2</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Low-Level</Property>
+				<Property Name="Source[5].destinationIndex" Type="Int">1</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Support</Property>
 				<Property Name="Source[5].type" Type="Str">Container</Property>
-				<Property Name="Source[6].Container.applyDestination" Type="Bool">true</Property>
-				<Property Name="Source[6].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[6].destinationIndex" Type="Int">1</Property>
-				<Property Name="Source[6].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Support</Property>
-				<Property Name="Source[6].type" Type="Str">Container</Property>
+				<Property Name="Source[6].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[6].itemID" Type="Ref">/My Computer/Documentation/CHANGELOG.md</Property>
 				<Property Name="Source[7].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Compile.vi</Property>
-				<Property Name="Source[7].type" Type="Str">VI</Property>
-				<Property Name="Source[8].destinationIndex" Type="Int">3</Property>
-				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data/Types.lvlib</Property>
-				<Property Name="Source[8].Library.allowMissingMembers" Type="Bool">true</Property>
-				<Property Name="Source[8].type" Type="Str">Library</Property>
+				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Documentation/LICENSE.txt</Property>
+				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Documentation/README.md</Property>
 				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Documentation/CHANGELOG.md</Property>
-				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="SourceCount" Type="Int">21</Property>
+				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Toolkit.lvlib/Data.lvlib/Array.lvclass/From.vi</Property>
+				<Property Name="Source[9].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">18</Property>
 			</Item>
 		</Item>
 	</Item>
