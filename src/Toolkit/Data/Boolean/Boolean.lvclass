@@ -27,6 +27,20 @@
 	<Item Name="Boolean.ctl" Type="Class Private Data" URL="Boolean.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Type" Type="Property Definition">
+		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Type</Property>
+		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Type</Property>
+		<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
+		<Item Name="Read Type.vi" Type="VI" URL="../Read Type.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'@!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!(!!]&gt;FC*J!!!!!$$62P&lt;WRL;81O&lt;(:M;7)+2'&amp;U93ZM&gt;GRJ9AF5?8"F=SZD&gt;'Q!25!7!!A&amp;18*S98E(1G^P&lt;'6B&lt;AB'&gt;7ZD&gt;'FP&lt;A..98!%4H6M&lt;!21982I"F.U=GFO:Q&gt;6&lt;GNO&lt;X&gt;O!!25?8"F!!!_1(!!(A!!+AV5&lt;W^M;WFU,GRW&lt;'FC#E2B&gt;'%O&lt;(:M;7)01G^P&lt;'6B&lt;CZM&gt;G.M98.T!!!*2'&amp;U&gt;7UA4X6U!":!5!!$!!!!!1!##%6S=G^S)%FO!!!_1(!!(A!!+AV5&lt;W^M;WFU,GRW&lt;'FC#E2B&gt;'%O&lt;(:M;7)01G^P&lt;'6B&lt;CZM&gt;G.M98.T!!!)2'&amp;U&gt;7UA37Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+		</Item>
+	</Item>
 	<Item Name="Value" Type="Property Definition">
 		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Value</Property>
 		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Value</Property>
