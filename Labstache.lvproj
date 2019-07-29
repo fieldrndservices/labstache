@@ -32,6 +32,7 @@
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Simple - File Input.vi" Type="VI" URL="../src/Examples/Simple - File Input.vi"/>
 			<Item Name="Simple - String Input.vi" Type="VI" URL="../src/Examples/Simple - String Input.vi"/>
+			<Item Name="String-Based Partial Loading.vi" Type="VI" URL="../src/Examples/String-Based Partial Loading.vi"/>
 		</Item>
 		<Item Name="Scripts.lvlib" Type="Library" URL="../src/Scripts/Scripts.lvlib"/>
 		<Item Name="Tests.lvlib" Type="Library" URL="../tests/Tests.lvlib"/>
