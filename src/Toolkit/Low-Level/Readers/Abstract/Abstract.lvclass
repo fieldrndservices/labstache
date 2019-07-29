@@ -2,6 +2,8 @@
 <LVClass LVVersion="18008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Toolkit.lvlib:Readers.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Readers.lvlib</Property>
+	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Abstract&lt;/B&gt; class is the parent, or base, class for any reader of a Mustache template. Objects of this class should not be directly created. Instead, a new class that inherents from the &lt;B&gt;Abstract&lt;/B&gt; class should be created.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)C!!!*Q(C=\&gt;3\=3*"&amp;)8B)^5;=MF!21L(8I]53/'GA#O4&amp;'Y+J%!+.Q63))874]`&gt;,&lt;V+M];K3I;GV3"/PTZ[GJ(G^3$^UFC\@H^[,?VPOIVX\;_S$^LHW_D09_E_ROPR\]O&lt;^B@DRZ]6V`VLFT[^@NJ`WL^X_`LR@FL`%8TN*&gt;V.+&lt;7I31WKZ\=&lt;26\E26\E26\E3:\E3:\E3:\E12\E12\E12\E*D?ZS5VO=J001CZSE9O=83E7,R9K*CUG+$J$5@&amp;3?!J0Y3E]@&amp;4B+4S&amp;J`!5(LKI]"3?QF.Y#A`$6(A+4_%J0)7(K;;E:C((5XC98IEH]33?R*.Y7&amp;+**Q%ECS54*Z0!5.+9`*.Y%E`CY6]FHM34?"*0YK&amp;:C3@R**\%EXA9-H=FJ_:7S0%QD1*0Y!E]A3@Q-,5#4_!*0)%H],#=!E`A#2$"AM(E%"1-#DI%(Q*0Y/&amp;.A3@Q"*\!%XBIGH=IZM\=.,&gt;#DM&gt;YD-&gt;YD-&gt;YG%,'9TT'9TT'Q\1S(O-R(O-R(J;3]2C0]2C)7:4F:39T!UUH%RA0@`/U?.[FH",0UD`.Z;#K$[$[9+E0D0IAK'_Q_M;J&lt;YB[I^5&lt;K.Y9^2&gt;7@R%V5,WQ?E*V2VVZP6$0V"0V3$V1^^1&gt;&gt;5P&gt;X)&lt;_ZY\8[V78SU8H]VGHUUH(YV'(QU(\`6[\X5\&lt;\6;&lt;T?&lt;PU_K2MFRX``J=?K,P6^4FO@1&gt;HIW[VXDRG'?0HA((FI'(!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

@@ -2,6 +2,8 @@
 <LVClass LVVersion="18008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Toolkit.lvlib:Writers.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Writers.lvlib</Property>
+	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Abstract&lt;/B&gt; class is the parent, or base, class for any writer of a rendered Mustache template. Objects of this class should not be directly created. Instead, a new class that inherents from the &lt;B&gt;Abstract&lt;/B&gt; class should be created.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)E!!!*Q(C=\&gt;4"51*"%)8BJ_8"+RF9J."H&lt;K2!#JU#6Y_EU#G1!CG]&amp;%C"&amp;.:`BQ9NKR!07O8"77?&amp;.\-TX]Y/+YXS,$VJOF&gt;78Z:OH\KO0H?`NE_8JOFW_^3HO=_FY8J6RZ@4N,L2`D\%R`&lt;&lt;`HN&amp;8Z&lt;`^P`WP^V_@XO`XP]2`'[2(I;5;GJ2ERLD\C;4G^TE*D?ZS9O]S)O]S)O]S*-]S:-]S:-]S9-]S)-]S)-]S-&gt;",H+2CZR6-:/&lt;C=SA:A$4'9L-S8C-RXC-B[]S(O-R(O-R(LL)?)T(?)T(?,B-RG-]RG-]RM.11_*RE/-R(I:8Y3E]B;@Q&amp;"[G6/%J!-6ER=$&amp;)$"5."9@#E`B+4R]6/%J0)7H]"1?GF6Y#E`B+4S&amp;BUP'KN41T!=Z(I:2YEE]C3@R*"['6O**0)EH]31?JF0C34Q*)JEQ'2S#EIO3$MG8R*.Y_+@%EXA34_**0$3.*Z2D:7&lt;.@*$D#4S"*`!%HM$$%!I]A3@Q"*\!Q\!+0)%H]!3?Q-.5#DS"*`!%E'"3JF=Q7("BU#E)!A^`9\@%?%IV*$'/`GG?.[J[![IXFHL$K$?#_A'L(ZT[A;A87LW![I62X\$[2N2!^=4K!&gt;5&gt;&gt;?*]J"[I?_K/OK6OK'PKELK9,`XBDK@43=@D59@$1@P^8LP&gt;4NPN6JP.2OPV7MPF5IP&amp;YPKW?O%YFY@PPJ&gt;?[@M&lt;^@R?_APP2DVK_P#;:YX?!0T.@0M!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
