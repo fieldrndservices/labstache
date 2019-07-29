@@ -12,24 +12,25 @@
 <link media="print" rel="stylesheet" type="text/css" href="/styles/print.css">
 </head>
 <body bgcolor="#ffffff">
+
 <h1>VI and Control Reference</h1>
-<p class="Body">Use the LabVIEW classes and associated VIs to work with logic-less Mustache templates.</p>
+<p class="Body">VIs and classes for create custom partial loaders.</p>
 <table class="Bordered">
 <tr>
 <th class="Bordered Left-Align">Palette Object</th>
 <th class="Bordered Left-Align">Description</th>
 </tr>
 <tr>
-<td class="Bordered"><a href="/pages/Toolkit/Compile.html">Compile</a></td>
-<td class="Bordered">Converts a Mustache template stored as a string into another string based on the data provided.</td>
+<td class="Bordered"><a href="/pages/Toolkit/Advanced/Loaders/Data.html">Data</a></td>
+<td class="Bordered">A partial loader that saves the partial templates as either a string or path.</td>
 </tr>
 <tr>
-<td class="Bordered"><a href="/pages/Toolkit/Data/Data.html">Data</a></td>
-<td class="Bordered">Wraps LabVIEW values into Mustache Data objects, which determines the rendering of templates.</td>
+<td class="Bordered"><a href="/pages/Toolkit/Advanced/Loaders/File.html">File</a></td>
+<td class="Bordered">A partial loader that saves the partial templates in a file that is read at render-time and the key is the name of the file without the extension.</td>
 </tr>
 <tr>
-<td class="Bordered"><a href="/pages/Toolkit/Advanced/Advanced.html">Advanced</a></td>
-<td class="Bordered">Advanced, or low-level, VIs to build custom lexers, parsers, and renderers of templates.</td>
+<td class="Bordered"><a href="/pages/Toolkit/Advanced/Loaders/String.html">String</a></td>
+<td class="Bordered">A partial loader that save the partial templates as a LabVIEW string and the key is identifier of the string value in a map.</td>
 </tr>
 </table>
 </body>

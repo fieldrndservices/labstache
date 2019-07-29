@@ -23,7 +23,7 @@
         </OBJECT>
         <LI> <OBJECT type="text/sitemap">
             <param name="Name" value="Data">
-            <param name="Local" value="pages\Toolkit\Data.html">
+            <param name="Local" value="pages\Toolkit\Data\Data.html">
         </OBJECT>
         <UL>
             <LI> <OBJECT type="text/sitemap">
@@ -57,7 +57,7 @@
         </UL>
         <LI> <OBJECT type="text/sitemap">
             <param name="Name" value="Advanced">
-            <param name="Local" value="pages\Toolkit\Advanced.html">
+            <param name="Local" value="pages\Toolkit\Advanced\Advanced.html">
         </OBJECT>
         <UL>
             <LI> <OBJECT type="text/sitemap">
@@ -66,25 +66,7 @@
             </OBJECT>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Loaders">
-                <param name="Local" value="pages\Toolkit\Advanced\Loaders.html">
-            </OBJECT>
-            <UL>
-                <LI> <OBJECT type="text/sitemap">
-                    <param name="Name" value="Data">
-                    <param name="Local" value="pages\Toolkit\Advanced\Loaders\Data.html">
-                </OBJECT>
-                <LI> <OBJECT type="text/sitemap">
-                    <param name="Name" value="File">
-                    <param name="Local" value="pages\Toolkit\Advanced\Loaders\File.html">
-                </OBJECT>
-                <LI> <OBJECT type="text/sitemap">
-                    <param name="Name" value="String">
-                    <param name="Local" value="pages\Toolkit\Advanced\Loaders\String.html">
-                </OBJECT>
-            </UL>
-            <LI> <OBJECT type="text/sitemap">
-                <param name="Name" value="Loaders">
-                <param name="Local" value="pages\Toolkit\Advanced\Loaders.html">
+                <param name="Local" value="pages\Toolkit\Advanced\Loaders\Loaders.html">
             </OBJECT>
             <UL>
                 <LI> <OBJECT type="text/sitemap">
@@ -102,7 +84,7 @@
             </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Nodes">
-                <param name="Local" value="pages\Toolkit\Advanced\Nodes.html">
+                <param name="Local" value="pages\Toolkit\Advanced\Nodes\Nodes.html">
             </OBJECT>
             <UL>
                 <LI> <OBJECT type="text/sitemap">
@@ -140,7 +122,7 @@
             </OBJECT>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Readers">
-                <param name="Local" value="pages\Toolkit\Advanced\Readers.html">
+                <param name="Local" value="pages\Toolkit\Advanced\Readers\Readers.html">
             </OBJECT>
             <UL>
                 <LI> <OBJECT type="text/sitemap">
@@ -154,7 +136,7 @@
             </OBJECT>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Tokens">
-                <param name="Local" value="pages\Toolkit\Advanced\Tokens.html">
+                <param name="Local" value="pages\Toolkit\Advanced\Tokens\Tokens.html">
             </OBJECT>
             <UL>
                 <LI> <OBJECT type="text/sitemap">
@@ -196,7 +178,7 @@
             </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Writers">
-                <param name="Local" value="pages\Toolkit\Advanced\Writers.html">
+                <param name="Local" value="pages\Toolkit\Advanced\Writers\Writers.html">
             </OBJECT>
             <UL>
                 <LI> <OBJECT type="text/sitemap">
