@@ -2,6 +2,8 @@
 <LVClass LVVersion="18008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Toolkit.lvlib:Nodes.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Nodes.lvlib</Property>
+	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Root&lt;/B&gt; class represents the first node in an Abstract Syntax Tree (AST) and is the embodiment of the entire AST.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)&lt;!!!*Q(C=\&gt;4.51*"%-8RB_8"+RF9J."H&lt;K2!#JU#6Y_E]&amp;)A"6,I&amp;%C"&amp;0#`1Z&gt;1*9A(L@,A$I0SZOP(\,$3O&amp;[E:ZU?8=MPLUP\\;Z8\?.V_8"T`02WLL@(8]K&gt;^B[``$T_HP`2J3_P``&lt;`^L`&gt;`PBYPTX_%@TO*=W'F&amp;J55Z-;Y^O&gt;CLT)C\T)C\T)47ZSEZP=Z#:0]C20]C20]C10]C!0]C!0]C!@B6TE)B=ZOV)M8CR54&amp;J-5(3'IO+N]"3?QF.Y_+D#5XA+4_%J0(22Y3E]B;@Q&amp;"['K@!5HM*4?!I05QV*D5+/J`!QP9T(?)T(?)S(*75]"G!7-R/&lt;37$).*J`D-&gt;YD)&gt;`:4T'9TT'9TQUSXC-RXC-RXA9-H&lt;&amp;1T-6=DR-I]34?"*0YEE]4+X%EXA34_**0#SHR*.Y%E3S9$)Z"#7$EA\*B]34?0CDR*.Y%E`C34QUD4O59W=GT64)]13?Q".Y!E`A91I&amp;HM!4?!*0Y'&amp;;":\!%XA#4_"B+17?Q".Y!ECQ+-MLG#Q9'(1+AM$$;ZS7'(@*1R+D^%`T@&amp;$6"V"^M.1(2HU1V$&gt;9@?05.U3^U?I.6'_-_AOLPYA;K&amp;Z90;'[IY[]([B\[I[[J7[I;_K+OK$/J[%`X0&amp;Y0/JQ/'C`XWOXWWG\X7KTW7C^8GOV7GGR7'A_HX]]L6YJZWPWX?@3'XV`IZ[@3X`BW;AHH;Y?]_T2/]@A@$E!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

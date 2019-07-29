@@ -2,6 +2,8 @@
 <LVClass LVVersion="18008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Toolkit.lvlib:Nodes.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Nodes.lvlib</Property>
+	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Comment&lt;/B&gt; class represents a Comment Mustache tag as a node in an Abstract Syntax Tree (AST).</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)E!!!*Q(C=\&gt;3^=3*"%-8RJSM:ZZ,"&amp;3GU,9]53+&amp;4Q*6*#JU#+:$#3Y%53'(P4^/FE_Z+)/.5*5-\$"^P:G&gt;_/TOMV-&gt;0[6(,P?0JZP(3PP4L2PMS\=M\\&gt;WD[_M_&lt;]?`FK@F4Y?`WJ@Z_0@]&gt;`XX$NU]PNO`W\^W_`XN`8T`4`#ZB`415KKJ25VK^.5N*D?ZS5VO=J-8?:%8?:%8?:%H?:)H?:)H?:)(?:!(?:!(?:"X)2?ZS%8/KJD*T52G5$/![1R&amp;ZMVYD-&gt;YD)?@-B\D-2\D-2[[S(C-RXC-RXAY4=:D0-:D0-&lt;$5#VR&amp;X)]RM0Q+DS&amp;J`!5HM,$F#I]";#9L"CY'!3'CM&lt;C3_%J0)7(LSI]B;@Q&amp;*\#1\-+4_%J0)7H]("+LUKVZF,)]4#-%E`C34S**`%QN"*0YEE]C3@R-*U34_**%-G%S?!1F*S5&gt;%B_**\%QY=34_**0)EH]&gt;$5&gt;SB\:3[;3S((%XA#4_!*0)'()22Y!E`A#4S"BW%6?!*0Y!E]A9?J&amp;(A#4_!*)-'E4+^AM/$%I&amp;-1""Z?P6OC\V+V*,L-8`/[545&lt;5,/R."N'MR%U.VBTYT1X2,01GA85,)TGAD58IA&amp;K*N9-K/GI-_]H[J&amp;[I/[J/_K7OK'OK;P,K@_ZY`F]VOFUUP&amp;YV/&amp;QU([`VW[XUX;\V7;TU8K^VGKV?HF;`;*=DY?00J??[@M:^@J=_AL02PX1]OIRTRL^"D&lt;Q?@-!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.12</Property>
@@ -44,7 +46,7 @@
 		</Item>
 	</Item>
 	<Item Name="New.vi" Type="VI" URL="../New.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%R!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$R!=!!?!!!L$62P&lt;WRL;81O&lt;(:M;7),4G^E:8-O&lt;(:M;7)01W^N&lt;76O&gt;#ZM&gt;G.M98.T!!&gt;$&lt;WVN:7ZU!!Z!-0````]&amp;1WRP=W5!$E!Q`````Q20='6O!!!71&amp;!!!A!'!!=+2'6M;7VJ&gt;'6S=Q!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!""!-0````](1W^O&gt;'6O&gt;!"5!0!!$!!$!!1!"!!&amp;!!1!"!!)!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!#%!!!!!!"!!M!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$R!=!!?!!!L$62P&lt;WRL;81O&lt;(:M;7),4G^E:8-O&lt;(:M;7)01W^N&lt;76O&gt;#ZM&gt;G.M98.T!!&gt;$&lt;WVN:7ZU!!Z!-0````]&amp;1WRP=W5!$E!Q`````Q20='6O!!!`!0(:7Y;\!!!!!AV5&lt;W^M;WFU,GRW&lt;'FC$E2F&lt;'FN;82F=H-O9X2M!"J!5!!#!!9!"QJ%:7RJ&lt;7FU:8*T!!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!%%!Q`````Q&gt;$&lt;WZU:7ZU!&amp;1!]!!-!!-!"!!%!!5!"!!%!!A!"!!*!!1!"!!+!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!)1!!!!!!%!#Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
