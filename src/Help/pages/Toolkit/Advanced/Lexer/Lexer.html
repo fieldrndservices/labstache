@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>Loader Classes</title>
+<title>VI and Control Reference</title>
 <meta name="author" content="Field R&D Services, LLC">
 <meta name="generator" content="G Development Environment">
 <meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
@@ -13,30 +13,26 @@
 </head>
 <body bgcolor="#ffffff">
 
-<h1>Loader Classes</h1>
+<h1>VI and Control Reference</h1>
 <p class="Body"><strong>Owning Palette:</strong> <a href="/pages/Toolkit/Advanced/Advanced.html">Advanced VIs and Classes</a></p>
 <p class="Body"><strong>Requires:</strong> Labstache</p>
-<p class="Body">Abstract and concrete loader classes.</p>
+<p class="Body">VIs and controls for Lexer class.</p>
 <table class="Bordered">
 <tr>
 <th class="Bordered Left-Align">Palette Object</th>
 <th class="Bordered Left-Align">Description</th>
 </tr>
 <tr>
-<td class="Bordered"><a href="/pages/Toolkit/Advanced/Loaders/Abstract/Abstract.html">Abstract</a></td>
-<td class="Bordered">The base class for all partial loader concrete implementations.</td>
+<td class="Bordered"><a href="/pages/Toolkit/Advanced/Lexer/Create.html">Create</a></td>
+<td class="Bordered">Creates a new Lexer object.</td>
 </tr>
 <tr>
-<td class="Bordered"><a href="/pages/Toolkit/Advanced/Loaders/Data/Data.html">Data</a></td>
-<td class="Bordered">A partial loader that saves the partial templates as either a string or path.</td>
+<td class="Bordered"><a href="/pages/Toolkit/Advanced/Lexer/Destroy.html">Destroy</a></td>
+<td class="Bordered">Destroys a Lexer object.</td>
 </tr>
 <tr>
-<td class="Bordered"><a href="/pages/Toolkit/Advanced/Loaders/File/File.html">File</a></td>
-<td class="Bordered">A partial loader that saves the partial templates in a file that is read at render-time and the key is the name of the file without the extension.</td>
-</tr>
-<tr>
-<td class="Bordered"><a href="/pages/Toolkit/Advanced/Loaders/String/String.html">String</a></td>
-<td class="Bordered">A partial loader that save the partial templates as a LabVIEW string and the key is identifier of the string value in a map.</td>
+<td class="Bordered"><a href="/pages/Toolkit/Advanced/Lexer/Run.html">Run</a></td>
+<td class="Bordered">Lexes a stream of bytes from a reader.</td>
 </tr>
 </table>
 </body>
