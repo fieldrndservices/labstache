@@ -9,20 +9,31 @@
 </Property>
 	<Item Name="Support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Build VI HTML.vi" Type="VI" URL="../Support/Build VI HTML.vi"/>
+		<Item Name="Add Paragraphs.vi" Type="VI" URL="../Support/Add Paragraphs.vi"/>
+		<Item Name="Build Polymorphic VI HTML Documentation.vi" Type="VI" URL="../Support/Build Polymorphic VI HTML Documentation.vi"/>
+		<Item Name="Build Standard VI HTML Documentation.vi" Type="VI" URL="../Support/Build Standard VI HTML Documentation.vi"/>
+		<Item Name="Build Toolkit HTML Documentation.vi" Type="VI" URL="../Support/Build Toolkit HTML Documentation.vi"/>
 		<Item Name="Change Bold to Strong.vi" Type="VI" URL="../Support/Change Bold to Strong.vi"/>
 		<Item Name="Class Icon Name.vi" Type="VI" URL="../Support/Class Icon Name.vi"/>
+		<Item Name="Compile Template.vi" Type="VI" URL="../Support/Compile Template.vi"/>
 		<Item Name="Control Icons.vi" Type="VI" URL="../Support/Control Icons.vi"/>
+		<Item Name="Description Image Source.vi" Type="VI" URL="../Support/Description Image Source.vi"/>
+		<Item Name="Destination File Name.vi" Type="VI" URL="../Support/Destination File Name.vi"/>
+		<Item Name="Destination.vi" Type="VI" URL="../Support/Destination.vi"/>
 		<Item Name="From Control Icons to Array.vi" Type="VI" URL="../Support/From Control Icons to Array.vi"/>
 		<Item Name="Icon File Stem.vi" Type="VI" URL="../Support/Icon File Stem.vi"/>
+		<Item Name="Image Destination.vi" Type="VI" URL="../Support/Image Destination.vi"/>
+		<Item Name="Image Source.vi" Type="VI" URL="../Support/Image Source.vi"/>
 		<Item Name="Owning Palette.vi" Type="VI" URL="../Support/Owning Palette.vi"/>
+		<Item Name="Polymorphic Children Data.vi" Type="VI" URL="../Support/Polymorphic Children Data.vi"/>
+		<Item Name="Polymorphic_VI.mustache" Type="Document" URL="../Support/Polymorphic_VI.mustache"/>
+		<Item Name="Print Polymorphic VI Instances.vi" Type="VI" URL="../Support/Print Polymorphic VI Instances.vi"/>
+		<Item Name="Print VI.vi" Type="VI" URL="../Support/Print VI.vi"/>
+		<Item Name="Remove Spaces.vi" Type="VI" URL="../Support/Remove Spaces.vi"/>
 		<Item Name="Standard_VI.mustache" Type="Document" URL="../Support/Standard_VI.mustache"/>
 		<Item Name="Variant Icon Name.vi" Type="VI" URL="../Support/Variant Icon Name.vi"/>
 	</Item>
-	<Item Name="Add Paragraphs.vi" Type="VI" URL="../Support/Add Paragraphs.vi"/>
 	<Item Name="Build.vi" Type="VI" URL="../Build.vi"/>
-	<Item Name="Document.vi" Type="VI" URL="../Document.vi"/>
 	<Item Name="Package.vi" Type="VI" URL="../Package.vi"/>
-	<Item Name="Print VI.vi" Type="VI" URL="../Support/Print VI.vi"/>
 	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 </Library>
