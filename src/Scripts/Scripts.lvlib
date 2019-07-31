@@ -51,6 +51,7 @@
 		<Item Name="Sort Child Data.vi" Type="VI" URL="../Support/Sort Child Data.vi"/>
 		<Item Name="Standard_VI.mustache" Type="Document" URL="../Support/Standard_VI.mustache"/>
 		<Item Name="Test Build Library HTML Documentation.vi" Type="VI" URL="../Support/Test Build Library HTML Documentation.vi"/>
+		<Item Name="Test VI Print.vi" Type="VI" URL="../Support/Test VI Print.vi"/>
 		<Item Name="Variant Icon Name.vi" Type="VI" URL="../Support/Variant Icon Name.vi"/>
 		<Item Name="VI Owning Palette.vi" Type="VI" URL="../Support/VI Owning Palette.vi"/>
 	</Item>

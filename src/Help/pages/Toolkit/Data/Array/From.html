@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//w3c//dtd html 4.01 transitional//en">
+<html>
+<head>
+<title>From VI</title>
+<meta name="author" content="Field R&D Services, LLC">
+<meta name="generator" content="G Development Environment">
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="/styles/minimal.css">
+<script src="/scripts/polyviselect.js" type="text/javascript"></script>
+<script src="/scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/scripts/cssframes.js" type="text/javascript"></script>
+<link media="print" rel="stylesheet" type="text/css" href="/styles/print.css">
+</head>
+<body bgcolor="#ffffff">
+
+<div id="styleDivTitle">
+<h1>From VI</h1>
+<p class="Body"><strong>Owning Palette:</strong> <a href="/pages/Toolkit/Data/Array/Array.html">Array Classes, Controls, and VIs</a></p>
+<p class="Body"><strong>Requires:</strong> Labstache</p>
+<p class="Body">Wraps an array of LabVIEW primitive values into an array of Mustache data type objects.</p>
+<p class="Anchor"><img src="/images/Fromc.png" alt="From VI"></p>
+<table class="Borderless">
+<tr>
+<td>
+<select name="site" size="1" onchange="polyVISelectHandler(this)">
+<option value="">Select an instance</option>
+
+<option value="parent">Data</option>
+
+<option value="instance1">Strings</option>
+
+<option value="instance2">Paths</option>
+
+<option value="instance3">Mapped Data</option>
+
+<option value="instance4">Mapped String</option>
+
+<option value="instance5">Mapped Paths</option>
+
+</select>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="styleDivScrolling">
+
+<h2><a name="parent">Data</a></h2>
+<p class="Anchor"><img src="/images/From_Datac.png" alt="Data"></p>
+<table class="Borderless">
+
+<tr>
+<td class="Icon"><img src="/images/c1dToolkit_lvlib_Data_lvlib_Datumlvclass.png" alt="c1dToolkit_lvlib_Data_lvlib_Datumlvclass"></td>
+<td><strong>Data</strong> is an array of Mustache data objects that have already been wrapped, or converted, into a Mustache data value.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/iToolkit_lvlib_Data_lvlib_Arraylvclass.png" alt="iToolkit_lvlib_Data_lvlib_Arraylvclass"></td>
+<td><strong>Array</strong> represents a Mustache data type with a LabVIEW type and value.</td>
+</tr>
+
+</table>
+
+<h2><a name="instance1">Strings</a></h2>
+<p class="Anchor"><img src="/images/From_Stringsc.png" alt="Strings"></p>
+<table class="Borderless">
+
+<tr>
+<td class="Icon"><img src="/images/c1dstr.png" alt="c1dstr"></td>
+<td><strong>Strings</strong> is an array of LabVIEW strings that should be wrapped, or converted, into a Mustache data array. Each element will be converted to a <strong>String</strong> Mustache data value.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/iToolkit_lvlib_Data_lvlib_Arraylvclass.png" alt="iToolkit_lvlib_Data_lvlib_Arraylvclass"></td>
+<td><strong>Array</strong> represents a Mustache data type with a LabVIEW type and value.</td>
+</tr>
+
+</table>
+
+<h2><a name="instance2">Paths</a></h2>
+<p class="Anchor"><img src="/images/From_Pathsc.png" alt="Paths"></p>
+<table class="Borderless">
+
+<tr>
+<td class="Icon"><img src="/images/c1dpath.png" alt="c1dpath"></td>
+<td><strong>Paths</strong> is an array of LabVIEW paths that should be wrapped, or converted, into a Mustache data array. Each element will be converted to a <strong>Path</strong> Mustache data value.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/iToolkit_lvlib_Data_lvlib_Arraylvclass.png" alt="iToolkit_lvlib_Data_lvlib_Arraylvclass"></td>
+<td><strong>Array</strong> represents a Mustache data type with a LabVIEW type and value.</td>
+</tr>
+
+</table>
+
+<h2><a name="instance3">Mapped Data</a></h2>
+<p class="Anchor"><img src="/images/From_Mapped_Datac.png" alt="Mapped Data"></p>
+<table class="Borderless">
+
+<tr>
+<td class="Icon"><img src="/images/c1dToolkit_lvlib_Data_lvlib_Datumlvclass.png" alt="c1dToolkit_lvlib_Data_lvlib_Datumlvclass"></td>
+<td><strong>Data</strong> is an array of Mustache data objects that have already been wrapped, or converted, into a Mustache data value. Each element will be converted to a key-value pair with the key from <strong>Key</strong>.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/cstr.png" alt="cstr"></td>
+<td>The <strong>Key</strong> is the same used to create the key-value pairs from <strong>Strings</strong>. This is useful when working with sections that loop should loop over data.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/iToolkit_lvlib_Data_lvlib_Arraylvclass.png" alt="iToolkit_lvlib_Data_lvlib_Arraylvclass"></td>
+<td><strong>Array</strong> represents a Mustache data type with a LabVIEW type and value.</td>
+</tr>
+
+</table>
+
+<h2><a name="instance4">Mapped String</a></h2>
+<p class="Anchor"><img src="/images/From_Mapped_Stringsc.png" alt="Mapped String"></p>
+<table class="Borderless">
+
+<tr>
+<td class="Icon"><img src="/images/c1dstr.png" alt="c1dstr"></td>
+<td><strong>Strings</strong> is an array of LabVIEW strings that should be wrapped, or converted, into a Mustache data array. Each element will be converted to a key-value pair with the key from <strong>Key</strong> and the value converted to a <strong>String</strong> Mustache data value.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/cstr.png" alt="cstr"></td>
+<td>The <strong>Key</strong> is the same used to create the key-value pairs from <strong>Strings</strong>. This is useful when working with sections that loop should loop over data.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/iToolkit_lvlib_Data_lvlib_Arraylvclass.png" alt="iToolkit_lvlib_Data_lvlib_Arraylvclass"></td>
+<td><strong>Array</strong> represents a Mustache data type with a LabVIEW type and value.</td>
+</tr>
+
+</table>
+
+<h2><a name="instance5">Mapped Paths</a></h2>
+<p class="Anchor"><img src="/images/From_Mapped_Pathsc.png" alt="Mapped Paths"></p>
+<table class="Borderless">
+
+<tr>
+<td class="Icon"><img src="/images/c1dpath.png" alt="c1dpath"></td>
+<td><strong>Paths</strong> is an array of LabVIEW strings that should be wrapped, or converted, into a Mustache data array. Each element will be converted to a key-value pair with the key from <strong>Key</strong> and the value converted to a <strong>Path</strong> Mustache data value.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/cstr.png" alt="cstr"></td>
+<td>The <strong>Key</strong> is the same used to create the key-value pairs from <strong>Strings</strong>. This is useful when working with sections that loop should loop over data.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/iToolkit_lvlib_Data_lvlib_Arraylvclass.png" alt="iToolkit_lvlib_Data_lvlib_Arraylvclass"></td>
+<td><strong>Array</strong> represents a Mustache data type with a LabVIEW type and value.</td>
+</tr>
+
+</table>
+
+</div>
+
+</body>
+</html>
