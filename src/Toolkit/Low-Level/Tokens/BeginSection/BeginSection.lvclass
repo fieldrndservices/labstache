@@ -3,7 +3,7 @@
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Toolkit.lvlib:Tokens.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Tokens.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Begin Section&lt;/B&gt; class represents a Begin Section Mustache tag as a token.</Property>
-	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)H!!!*Q(C=\&gt;3\=3J"%)8B)Z5-O73A)I7W]5C"&amp;$I&amp;8*GE=&amp;)A"6,I&amp;%C"&amp;.#`MQX&amp;66U*'6+6$-UQQ*ZZ@?QO+YXS,$XJ@+_M0CV4`\_$XB`2ROM3@$3@N]PH0/J[.&amp;[8OFL&gt;@HUX@[JT=DP``TN@N8?+0CV``8`^P\P``OX^?P^0],.&amp;?BB37N&amp;-3VK-8X=O]C)P]C)P]C)XO=F.&lt;H+4GTT*ETT*ETT*ETT)ATT)ATT)AXR5=J',8/3=F7,T9K.CU7+"9D!5&amp;7_&amp;J`!5HM,$I1J0Y3E]B;@Q-%3&amp;J`!5HM*4?*CGQF.Y#E`B+4QM.31V+DG?QM0S-B\D-2\D-2[WF0%9A.H-,'Q7A3(4;&lt;Y9D`%9$V^F0-:D0-:D0(4,?)T(?)T(?*ASTIK(:KLE?&amp;B'C3@R**\%EXB97IEH]33?R*.YW%[**`%EC'4$:(%)3C9F!Z+$R*.Y_&amp;$C34S**`%E(LL'&amp;=JR:C&lt;.6-HR"*\!%XA#4_"B#17?Q".Y!E`A96E&amp;HM!4?!*0Y'%L":\!%XA#3,!JWSN9,*A9$!K#Q-.LX#URLJ+(*%&lt;NP_:]I[JP107.J&lt;ZBV$?#_A+L,ZT[AKB0N0I%KE_-_A?L@YA;K.Z9P;"[I%[](WE(WJ[WIWVJ'^K;NK1NJKH@00"U/OFY0/JQ/'C`XWOXWWG\X7KTW7C^8GOZ8'KR7&amp;S@6C`5O4R]^&lt;HUSNC@;0.T[4=]'`7I]]VDHH0U"D6=BB-!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
