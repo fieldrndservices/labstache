@@ -35,7 +35,8 @@
 		<Item Name="Icon File Stem.vi" Type="VI" URL="../Support/Icon File Stem.vi"/>
 		<Item Name="Image Destination.vi" Type="VI" URL="../Support/Image Destination.vi"/>
 		<Item Name="Image Source.vi" Type="VI" URL="../Support/Image Source.vi"/>
-		<Item Name="Library Child URL.vi" Type="VI" URL="../Support/Library Child URL.vi"/>
+		<Item Name="Library Child Class URL.vi" Type="VI" URL="../Support/Library Child Class URL.vi"/>
+		<Item Name="Library Child VI URL.vi" Type="VI" URL="../Support/Library Child VI URL.vi"/>
 		<Item Name="Library Children Data.vi" Type="VI" URL="../Support/Library Children Data.vi"/>
 		<Item Name="Library Class Children Data.vi" Type="VI" URL="../Support/Library Class Children Data.vi"/>
 		<Item Name="Library Folder Children Data.vi" Type="VI" URL="../Support/Library Folder Children Data.vi"/>
