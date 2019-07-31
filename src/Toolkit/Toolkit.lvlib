@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="18008000">
+	<Property Name="NI.Lib.Description" Type="Str">The classes, controls, and VIs that are the Application Programming Interface (API) for the Labstrache toolkit.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)&gt;!!!*Q(C=\&gt;4.51*"%-8RB_8"+RF9J0$/XEC"&amp;$I&amp;LBZ*I6-A"6,I&amp;%C"&amp;.9`1Z=+7/*"KTSQ[S$\ZOOXM].+YXC3(D8&gt;/F\/DO_PLXO=89W[[3,[[$&gt;^?8':H&amp;^?DXAZW\8Z]^QX&lt;X`3N]?^`F\`P_NP&lt;_`8WT_#PTWEW:"3CJ+5I(D=X64E26\E26\E2:\E3:\E3:\E32\E12\E12\E17ZSEZP=Z#9X_4D*23ZSE&lt;-KR?4&amp;2-7AR1"&amp;9SAK0AJ0Y3E]B9&gt;,&amp;:\#5XA+4_'BC1J0Y3E]B;@QU%W&amp;J`!5HM*4?"BK3'K=Z(A+$]-L]33?R*.Y%A^4+P%EA'3S:/"E%"B++J-PC3@R*"[_+P%EHM34?")0V5I]C3@R**\%1Z?R+DEURZ-=$]-I]!3?Q".Y!A^$+`!%HM!4?!)0USHQ"*Y!%5Q9$!Z"1;?A18!2?!)0`R2Y!E`A#4S"B[LRB'+MT&amp;&amp;T0-HR')`R')`R'!^$S(C-RXC-RXA96M:D0-:D0-&lt;$6$)?YT%?!T'4-LX-9+;D;71#Y_&amp;P\";0JZ2$YH(W4`/U5&gt;5&lt;5,WRV"N'P2(5$VD^Y.102,X1[A65,YT[BN5XIA;K*V90K'[I!Z^\SI[SJ7QI;]K+MK1M+0.DVV^O?$A=N.`PN&gt;PNN.VON&gt;FMN&amp;[PN6KNN&amp;QON6AM.*`0X^^7TZSH9`&lt;4^^)L&lt;@_CH.Z,`_(&gt;K!&gt;.HV\TL.%&lt;L\_1LQ!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

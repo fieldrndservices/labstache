@@ -29,6 +29,15 @@
 	</Item>
 	<Item Name="Support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="From Boolean.vi" Type="VI" URL="../Support/From Boolean.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"Q!!!!"!!+1#%&amp;6G&amp;M&gt;75!$%!Q`````Q.,:8E!.%"Q!"Y!!#9.6'^P&lt;'NJ&gt;#ZM&gt;GRJ9AJ%982B,GRW&lt;'FC#UVB=#ZM&gt;G.M98.T!!!$47&amp;Q!"Y!]!!$!!!!!1!#!A!!'1!!%!!!!B!!!!!*!!!!!!%!!Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+		</Item>
 		<Item Name="From Datum Array.vi" Type="VI" URL="../Support/From Datum Array.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$/!!!!"Q!-1$$`````!UNF?1!Y1(!!(A!!+!V5&lt;W^M;WFU,GRW&lt;'FC#E2B&gt;'%O&lt;(:M;7).2'&amp;U&gt;7UO&lt;(:D&lt;'&amp;T=Q!!"6:B&lt;(6F!"J!5!!#!!!!!1Z,:8EN6G&amp;M&gt;75A5'&amp;J=A!!%E"!!!(`````!!)%2'&amp;U91!!"!!!!$2!=!!?!!!G$62P&lt;WRL;81O&lt;(:M;7)+2'&amp;U93ZM&gt;GRJ9AN.98!O&lt;(:D&lt;'&amp;T=Q!!!UVB=!!?!0!!!Q!$!!1!"1)!!"E!!B!!!!!!!!!!#1!!!!!"!!9!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
