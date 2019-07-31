@@ -61,20 +61,20 @@
         </OBJECT>
         <UL>
             <LI> <OBJECT type="text/sitemap">
-                <param name="Name" value="Lex">
-                <param name="Local" value="pages\Toolkit\Advanced\Lexer.html">
+                <param name="Name" value="Lexer">
+                <param name="Local" value="pages\Toolkit\Advanced\Lexer\Lexer.html">
             </OBJECT>
             <UL>
                 <LI> <OBJECT type="text/sitemap">
-                    <param name="Name" value="Lex">
+                    <param name="Name" value="Create">
                     <param name="Local" value="pages\Toolkit\Advanced\Lexer\Create.html">
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
-                    <param name="Name" value="Lex">
+                    <param name="Name" value="Destroy">
                     <param name="Local" value="pages\Toolkit\Advanced\Lexer\Destroy.html">
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
-                    <param name="Name" value="Lex">
+                    <param name="Name" value="Run">
                     <param name="Local" value="pages\Toolkit\Advanced\Lexer\Run.html">
                 </OBJECT>
             </UL>
@@ -159,7 +159,7 @@
             <UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Begin Section">
-                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\Begin_Section\Begin_Section.html">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\BeginSection\BeginSection.html">
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Comment">
@@ -167,15 +167,15 @@
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="End Section">
-                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\End_Section\End_Section.html">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\EndSection\EndSection.html">
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Escaped Variable">
-                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\Escaped_Variable\Escaped_Variable.html">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\EscapedVariable\EscapedVariable.html">
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Inverted Section">
-                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\Inverted_Section\Inverted_Section.html">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\InvertedSection\InvertedSection.html">
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Partial">
@@ -183,7 +183,7 @@
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Set Delimiter">
-                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\Set_Delimiter\Set_Delimiter.html">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\SetDelimiter\SetDelimiter.html">
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Text">
@@ -191,7 +191,7 @@
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Unescaped Variable">
-                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\Unescaped_Variable\Unescaped_Variable.html">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\UnescapedVariable\UnescapedVariable.html">
                 </OBJECT>
             </UL>
             <LI> <OBJECT type="text/sitemap">

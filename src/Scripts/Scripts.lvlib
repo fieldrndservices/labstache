@@ -10,17 +10,12 @@
 	<Item Name="Support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Add Paragraphs.vi" Type="VI" URL="../Support/Add Paragraphs.vi"/>
-		<Item Name="Build All Class HTML Documentation.vi" Type="VI" URL="../Support/Build All Class HTML Documentation.vi"/>
-		<Item Name="Build All Library HTML Documentation.vi" Type="VI" URL="../Support/Build All Library HTML Documentation.vi"/>
-		<Item Name="Build All VI HTML Documentation.vi" Type="VI" URL="../Support/Build All VI HTML Documentation.vi"/>
-		<Item Name="Build HTML Destination.vi" Type="VI" URL="../Support/Build HTML Destination.vi"/>
-		<Item Name="Build Library HTML Documentation.vi" Type="VI" URL="../Support/Build Library HTML Documentation.vi"/>
-		<Item Name="Build Polymorphic VI HTML Documentation.vi" Type="VI" URL="../Support/Build Polymorphic VI HTML Documentation.vi"/>
-		<Item Name="Build Standard VI HTML Documentation.vi" Type="VI" URL="../Support/Build Standard VI HTML Documentation.vi"/>
-		<Item Name="Build Toolkit HTML Documentation.vi" Type="VI" URL="../Support/Build Toolkit HTML Documentation.vi"/>
 		<Item Name="Change Bold to Strong.vi" Type="VI" URL="../Support/Change Bold to Strong.vi"/>
-		<Item Name="Child URL.vi" Type="VI" URL="../Support/Child URL.vi"/>
+		<Item Name="Class Child URL.vi" Type="VI" URL="../Support/Class Child URL.vi"/>
+		<Item Name="Class Children Data.vi" Type="VI" URL="../Support/Class Children Data.vi"/>
 		<Item Name="Class Icon Name.vi" Type="VI" URL="../Support/Class Icon Name.vi"/>
+		<Item Name="Class VI Children Data.vi" Type="VI" URL="../Support/Class VI Children Data.vi"/>
+		<Item Name="Class.mustache" Type="Document" URL="../Support/Class.mustache"/>
 		<Item Name="Compile Template.vi" Type="VI" URL="../Support/Compile Template.vi"/>
 		<Item Name="Control Icons.vi" Type="VI" URL="../Support/Control Icons.vi"/>
 		<Item Name="Description Image Source.vi" Type="VI" URL="../Support/Description Image Source.vi"/>
@@ -28,9 +23,19 @@
 		<Item Name="Destination.vi" Type="VI" URL="../Support/Destination.vi"/>
 		<Item Name="Folder Tree.vi" Type="VI" URL="../Support/Folder Tree.vi"/>
 		<Item Name="From Control Icons to Array.vi" Type="VI" URL="../Support/From Control Icons to Array.vi"/>
+		<Item Name="Generate All Class HTML Documentation.vi" Type="VI" URL="../Support/Generate All Class HTML Documentation.vi"/>
+		<Item Name="Generate All Library HTML Documentation.vi" Type="VI" URL="../Support/Generate All Library HTML Documentation.vi"/>
+		<Item Name="Generate All VI HTML Documentation.vi" Type="VI" URL="../Support/Generate All VI HTML Documentation.vi"/>
+		<Item Name="Generate Class HTML Documentation.vi" Type="VI" URL="../Support/Generate Class HTML Documentation.vi"/>
+		<Item Name="Generate Library HTML Documentation.vi" Type="VI" URL="../Support/Generate Library HTML Documentation.vi"/>
+		<Item Name="Generate Polymorphic VI HTML Documentation.vi" Type="VI" URL="../Support/Generate Polymorphic VI HTML Documentation.vi"/>
+		<Item Name="Generate Standard VI HTML Documentation.vi" Type="VI" URL="../Support/Generate Standard VI HTML Documentation.vi"/>
+		<Item Name="Generate Toolkit HTML Documentation.vi" Type="VI" URL="../Support/Generate Toolkit HTML Documentation.vi"/>
+		<Item Name="HTML Destination.vi" Type="VI" URL="../Support/HTML Destination.vi"/>
 		<Item Name="Icon File Stem.vi" Type="VI" URL="../Support/Icon File Stem.vi"/>
 		<Item Name="Image Destination.vi" Type="VI" URL="../Support/Image Destination.vi"/>
 		<Item Name="Image Source.vi" Type="VI" URL="../Support/Image Source.vi"/>
+		<Item Name="Library Child URL.vi" Type="VI" URL="../Support/Library Child URL.vi"/>
 		<Item Name="Library Children Data.vi" Type="VI" URL="../Support/Library Children Data.vi"/>
 		<Item Name="Library Class Children Data.vi" Type="VI" URL="../Support/Library Class Children Data.vi"/>
 		<Item Name="Library Folder Children Data.vi" Type="VI" URL="../Support/Library Folder Children Data.vi"/>
@@ -43,13 +48,14 @@
 		<Item Name="Print Polymorphic VI Instances.vi" Type="VI" URL="../Support/Print Polymorphic VI Instances.vi"/>
 		<Item Name="Print VI.vi" Type="VI" URL="../Support/Print VI.vi"/>
 		<Item Name="Remove Image Destination Spaces.vi" Type="VI" URL="../Support/Remove Image Destination Spaces.vi"/>
-		<Item Name="Sort Library Child Data.vi" Type="VI" URL="../Support/Sort Library Child Data.vi"/>
+		<Item Name="Sort Child Data.vi" Type="VI" URL="../Support/Sort Child Data.vi"/>
 		<Item Name="Standard_VI.mustache" Type="Document" URL="../Support/Standard_VI.mustache"/>
 		<Item Name="Test Build Library HTML Documentation.vi" Type="VI" URL="../Support/Test Build Library HTML Documentation.vi"/>
 		<Item Name="Variant Icon Name.vi" Type="VI" URL="../Support/Variant Icon Name.vi"/>
 		<Item Name="VI Owning Palette.vi" Type="VI" URL="../Support/VI Owning Palette.vi"/>
 	</Item>
 	<Item Name="Build.vi" Type="VI" URL="../Build.vi"/>
+	<Item Name="Generate.vi" Type="VI" URL="../Generate.vi"/>
 	<Item Name="Package.vi" Type="VI" URL="../Package.vi"/>
 	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 </Library>
