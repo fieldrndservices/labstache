@@ -2,7 +2,9 @@
 <Library LVVersion="18008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Toolkit.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../Toolkit.lvlib</Property>
+	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Readers&lt;/B&gt; project library contains readers of raw, or source, Mustache templates. Mustache templates can be stored as a string or in a file, for example. A &lt;B&gt;Reader&lt;/B&gt; implementation knowns how to read from a Mustache template source.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Readers\Readers.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)A!!!*Q(C=\&gt;4.51*"%-8RJ_8"+RF9J0$/XEC"&amp;$I&amp;LBZ*I6-A"6,I&amp;%C"&amp;.&lt;`$FU+;I%(L@,ADI0MG[`@\AYLD?.2?N"U[XC_?MTN(TJ.H^IPM]`N9`TU&gt;H9;-6W=@6(?2YTWM`(4:8,&gt;@_P1V?/``&lt;`^&lt;\@@XNYPNX]%PXN)&gt;U.+,7J3A_JR&gt;6/2&amp;XG2&amp;XG2&amp;XG3*XG3*XG3*XG1"XG1"XG1"\H*47ZSEZP=Z+/1CVTE)O?O&amp;)M8#R74&amp;B-5H;'I_#A]B;@Q&amp;"Z/68A+4_%J0)7(,CI]B;@Q&amp;*\#QT!6HM*4?!J0Y7'K);F2S0%5(K:8YEE]C3@R*"[76/**!-FCS=4**$#5.#:@%E`C34R]6?**0)EH]31?GJ6Y%E`C34S*BS(DLO41T)5=$^-I]!3?Q".Y!A^4+`!%HM!4?!)0SSHQ"*Y!%3Q94!Z"Q;#A1X!3?!)0`R2Y!E`A#4S"B[&lt;RB',=G6ET&amp;X)]RG-]RG-]RM-5-B\D-2\D-2[GF@%9D`%9D`'QF)T(?)T(1-SC,#]TG2FI/JH!?0A&lt;O]8D+?71?*4_;:YWKHI$KD?7?M/I.Y,[!;M@H0K"K'_U_A;K&lt;YT[AN58IA;K&amp;V:0K/[I)Z]([J[[IW[J'_K;OK)OK9NZ[!^X0"[0/BQ/WO`XWOVWWG[XWGQW7K`87KV77C[87CQ7&lt;W_L*]LJO0PO?_G&amp;PL^24__FP`"OV,WGM^=]^_A6"&lt;W&amp;51!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

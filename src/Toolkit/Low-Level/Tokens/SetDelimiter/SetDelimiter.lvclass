@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Tokens.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Set Delimiter&lt;/B&gt; class represents a Set Delimiter Mustache tag as a token.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Tokens\SetDelimiter\SetDelimiter.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)I!!!*Q(C=\&gt;3^=3*"%-8RJ[MTTC7$+V*Y.BYJE%+HA#O4&amp;$I&amp;5C#&amp;4I%53'(OTWR,1LIK//.5*5-T'A2PPH\-,CP.]EP[K@'I&lt;/[7W@][;GR?BI^X`3_@&lt;R=&lt;(`P(-H`:=SQ^.`V`V`@\DQ_D.G`T\`I@&amp;&gt;UNX`X@`6_\``(N`@TY2`#Z28K;5FL2EB9UTW]XCLT)C\T)C\T)ETT*ETT*ETT*ATT)ATT)ATT)47ZSEZP=Z#;@F6TE)B=ZJV*M8GR5,&amp;IM5!S'IO+F]"3?QF.Y_+D#5XA+4_%J0!R2Y3E]B;@Q&amp;"[GK@!5HM*4?!I03UV*T5K/J`#QP"*0YEE]C3@RM+534Q*).EM74B;"I;1T?:.Y%E`CY;U34_**0)EH]&gt;#NR*.Y%E`C34R-G;?35X/NZ(B92I%H]!3?Q".Y7&amp;K"*`!%HM!4?.B/A3@Q")BAQW"R#!IG"1/#$Y%H]0"0A3@Q"*\!%XDIGF=IZMF=.&gt;&gt;+DM&gt;YD-&gt;YD-&gt;Y7%,'9TT'9TT'Q\)S(O-R(O-R(L;3]2C0]2C)W:4N:29T%]UA%RA0@`.O]&lt;R+/37?N8_;SYWKPA(6.Z&lt;[BF(@#/I,L,ZQ[AOC0GDV!;I02PW&amp;V6^%$62PL&amp;Z106!88M_U%_V)/^$WN"VN3VP46N?J`XHAZ8,2_8T7[843]8D5Y8$1@L`8&lt;L@4&gt;LP6?LX7;L6[@6L^JC\F[6_@3]_-`9SW0*?_QL.20T2O(P/=U2`.#Y62!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.3</Property>

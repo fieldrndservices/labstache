@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Data.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Map&lt;/B&gt; class represents a collection of key-value pairs of Mustache data types and values.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Data\Map\Map.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)&gt;!!!*Q(C=\&gt;4"51*"%)8BJ_8"+RF9J."H&lt;K2!#JU#6Y_E]&amp;)A"6,I&amp;%C"&amp;.:`B^:#,=3$6HFQRU&amp;Y-^PTM4OM.)Z([5(4L70VZ8%R0H7`/D[N0F&gt;\&gt;`\=0ET\60_V86X`[PGL&gt;T0@RG]&gt;_P,Y(`]@`^PDN\@X]_U@Q?]?UNW1UINO?N*D@,OJS)O]S)O]S)P=Z#9XO=F.&lt;P)E4`)E4`)E4`)A$`)A$`)A$`,2S%5O=J&amp;T69L&amp;CY7+IE7"9D)5&amp;3_&amp;J`!5HM,$2R7?QF.Y#E`B99I+4_%J0)7H](#;#E`B+4S&amp;J`"1;EBK.()]B9@S-B\D-2\D-2[7F0%9A&amp;H-&amp;$:&amp;9-A-GD@'9TT'QVM:D`%9D`%9$]-S(O-R(O-R(EY:6]6$-T&gt;S0*22YEE]C3@R*"Z++`%EHM34?")0SSHR**Y%E3S9&amp;)?AZ+2E1P)B]31?`CHR**\%EXA3$U0D$O7Y-L.G&lt;O2Y!E`A#4S"*`"11I%H]!3?Q".Y++P!%XA#4_!*0#SFQ".Y!E]!#2:F?18&amp;AB/$35%1?0A&lt;OS8'8@+1R'D^UTRP605'6']M^9:2&lt;Q4V$6&lt;@/05.56^I^1658RDV&amp;V:`%461P&lt;#[I(KC4LQ?[1@[HL[D&lt;_E&lt;_JK_J#`G5X^YYOFUUP&amp;YV/&amp;QU([`VW[XUX;\V7;TU8K^VH+ZV'+R?(N;0&gt;(/R^VXHUP0T0W.@HYO`96HI_YV84TGO59PCA:W[Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.4</Property>

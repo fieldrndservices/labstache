@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Nodes.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Terminal&lt;/B&gt; class represents any node that cannot have children in an Abstract Syntax Tree (AST). This is sometimes known has a "Leaf".</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Nodes\Terminal\Terminal.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)@!!!*Q(C=\&gt;4.=3)R')4B^N9?^EI'7[4QH8UD"6,Y5O$K)SFU#K2!#JU#+:$#\)P1_K@+G$WMKXSQ:)&amp;J;;1(D2BJF&amp;`34SXXSO/(Z&lt;H`RMC8^0W*XP9P)XC^[JP_:&gt;3`&lt;_`U,Y_X_W`Z\R6^7,\\P`O`&gt;P`^Y`VU`U@QO56['&amp;*;;+9VL=;X7U)?]J#(0/1B.\H*47ZSEZO]S:O]S:O]S:O]S)O]S)O]S)N]6(+2CVTE\%J90#Q5*AU4B-&amp;1&amp;&amp;[#*XC#*XDYK/!*HO!*HO"BC))H?))H?)+(SR1]Q2-]Q2-]4$5E':5=4`!QP9T(?)T(?)S(*75]"G!7-R/&lt;37$)&gt;*J`D-&gt;YD)&gt;`:4T'9TT'9TRUSXC-RXC-RXCY:/S+B_:3S@%QD2J0YWE]D;@R-,5;4_.J0)WH]&lt;#='E`D;2$.AMXE%.2=V!RI0D3?RM/&lt;'E`D;4S.J`(1.?Z1DZWZ;#[6(%`B+4S&amp;J`!5(K:1Y3E]B;@Q&amp;"[G6?%J0)7H]"1?FF,B+4S&amp;JY!5C\+]CMG+#YN"26"Y_"OHJ=:&gt;]J$5K0/H?4WIGA&gt;1]W"J(BD.A["ZAT6PH/9.U&gt;RIT1X5X"D.,[TZ243"GANL4KAZ5'&gt;?4\1D\5$&lt;UX;U,7V$7^.7FUP`]]$T_;T4[;4D];D$Y;$^@K`&gt;&lt;K@N&gt;KP.:K0V?KX6;P8]N0J.P:;(@XUO04(W-^LVO@16HIX[I?869ZY^_A.UTH&lt;L!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.5</Property>

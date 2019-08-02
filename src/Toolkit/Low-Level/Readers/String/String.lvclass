@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Readers.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;String&lt;/B&gt; class represents a reader of a Mustache template that is stored as a LabVIEW string.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Readers\String\String.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)J!!!*Q(C=\&gt;3^=3*"%-8R*Z5-O73A)I7W]5C"&amp;$I&amp;8*GEU#G1!CG]&amp;%C"&amp;0&lt;_/^MHE!QYYV1F1T--,'__@OQO+YXS+LVI?F1W&gt;UPX8]@VU@3J`S;;FI0J[`T2RGP;`$W_^M]4JMX(;[EX[S_4&lt;I:]\L`H@V2UN`TW``&lt;`\0\(N`@\YT`"^R&lt;J;5BJJB5N;4&amp;_X72SEZP=Z#9X?:%8?:%8?:%8?:)H?:)H?:)H?:!(?:!(?:!(_;DE)B?ZS$EL:H/TE6H5,'!'1Z&amp;Z-R\D-2\DY;O-RXC-RXC-BS%S(O-R(O-R(K&lt;*?)T(?)T(?&amp;BK3$QK/2\D98E6HM*4?!J0Y7&amp;,&amp;:Y#5'R7,&amp;QM!E.&amp;:X&amp;1?!J0Y?&amp;1B;@Q&amp;*\#5XDI6O%J0)7H]"1?JIST5E-T6X)],+0%EXA34_**0#SNR*.Y%E`C34RMJ]34?"*%MG'S/!1FEZ)"S:@%EXDY5/**0)EH]31?OM96SH&amp;G:MV=S@%%HM!4?!*0Y'%*":\!%XA#4_"B717?Q".Y!E`A93M&amp;HM!4?!*)M#H&lt;+VAMG"A-#I,!QWP=,4'O5AV*D.J`T?6'6&gt;_![BN,@=/I&lt;Q4V"6:@/05&amp;5:^I^1F5HRDV$V&lt;`%$61P&lt;&amp;[1@6!88A`UU[U)_V!W^.WN#VN46P.5``TQ-PFIP0ZL.0JJ/0RK-0BI0V_L^VOJ_VWK`6[L&gt;6K^@'U?K-OZ?F@HUPPD0W/NDS8@M+T5=_;&lt;B\TH+-`Q6S$T1!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.2</Property>

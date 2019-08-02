@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Tokens.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Comment&lt;/B&gt; class represents a Comment Mustache tag as a token.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Tokens\Comment\Comment.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)D!!!*Q(C=\&gt;3^=3*"%-8RJSM:=MHACB4;FE=+J.!JY-IEB5["&amp;%DBJ5!+J,$XJ_H3K;13H('KEK%&gt;BI]XMT/`H2V7[O.*?N2S\XC_?@RN8`JVIXW:^O74^O\2^5W@&gt;_.@S`0SWO&amp;^_T)@(]``T(`PU-XDJ`WH`8OXX^`?,`@`"&amp;^\3!]NJ:J;V+2'8^VC=J/&lt;X/1G.XG2&amp;XG2&amp;XG2&amp;XG3*XG3*XG3*XG1"XG1"XG1"XE8=J',8/3MCJH=4'1'.1/9TF"EXIT(?)T(?0AJYT%?YT%?Y[',D-&gt;YD-&gt;YD)@4:$T'9TT'9TQ-V2*X)=&gt;D0!SPQF.Y#E`B+4R-K=*4!)L*CI',17#I;#S_&amp;*\#5XDYKM*4?!J0Y3E].+PQ&amp;*\#5XA+$[@UKF2L,I5=$]-I]33?R*.Y%A^$+`%EHM34?")0USHR**Y%E5S9$!Z"S5F*B_2(YEE]@#DR**\%EXA3$UV^B\*8ZK+Z&amp;()]A3@Q"*\!%XA91I%H]!3?Q".Y'&amp;;"*`!%HM!4?*B+A3@Q"*Y!%ET+^!I'#UY-/A6"Y/(6OS8[,F6,IMP].;]&lt;6&lt;-".2N,MW%U'U&amp;TAT5X4H.$.!ON75$.QGAO7(-B'K"G9MW!GIY[]X[C(KE([J[[IW[J'_K;OLK=_J]\HM^HH5YH(9^((1Y(\@&gt;\\89\&lt;&lt;&gt;&lt;&lt;49&lt;L&gt;&gt;LL6;LV[@6&lt;]LV?0D8Z^),@&lt;_C8J^,X_(:K&amp;^;XDTG7;-`)$2Z]Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.6</Property>

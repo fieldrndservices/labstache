@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Tokens.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;End Section&lt;/B&gt; class represents an End Section  Mustache tag as a token.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Tokens\EndSection\EndSection.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)F!!!*Q(C=\&gt;4"51*"%)8BJ_8"+RF9J0$/XEC"&amp;$I&amp;LBZ*I6-A"6,I&amp;%C"&amp;.;@W3Y"L1)07O8"'1&gt;XX]T/@-QO+YXS,$VJOF&gt;?&lt;Z&lt;2@RYV8:[=_]_HLZ`G[_O`(&amp;RWT7&gt;&gt;LQ`0[U`TWP0SU`8V.`XXCG[7``\``L`&gt;@``R@LP`)`D&gt;)DU-+;VI31O;R\?&lt;CLT)C\T)C\T)ETT*ETT*ETT*ATT)ATT)ATT)47ZSEZP=Z#9@F6TE)B=ZOV)M8CR54&amp;J-5!S'IO+D]"3?QF.Y/&amp;8B+4S&amp;J`!5(I;I]"3?QF.Y#A_8K@!5HM*4?!I05QV*D5K/J`!QP2*0YEE]C3@RM+134Q*)&amp;EMG4C;"I;1T/5A]C3@R=+D%EXA34_**0(1L]33?R*.Y%A_8D&amp;X*I4F6=DR-I]!4?!*0Y!E]4+X!%XA#4_!*0#SHQ".Y!E3Q9$!Z"!58"1/#E]!4?0CHQ".Y!E`A#4RUD4M59W&gt;/GF-FRW-]RG-]RG-]4#(D-2\D-2\D96I:D`%9D`%9$UP*?)T(?!T%,-LS-J/:#]UA%RA0@_.J]&lt;B,/31?N8_;]Y/K@A$6$Z&lt;[A6%`#/I&lt;L,ZR[BOCXGDV"KIX2PW&amp;V6^%$61PL*Z106"(0A_U07V(W^)WN$6N26P3&amp;K&gt;,@XDA]8D5Y8$1@L`8&lt;L@4&gt;LP6:L02?LX7;L83=LH59L(Y?&amp;O^5/@S].XXUBND@[0.\[7`]'\5I[;,VTR\^!\+Z)30!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>

@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Nodes.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Comment&lt;/B&gt; class represents a Comment Mustache tag as a node in an Abstract Syntax Tree (AST).</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Nodes\Comment\Comment.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)E!!!*Q(C=\&gt;3^=3*"%-8RJSM:ZZ,"&amp;3GU,9]53+&amp;4Q*6*#JU#+:$#3Y%53'(P4^/FE_Z+)/.5*5-\$"^P:G&gt;_/TOMV-&gt;0[6(,P?0JZP(3PP4L2PMS\=M\\&gt;WD[_M_&lt;]?`FK@F4Y?`WJ@Z_0@]&gt;`XX$NU]PNO`W\^W_`XN`8T`4`#ZB`415KKJ25VK^.5N*D?ZS5VO=J-8?:%8?:%8?:%H?:)H?:)H?:)(?:!(?:!(?:"X)2?ZS%8/KJD*T52G5$/![1R&amp;ZMVYD-&gt;YD)?@-B\D-2\D-2[[S(C-RXC-RXAY4=:D0-:D0-&lt;$5#VR&amp;X)]RM0Q+DS&amp;J`!5HM,$F#I]";#9L"CY'!3'CM&lt;C3_%J0)7(LSI]B;@Q&amp;*\#1\-+4_%J0)7H]("+LUKVZF,)]4#-%E`C34S**`%QN"*0YEE]C3@R-*U34_**%-G%S?!1F*S5&gt;%B_**\%QY=34_**0)EH]&gt;$5&gt;SB\:3[;3S((%XA#4_!*0)'()22Y!E`A#4S"BW%6?!*0Y!E]A9?J&amp;(A#4_!*)-'E4+^AM/$%I&amp;-1""Z?P6OC\V+V*,L-8`/[545&lt;5,/R."N'MR%U.VBTYT1X2,01GA85,)TGAD58IA&amp;K*N9-K/GI-_]H[J&amp;[I/[J/_K7OK'OK;P,K@_ZY`F]VOFUUP&amp;YV/&amp;QU([`VW[XUX;\V7;TU8K^VGKV?HF;`;*=DY?00J??[@M:^@J=_AL02PX1]OIRTRL^"D&lt;Q?@-!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.12</Property>

@@ -14,8 +14,11 @@ All notable changes to this project will be documented in this file, which is wr
 - Tests
 - Examples
 - VI documentation
+- Class documentation
+- Project library documentation
 - HTML Help documentation
 - Scripts for building and packaging toolkit
+- Script for generating HTML help documentation from VIs, Classes, and project libraries
 - License file
 - On-disk project organization
 - LabVIEW project file

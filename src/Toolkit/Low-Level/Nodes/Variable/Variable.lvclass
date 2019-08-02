@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Nodes.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Variable&lt;/B&gt; class represents an Escaped or Unescaped Variable Mustache tag as a node in an Abstract Syntax Tree (AST).</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Nodes\Variable\Variable.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)=!!!*Q(C=\&gt;4.=2J"')4BFMM(8]H!21L@74&gt;3))5P";Y[EE+H1!KEU#G1!CGM8Y9J&amp;Z)N)6&gt;:64JI6I/AZ_^B&gt;FBJF"`3&gt;SXXSO/&lt;Z&lt;:^?@ST]T_X%TT,&lt;I=MVT\0IB@N9`RL\8`VXSN[MXSV@\6`\P&lt;\R`PJ`I`A9YPU-+455%VN;IVPNY1]Z#%0?=B$&lt;H+4G^TE*D&gt;ZET&gt;ZET&gt;ZET&gt;ZE2&gt;ZE2&gt;ZE2@ZO-B&amp;,H+2MSNB]&lt;"1G$2-%$J$58A*HO!*HO$BIY)H?))H?)+(,AK?Y!G?Y!E?BCFYAC&gt;YAC&gt;YG'J)-CZS0-($^$)?YT%?YT%?FJ4R')":T%RM*I%BUWD?')`R'!^P:4T'9TT'9TQUSXC-RXC-RXA9-H&lt;&amp;1X/ZS0%QD2J0YWE]D;@R-,5;4_.J0)WH]&lt;#='E`D;2$.AMXE%.1-;DIU(RJ0Y_'@'E`D;4S.J`(1./Z1DZWZ;#Y8/:\#5XA+4_%J0%SBQF.Y#E`B+4R-K]*4?!J0Y3E],+8#5XA+4Q%J&amp;G6Z&amp;:-6!YN/26"Y_"OHJ=:&gt;]J$5O/:0]XJ1.1_AZM(30$#;"U(T"GP?/-U&lt;ILH2GBOIO4';8VDTCWA#.2@7H&amp;#TI][]HKB([I'[J_[I7_K'OK;O,E0`=]@T_;T4[;4D];D$Y;$^@K`&gt;&lt;K@N&gt;KP.:K0V?KX6;P8\;@74[VI?XPN=?K,P2^4L=_ET0"PV4=P.9ZY^_A8+&amp;X$&lt;!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

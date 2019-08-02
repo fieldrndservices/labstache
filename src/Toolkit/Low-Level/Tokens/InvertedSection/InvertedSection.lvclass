@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Tokens.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Inverted Section&lt;/B&gt; class represents an Inverted Section Mustache tag as a token.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Tokens\InvertedSection\InvertedSection.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)H!!!*Q(C=\&gt;4.=?*!%-8RZSU@^EI'7[4QTNR)A21[";Y_EE+H1!KEU#G1!CFI`RLV&lt;NF&lt;;]M(5_5$%A0CT&gt;?0U3"J($_F:UVLR_\$A`LX7UT`LZ`_L:]H'?U[7+[7TV(`ZNRV[WHXOL[`,"X(V:`_+`[V1R]?D`J(`@?O8^`?,_N`APM?UN/15IK3F+"Y`,KJS)O]S)O]S)M]S:-]S:-]S:-]S)-]S)-]S)0=Z#9XO=F.&lt;P*REIN=Z#*H69L*CYG+19M"CM:16,Q6HM*4?!I08V6Y#E`B+4S&amp;BS9K0)7H]"3?QE-X&amp;:\#5XA+4_&amp;BK#'J=:,D+4Q-L]34?"*0YEE]4+H%EQ#3S:+"EU&amp;A++F-,B*0YEE]8#LR**\%EXA3$^6+0)EH]33?R%/8M3IZ.0.*DI&gt;B&amp;(A#4_!*0)'(I26Y!E`A#4S"B_E5?!*0A!AG$!;(I+"4U#$Y%HA#$R]+0)%H]!3?Q%06O%-R6G&lt;7T#=Z(O-R(O-R(O.B#"G0]2C0]2A0Q]JYD-&gt;YD-&gt;YG%L'9TT'9S"G5K;8'=RU.)V-9$S]RG\RO%MZ*"ZH`T78D;L?A/K.J&gt;YQ[IWAPM(K'[?_)?K&amp;6C_A?G(50VD^1^2!^=4K!&gt;5.&gt;?0^3LF1TJ14Z5AZ50;5,75T&gt;`XCBL@&lt;4&gt;@L6:@,2?@T7;@43=@D59@$1@P^8NPN6JP.ZO`4[B@H=DR^^LHU1NN\F/7Z^"W?D@KB[&gt;6DHD8[$=[;A]U!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>

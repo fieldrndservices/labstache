@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Data.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Boolean&lt;/B&gt; class represents a Mustache boolean (&lt;b&gt;true&lt;/b&gt; or &lt;B&gt;false&lt;/B&gt;) data type and value.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Data\Boolean\Boolean.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)@!!!*Q(C=\&gt;3^=3*"')4BVN5:ZZ,"&amp;3GU@2YJE-+8!KZ-5PB3)!63["2)A23Y&gt;Y?2#F62=-;J3I:G.1B[`BZGBZ6'_38^V/6:_@/Q,/U@/FXON._G^^L@8E;^&gt;BG@&lt;M@@P_[.@RPXXP\9`[TI9@FO`W\`WOX0D`@L]R`"ZR&lt;J:5CJI4;VK"\@\B,SE)=]Z#%0?:-X?:-X?:-X?:%8?:%8?:%8O=F.&lt;H+4G^TEYS)8O=B&amp;TK[%R=.#9&gt;)Q1?A-2?%F?))H?)+(DQK?Y!G?Y!E?OCBYAC&gt;YAC&gt;Y'+&lt;A#:\A#:\A9;IBS&lt;D)]110U[PR.*\'UXA;$UOK]43!:L&amp;GYG93''I;GT?.J`%U(N[K]43?RN.Y'A`.;DS.J`%UHM&lt;$E,%L044,29[(;62Y#E`B+4S&amp;B[F6?!J0Y3E]B9@F6(A+4Y%I&amp;CQGB["C5.'B_&amp;"Y#A``6(A+4_%J0)7(JH'(;OT-IFEO=DT'9TT'9TT'QR1S(O-R(O-R(K;6]2C0]2C0]&lt;#5D-&gt;YD-&gt;!T+)M,T/:'7A[G="Y_"OHR?-O^:"Y80/H?4WIGA&gt;1]W"J(BD.A["ZAT6PH/9.U&gt;RIT1X5X"D.,[TZ243"GANL4KD:57&gt;?4^1D^5$&gt;5X@5,86$86.8S^$`X0&amp;]0ONU/OFY0/JQ/'C`XWOXWWG\X7KTW7C^8GOV7LU`L8ZT8=P,PT[88OH\'@8[80I+TU&lt;^U/8G-=]?`15.[)H&gt;!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.2</Property>

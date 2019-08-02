@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Tokens.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Escaped Variable&lt;/B&gt; class represents an Escaped Variable  Mustache tag as a token.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Tokens\EscapedVariable\EscapedVariable.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)I!!!*Q(C=\&gt;3R=3*"%)8BJSM:ZZ,"&amp;3E]7RYJE%+HA#O4&amp;$I&amp;5C#&amp;4I%53'(OX^EO&amp;;&gt;3Q2F3F1T.;E#]G?HZW&amp;V7GOWX^+TRK,X=&lt;4V_-W_]D!`'&lt;Z)0R]&gt;&lt;H_0,_XCX@H3:M&gt;99`[Z@";-HD8@D&gt;`S0GO[WH`'@]?]^`PDW@HX])`D;*DV.+&lt;XI31_[Z\=&lt;26\E26\E26\E3:\E3:\E3:\E12\E12\E12\E*D?ZS5VO=J00AVTE)B=Z:[89P.CI+&amp;I5+#:$5@&amp;3?!J0Y3E]@&amp;4B+4S&amp;J`!5(K;I]"3?QF.Y#A`,6(A+4_%J0)7(5F.3]S$(5XAIL]34?"*0YEE]&lt;+H%EQ#3T:,#32%93A;4@R*0YEE]`+P%EXA34_**0!QL]33?R*.Y%A^,ZFH*K6E/=DS55?!*0)%H]!1?3CPQ"*\!%XA#$^MJ]!3?!"&amp;M'"3(I'"2-#(Y%(A#$W]+0)%H]!3?Q-01P%)RT]SC71ZS0-:D0-:D0-:$#2G0]2C0]2A0:75]RG-]RG-]&lt;#8D-2\D-2#T+&gt;P,&amp;$-,T314'!^`]W\RP%IZ*:Z(`T48'V6^![JP,05.I\Y2V"&gt;9@?(5&amp;U2^IN5H5(VCV&amp;^9`585108'[I,KC&lt;LS?K'@[3@[E8[A\_E\_J;_7::_]M4L^;L,Z;,T_;T4[;4D];D$Y;$^@K`&gt;&lt;K@N&gt;KP.:P0WN0L$M&lt;;H`XUOP4,X+`L[80I/TU&lt;^ULBZT(//`A*\@9!$!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

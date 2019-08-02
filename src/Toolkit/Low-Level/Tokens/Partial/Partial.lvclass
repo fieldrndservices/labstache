@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Tokens.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Partial&lt;/B&gt; class represents a Partial Mustache tag as a token.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Tokens\Partial\Partial.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)H!!!*Q(C=\&gt;3^=3*"%-8RRZ5-O72Q21JNYZ%#+81+O*CE]&amp;)A"6,I&amp;%C"&amp;0&lt;_/T1H4H5&amp;-K1K'&gt;L6L*9X8T^GBZ8']3K^;(JWL"]?V`JXT;;X;^@@MP8\G`P_80JPX&gt;?\`P.F[I'GW`U`^&lt;=_`_H`S0`MU-0DJ`[H`HP80^`?__=`AK]^J-715IJC3F*C@,OJS)O]S)O]S)P=Z#9XO=F.&lt;P)E4`)E4`)E4`)A$`)A$`)A$`*REIN=Z#*H69L*CYG+19M"CM:16&amp;Q+4_%J0)7(DSI]B;@Q&amp;*\#1R-6HM*4?!J0Y;'&lt;#E`B+4S&amp;J`!QV*$5/-HR&amp;"['F`%9D`%9D`%QJ9T(!-RE:G!T#!S:3H.D0-:D0.T+?)T(?)T(?+C7]2C0]2C0]&gt;"FL)K(:D\*]4#-%E`C34S**`%QN"*0YEE]C3@R-*U34_**%-G%S?!1F(2+'C1@%E`CY:]34_**0)EH]6!VHF#/F:EV]UG/*`!%HM!4?!)01SDQ"*\!%XA#$]-K]!3?Q".Y!A^4+@!%HM!41)**G6\"9%((I&amp;%1""\_RG[*]:1]*$(/`GF?.[J[![IXFHL$K$?#_A'L(ZT[A;A87LW![I62@W(V&amp;V%$V2/L"V1XV)8LG8+C(#E(SI[SJ7QI+]JS\PL*$3_8C]\HMU[HEY\(IQ[(AX;\H&lt;&lt;&lt;L4;&lt;D6;LF:&lt;,Z&gt;_XV7`/[\(Y[(NJ4^OP+.@XUH&gt;Y._K8JLP80'PU"Y\TA9=!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.3</Property>

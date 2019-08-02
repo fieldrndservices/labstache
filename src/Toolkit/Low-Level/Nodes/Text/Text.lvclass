@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Nodes.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">The &lt;B&gt;Text&lt;/B&gt; class represents a block of text without any Mustache tags as a node in an Abstract Syntax Tree (AST).</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/Field R&amp;D Services/Labstache.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">pages\Toolkit\Advanced\Nodes\Text\Text.html</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)A!!!*Q(C=\&gt;3R=3*"%)8BJ[MTTC7$+V*YNDR3))6/!6=G+81+J%!+H1)JE-,?PU/8N+I\Y!R2B;&amp;&gt;"IEXMTU@M].+Y`AF`&gt;2U\XC^?8TU`XPI)FRU4^@[J`EV@;K[\*]O&lt;V?PHR:D`OK`YL^X[/&lt;RX@`&gt;`^T^^\@XW`U@Q7-0[76);56,7N!]PNV5Z%6?Z%6?Z%7?Z%G?Z%G?Z%E?Z%%?Z%%?Z%&amp;O=J/&lt;X/1G.`EYS55O=J'T+M8ER52&amp;U;*!-2C+CL@#5XA+4_(BIQJ0Y3E]B;@Q-%3&amp;J`!5HM*4?,B-B;@Q&amp;*\#5XAI.31V4H)]B9@S3DS**`%EHM4$F%I]#3#:,#G=&amp;)'BJ$0Z*`%EHM4$PUI]C3@R**\%1\=34_**0)EH]8$*7*5=GPEERU-:":\!%XA#4_#BN!*0Y!E]A3@Q-*U#4_!*%-'%18%)#CY+"A1@!E`AY9]#4_!*0)%H].!V\F#-F:EV]UG/RXC-RXC-RXAI)?-R(O-R(O/BL)T(?)T(?)S(K71]RG-]"G)G:8K:9O:#-]A%RM.L\";0OZ2$YH(W4`/S5&gt;5&lt;5,WRV"N'P2(5.VB^Y^1X2,X1[A65,YT[#[O`C"KIHFB&gt;5$V1:^Z0N#0N1.P4&gt;L1N&lt;5.&lt;UV&lt;TJ6]]](Q_[X1[[8A][H!Y;,`@;\@&lt;;&lt;P&gt;;L0:;,V?;\6;P4_N@H.?DJ@`@3[^-@92\@*=?I:HIXZI7DTG7;-`.VFTYQ!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.5</Property>
