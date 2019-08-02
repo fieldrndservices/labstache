@@ -506,10 +506,6 @@
                         <param name="Name" value="New">
                         <param name="Local" value="pages\Toolkit\Advanced\Tokens\Comment\New.html">
                     </OBJECT>
-                    <LI> <OBJECT type="text/sitemap">
-                        <param name="Name" value="Read Content">
-                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Comment\Read_Content.html">
-                    </OBJECT>
                 </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Contentable">
@@ -605,14 +601,6 @@
                     <LI> <OBJECT type="text/sitemap">
                         <param name="Name" value="New">
                         <param name="Local" value="pages\Toolkit\Advanced\Tokens\Text\New.html">
-                    </OBJECT>
-                    <LI> <OBJECT type="text/sitemap">
-                        <param name="Name" value="Read Content">
-                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Text\Read_Content.html">
-                    </OBJECT>
-                    <LI> <OBJECT type="text/sitemap">
-                        <param name="Name" value="Write Content">
-                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Text\Write_Content.html">
                     </OBJECT>
                 </UL>
                 <LI> <OBJECT type="text/sitemap">
