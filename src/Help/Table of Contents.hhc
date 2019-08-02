@@ -30,30 +30,130 @@
                 <param name="Name" value="Array">
                 <param name="Local" value="pages\Toolkit\Data\Array\Array.html">
             </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="From">
+                    <param name="Local" value="pages\Toolkit\Data\Array\From.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\Array\Read_Type.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Value">
+                    <param name="Local" value="pages\Toolkit\Data\Array\Read_Value.html">
+                </OBJECT>
+            </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Boolean">
                 <param name="Local" value="pages\Toolkit\Data\Boolean\Boolean.html">
             </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="From">
+                    <param name="Local" value="pages\Toolkit\Data\Boolean\From.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\Boolean\Read_Type.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Value">
+                    <param name="Local" value="pages\Toolkit\Data\Boolean\Read_Value.html">
+                </OBJECT>
+            </UL>
+            <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Datum">
+                <param name="Local" value="pages\Toolkit\Data\Datum\Datum.html">
+            </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\Boolean\Read_Type.html">
+                </OBJECT>
+            </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Function">
                 <param name="Local" value="pages\Toolkit\Data\Function\Function.html">
             </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Execute">
+                    <param name="Local" value="pages\Toolkit\Data\Function\Execute.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\Function\Read_Type.html">
+                </OBJECT>
+            </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Map">
                 <param name="Local" value="pages\Toolkit\Data\Map\Map.html">
             </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Find">
+                    <param name="Local" value="pages\Toolkit\Data\Map\Find.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="From">
+                    <param name="Local" value="pages\Toolkit\Data\Map\From.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\Map\Read_Type.html">
+                </OBJECT>
+            </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Null">
                 <param name="Local" value="pages\Toolkit\Data\Null\Null.html">
             </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="New">
+                    <param name="Local" value="pages\Toolkit\Data\Null\New.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\Null\Read_Type.html">
+                </OBJECT>
+            </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Path">
                 <param name="Local" value="pages\Toolkit\Data\Path\Path.html">
             </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="From">
+                    <param name="Local" value="pages\Toolkit\Data\Path\From.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\Path\Read_Type.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Value">
+                    <param name="Local" value="pages\Toolkit\Data\Path\Read_Value.html">
+                </OBJECT>
+            </UL>            
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="String">
                 <param name="Local" value="pages\Toolkit\Data\String\String.html">
             </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="From">
+                    <param name="Local" value="pages\Toolkit\Data\String\From.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\String\Read_Type.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Value">
+                    <param name="Local" value="pages\Toolkit\Data\String\Read_Value.html">
+                </OBJECT>
+            </UL>            
         </UL>
         <LI> <OBJECT type="text/sitemap">
             <param name="Name" value="Advanced">
@@ -91,14 +191,90 @@
                     <param name="Name" value="Data">
                     <param name="Local" value="pages\Toolkit\Advanced\Loaders\Data\Data.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Load">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\Data\Load.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\Data\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Path">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\Data\Write_Path.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write String">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\Data\Write_String.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="File">
                     <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\File.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Load">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\Load.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Extension">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\Read_Extension.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Root">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\Read_Root.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Search Path">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\Read_Search_Path.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Extension">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\Write_Extension.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Root">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\Write_Root.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Search Path">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\Write_Search_Path.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Loader">
+                    <param name="Local" value="pages\Toolkit\Advanced\Loaders\Loader\Loader.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Load">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\Loader\Load.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="String">
                     <param name="Local" value="pages\Toolkit\Advanced\Loaders\String\String.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Load">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\String\Load.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\String\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Key-Value">
+                        <param name="Local" value="pages\Toolkit\Advanced\Loaders\String\Write_Key-Value.html">
+                    </OBJECT>
+                </UL>
             </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Nodes">
@@ -109,30 +285,156 @@
                     <param name="Name" value="Comment">
                     <param name="Local" value="pages\Toolkit\Advanced\Nodes\Comment\Comment.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Comment\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Source">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Comment\Read_Source.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Delimiter">
                     <param name="Local" value="pages\Toolkit\Advanced\Nodes\Delimiter\Delimiter.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Delimiter\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Source">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Delimiter\Read_Source.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Node">
+                    <param name="Local" value="pages\Toolkit\Advanced\Nodes\Node\Node.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Delimiters">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Node\Read_Delimiters.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Source">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Node\Read_Source.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Delimiters">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Node\Write_Delimiters.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Non-Terminal">
+                    <param name="Local" value="pages\Toolkit\Advanced\Nodes\NonTerminal\NonTerminal.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Add Child">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\NonTerminal\Add_Child.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Children">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\NonTerminal\Read_Children.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Source">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\NonTerminal\Read_Source.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Partial">
                     <param name="Local" value="pages\Toolkit\Advanced\Nodes\Partial\Partial.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Partial\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Key">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Partial\Read_Key.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Source">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Partial\Read_Source.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Root">
                     <param name="Local" value="pages\Toolkit\Advanced\Nodes\Root\Root.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Root\New.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Section">
                     <param name="Local" value="pages\Toolkit\Advanced\Nodes\Section\Section.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Section\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Inverted">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Section\Read_Inverted.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Key">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Section\Read_Key.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Source">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Section\Read_Source.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Terminal">
+                    <param name="Local" value="pages\Toolkit\Advanced\Nodes\Terminal\Terminal.html">
                 </OBJECT>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Text">
                     <param name="Local" value="pages\Toolkit\Advanced\Nodes\Text\Text.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Text\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Source">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Text\Read_Source.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Variable">
                     <param name="Local" value="pages\Toolkit\Advanced\Nodes\Variable\Variable.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Variable\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Escaped">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Variable\Read_Escaped.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Key">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Variable\Read_Key.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Source">
+                        <param name="Local" value="pages\Toolkit\Advanced\Nodes\Variable\Read_Source.html">
+                    </OBJECT>
+                </UL>
             </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Parse">
@@ -144,9 +446,37 @@
             </OBJECT>
             <UL>
                 <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Reader">
+                    <param name="Local" value="pages\Toolkit\Advanced\Readers\Reader\Reader.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Is Done">
+                        <param name="Local" value="pages\Toolkit\Advanced\Readers\Reader\Is_Done.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Next">
+                        <param name="Local" value="pages\Toolkit\Advanced\Readers\Reader\Next.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="String">
                     <param name="Local" value="pages\Toolkit\Advanced\Readers\String\String.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="From">
+                        <param name="Local" value="pages\Toolkit\Advanced\Readers\String\From.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Is Done">
+                        <param name="Local" value="pages\Toolkit\Advanced\Readers\String\Is_Done.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Next">
+                        <param name="Local" value="pages\Toolkit\Advanced\Readers\String\Next.html">
+                    </OBJECT>
+                </UL>
             </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Render">
@@ -161,38 +491,154 @@
                     <param name="Name" value="Begin Section">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\BeginSection\BeginSection.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\BeginSection\New.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Comment">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\Comment\Comment.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Comment\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Content">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Comment\Read_Content.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Contentable">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\Contentable\Contentable.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Content">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Contentable\Read_Content.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Content">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Contentable\Write_Content.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="End Section">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\EndSection\EndSection.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\EndSection\New.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Escaped Variable">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\EscapedVariable\EscapedVariable.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\EscapedVariable\New.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Inverted Section">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\InvertedSection\InvertedSection.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\InvertedSection\New.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Keyable">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\Keyable\Keyable.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Content">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Keyable\Read_Key.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Content">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Keyable\Write_Key.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Partial">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\Partial\Partial.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Partial\New.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Set Delimiter">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\SetDelimiter\SetDelimiter.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\SetDelimiter\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\SetDelimiter\Read_New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Old">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\SetDelimiter\Read_Old.html">
+                    </OBJECT>
+                </UL>
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Text">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\Text\Text.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Text\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Content">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Text\Read_Content.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Content">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Text\Write_Content.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Token">
+                    <param name="Local" value="pages\Toolkit\Advanced\Tokens\Token\Token.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Delimiters">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Token\Read_Delimiters.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write Content">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\Token\Write_Delimiters.html">
+                    </OBJECT>
+                </UL>                
                 <LI> <OBJECT type="text/sitemap">
                     <param name="Name" value="Unescaped Variable">
                     <param name="Local" value="pages\Toolkit\Advanced\Tokens\UnescapedVariable\UnescapedVariable.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Tokens\UnescapedVariable\New.html">
+                    </OBJECT>
+                </UL>
             </UL>
             <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Writers">
@@ -203,6 +649,30 @@
                     <param name="Name" value="String">
                     <param name="Local" value="pages\Toolkit\Advanced\Writers\String\String.html">
                 </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="New">
+                        <param name="Local" value="pages\Toolkit\Advanced\Writers\String\New.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Read Output">
+                        <param name="Local" value="pages\Toolkit\Advanced\Writers\String\Read_Output.html">
+                    </OBJECT>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write">
+                        <param name="Local" value="pages\Toolkit\Advanced\Writers\String\Write.html">
+                    </OBJECT>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Writer">
+                    <param name="Local" value="pages\Toolkit\Advanced\Writers\Writer\Writer.html">
+                </OBJECT>
+                <UL>
+                    <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Write">
+                        <param name="Local" value="pages\Toolkit\Advanced\Writers\Writer\Write.html">
+                    </OBJECT>
+                </UL>
             </UL>
         </UL>    
     </UL>
