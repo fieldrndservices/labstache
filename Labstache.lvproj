@@ -30,6 +30,7 @@
 			<Item Name="README.md" Type="Document" URL="../README.md"/>
 		</Item>
 		<Item Name="Examples" Type="Folder">
+			<Item Name="Simple - File Input.mustache" Type="Document" URL="../src/Examples/Simple - File Input.mustache"/>
 			<Item Name="Simple - File Input.vi" Type="VI" URL="../src/Examples/Simple - File Input.vi"/>
 			<Item Name="Simple - String Input.vi" Type="VI" URL="../src/Examples/Simple - String Input.vi"/>
 			<Item Name="String-Based Partial Loading.vi" Type="VI" URL="../src/Examples/String-Based Partial Loading.vi"/>
