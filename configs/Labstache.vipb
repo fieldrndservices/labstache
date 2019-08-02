@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-07-27 15:45:12" Creator="cfield" Comments="" ID="09d3016be33036dbcb8348d0f15a4dfe">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-02 14:34:31" Creator="cfield" Comments="" ID="e012bc3c158847cad7db6c70b88b0bed">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_Labstache</Package_File_Name>
     <Library_Version>1.0.0.1</Library_Version>
@@ -116,6 +116,24 @@
       <Destination_Overrides>
         <Path>Help/Labstache.chm</Path>
         <Destination>4</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Simple - File Input.mustache</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Simple - File Input.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/String-Based Partial Loading.vi</Path>
+        <Destination>1</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
@@ -264,7 +282,7 @@
         <Path>..\builds\Low-Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C9B6CE7634641D49560410CB6BE9C196</GUID>
+      <GUID>3D3F38F0169486A6CD98B2BF2D89E609</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -369,7 +387,7 @@
         <Path>..\builds\Toolkit\Data\Null\New.vi</Path>
         <VI_Title>Null</VI_Title>
       </Items_Data>
-      <GUID>DF7C949F6A409DE986BD02A71F106948</GUID>
+      <GUID>DAD0E48CD432904D68DC7B642146AD03</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -516,7 +534,7 @@
         <Path>..\builds\Lexer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>958440C0032629C07CBD9047D52C01C7</GUID>
+      <GUID>1660BD6DDC7551E6A4403F78AF771663</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -747,7 +765,7 @@
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Search Path.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ED8A8007BF00033C156ECAB3E6F7B141</GUID>
+      <GUID>C5483DF5DCE1DDE46CAE92A98A879C20</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -810,7 +828,7 @@
         <Path>..\builds\Toolkit\Low-Level\Readers\String\Is Done.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>95E71A245E0CAF871578557D1D32F6BF</GUID>
+      <GUID>0297E320948A1B39559E165717756E0A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -873,7 +891,7 @@
         <Path>..\builds\Toolkit\Low-Level\Writers\String\New.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2295D2745D231619286994603CBE92E2</GUID>
+      <GUID>BE16722122FC58EB9CD512790DF0C164</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1020,7 +1038,7 @@
         <Path>..\builds\Toolkit\Low-Level\Tokens\UnescapedVariable\New.vi</Path>
         <VI_Title>Unescaped Variable</VI_Title>
       </Items_Data>
-      <GUID>FBF5266D730E80416ACA3BD81E0728F7</GUID>
+      <GUID>550350B7380E6DFAF1595648BE900D3E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1139,7 +1157,7 @@
         <Path>..\builds\Toolkit\Low-Level\Nodes\Variable\New.vi</Path>
         <VI_Title>Variable</VI_Title>
       </Items_Data>
-      <GUID>FE6E7929E653BB70B6A49519000CAE9D</GUID>
+      <GUID>1F1C00EF34205303BDBE8056B237CEC5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1202,7 +1220,7 @@
         <Path>..\builds\Toolkit\Low-Level\Lexer\Run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>67B4F42AB457805D244C09B3B1E8DB6B</GUID>
+      <GUID>78D0F46388F4431DB5D9346EE63B1F83</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
