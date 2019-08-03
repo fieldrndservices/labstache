@@ -119,6 +119,32 @@
                 </OBJECT>
             </UL>
             <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Pair">
+                <param name="Local" value="pages\Toolkit\Data\Pair\Pair.html">
+            </OBJECT>
+            <UL>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="From">
+                    <param name="Local" value="pages\Toolkit\Data\Pair\From.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Into">
+                    <param name="Local" value="pages\Toolkit\Data\Pair\Into.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Key">
+                    <param name="Local" value="pages\Toolkit\Data\Pair\Read_Key.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Type">
+                    <param name="Local" value="pages\Toolkit\Data\Pair\Read_Type.html">
+                </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                    <param name="Name" value="Read Value">
+                    <param name="Local" value="pages\Toolkit\Data\Pair\Read_Value.html">
+                </OBJECT>
+            </UL>
+            <LI> <OBJECT type="text/sitemap">
                 <param name="Name" value="Path">
                 <param name="Local" value="pages\Toolkit\Data\Path\Path.html">
             </OBJECT>

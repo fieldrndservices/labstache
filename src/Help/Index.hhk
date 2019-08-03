@@ -6,8 +6,16 @@
 </HEAD><BODY>
 <UL>
     <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Array">
+        <param name="Local" value="pages\Toolkit\Data\Array\Array.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="BeginSection Token">
         <param name="Local" value="pages\Toolkit\Advanced\Tokens\BeginSection\BeginSection.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Boolean">
+        <param name="Local" value="pages\Toolkit\Data\Boolean\Boolean.html">
         </OBJECT>
     <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="Comment Node">
@@ -34,6 +42,10 @@
         <param name="Local" value="pages\Toolkit\Advanced\Loaders\Data\Data.html">
         </OBJECT>
     <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Datum">
+        <param name="Local" value="pages\Toolkit\Data\Datum\Datum.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="Delimiter Node">
         <param name="Local" value="pages\Toolkit\Advanced\Nodes\Delimiter\Delimiter.html">
         </OBJECT>
@@ -48,6 +60,10 @@
     <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="File Loader">
         <param name="Local" value="pages\Toolkit\Advanced\Loaders\File\File.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Function">
+        <param name="Local" value="pages\Toolkit\Data\Function\Function.html">
         </OBJECT>
     <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="InvertedSection Token">
@@ -74,6 +90,10 @@
         <param name="Local" value="pages\Toolkit\Advanced\Loaders\Loader\Loader.html">
         </OBJECT>
     <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Map">
+        <param name="Local" value="pages\Toolkit\Data\Map\Map.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="Nodes">
         <param name="Local" value="pages\Toolkit\Advanced\Nodes\Nodes.html">
         </OBJECT>
@@ -86,6 +106,14 @@
         <param name="Local" value="pages\Toolkit\Advanced\Nodes\NonTerminal\NonTerminal.html">
         </OBJECT>
     <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Null">
+        <param name="Local" value="pages\Toolkit\Data\Null\Null.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Pair">
+        <param name="Local" value="pages\Toolkit\Data\Pair\Pair.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="Parse">
         <param name="Local" value="pages\Toolkit\Advanced\Parse.html">
         </OBJECT>
@@ -96,6 +124,10 @@
     <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="Partial Token">
         <param name="Local" value="pages\Toolkit\Advanced\Tokens\Partial\Partial.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Path">
+        <param name="Local" value="pages\Toolkit\Data\Path\Path.html">
         </OBJECT>
     <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="Readers">
@@ -124,6 +156,10 @@
     <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="String Loader">
         <param name="Local" value="pages\Toolkit\Advanced\Loaders\String\String.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="String">
+        <param name="Local" value="pages\Toolkit\Data\String\String.html">
         </OBJECT>
     <LI> <OBJECT type="text/sitemap">
         <param name="Name" value="String Reader">
