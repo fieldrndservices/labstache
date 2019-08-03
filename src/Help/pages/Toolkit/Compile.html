@@ -26,9 +26,11 @@
 <select name="site" size="1" onchange="polyVISelectHandler(this)">
 <option value="">Select an instance</option>
 
-<option value="parent">String Array</option>
+<option value="parent">Data</option>
 
-<option value="instance1">Data</option>
+<option value="instance1">Pair Array</option>
+
+<option value="instance2">String Array</option>
 
 </select>
 </td>
@@ -38,12 +40,48 @@
 
 <div id="styleDivScrolling">
 
-<h2><a name="parent">String Array</a></h2>
-<p class="Anchor"><img src="/images/Compile_with_String_Arrayc.png" alt="String Array"></p>
+<h2><a name="parent">Data</a></h2>
+<p class="Anchor"><img src="/images/Compile_with_Datac.png" alt="Data"></p>
 <table class="Borderless">
 
 <tr>
-<td class="Icon"><img src="/images/c1dcclst.png" alt="c1dcclst"></td>
+<td class="Icon"><img src="/images/cToolkit_lvlib_Data_lvlib_Datumlvclass.png" alt="cToolkit_lvlib_Data_lvlib_Datumlvclass"></td>
+<td><strong>Data</strong> is any Mustache data object. The type and value of Mustache data affects the rendering process of a parsed Mustache template.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/cToolkit_lvlib_Loaders_lvlib_Loaderlvclass.png" alt="cToolkit_lvlib_Loaders_lvlib_Loaderlvclass"></td>
+<td><strong>Loader</strong> is responsible for importing, or including, other Mustache templates within the root template.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/cerrcodeclst.png" alt="cerrcodeclst"></td>
+<td><strong>Error In</strong> describes error conditions that occur before this node runs. This input provides standard error in functionality. <p>Right-click the <strong>Error In</strong> indicator on the front panel and select <strong>Explain Error</strong> or <strong>Explain Warning</strong> from the shortcut menu for more information about the error.</p></td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/cstr.png" alt="cstr"></td>
+<td><strong>Input</strong> is a logic-free Mustache template as a string that will be compiled, or rendered, to the output based on the data provided.</td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/ierrcodeclst.png" alt="ierrcodeclst"></td>
+<td><strong>Error Out</strong> contains error information. This provides standard error out functionality.<p>Right-click the <strong>Error Out</strong> indicator on the front panel and select <strong>Explain Error</strong> or <strong>Explain Warning</strong> from the shortcut menu for more information about the error.</p></td>
+</tr>
+
+<tr>
+<td class="Icon"><img src="/images/istr.png" alt="istr"></td>
+<td><strong>Output</strong> is a string representing the completely lexed, parsed, and rendered Mustache template passed as input based on the data types and values.</td>
+</tr>
+
+</table>
+
+<h2><a name="instance1">Pair Array</a></h2>
+<p class="Anchor"><img src="/images/Compile_with_Pair_Arrayc.png" alt="Pair Array"></p>
+<table class="Borderless">
+
+<tr>
+<td class="Icon"><img src="/images/c1dToolkit_lvlib_Data_lvlib_Pairlvclass.png" alt="c1dToolkit_lvlib_Data_lvlib_Pairlvclass"></td>
 <td><strong>Data</strong> is an array of key-value pairs of LabVIEW String primitive values. The rendering of a Mustache template is dependent on the existence and type of data provided at compilation.</td>
 </tr>
 
@@ -74,13 +112,13 @@
 
 </table>
 
-<h2><a name="instance1">Data</a></h2>
-<p class="Anchor"><img src="/images/Compile_with_Datac.png" alt="Data"></p>
+<h2><a name="instance2">String Array</a></h2>
+<p class="Anchor"><img src="/images/Compile_with_String_Arrayc.png" alt="String Array"></p>
 <table class="Borderless">
 
 <tr>
-<td class="Icon"><img src="/images/cToolkit_lvlib_Data_lvlib_Datumlvclass.png" alt="cToolkit_lvlib_Data_lvlib_Datumlvclass"></td>
-<td><strong>Data</strong> is any Mustache data object. The type and value of Mustache data affects the rendering process of a parsed Mustache template.</td>
+<td class="Icon"><img src="/images/c1dcclst.png" alt="c1dcclst"></td>
+<td><strong>Data</strong> is an array of key-value pairs of LabVIEW String primitive values. The rendering of a Mustache template is dependent on the existence and type of data provided at compilation.</td>
 </tr>
 
 <tr>
