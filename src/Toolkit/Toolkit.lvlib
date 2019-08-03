@@ -49,6 +49,7 @@
 	<Item Name="Support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Compile with Data.vi" Type="VI" URL="../Support/Compile with Data.vi"/>
+		<Item Name="Compile with Pair Array.vi" Type="VI" URL="../Support/Compile with Pair Array.vi"/>
 		<Item Name="Compile with String Array.vi" Type="VI" URL="../Support/Compile with String Array.vi"/>
 	</Item>
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
