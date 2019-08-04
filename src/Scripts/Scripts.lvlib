@@ -44,6 +44,7 @@
 		<Item Name="Library Owning Palette.vi" Type="VI" URL="../Support/Library Owning Palette.vi"/>
 		<Item Name="Library VI Children Data.vi" Type="VI" URL="../Support/Library VI Children Data.vi"/>
 		<Item Name="Library.mustache" Type="Document" URL="../Support/Library.mustache"/>
+		<Item Name="Move VI Image.vi" Type="VI" URL="../Support/Move VI Image.vi"/>
 		<Item Name="Polymorphic Children Data.vi" Type="VI" URL="../Support/Polymorphic Children Data.vi"/>
 		<Item Name="Polymorphic_VI.mustache" Type="Document" URL="../Support/Polymorphic_VI.mustache"/>
 		<Item Name="Print Polymorphic VI Instances.vi" Type="VI" URL="../Support/Print Polymorphic VI Instances.vi"/>
