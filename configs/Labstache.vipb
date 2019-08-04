@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-03 14:36:53" Creator="cfield" Comments="" ID="99ff9d251ffdd9e91d46e6f1a022c0f9">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-04 12:50:14" Creator="cfield" Comments="" ID="b3e25bb4c0a782ebb9fd30319c9ac98e">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_Labstache</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -299,7 +299,7 @@
         <Path>..\builds\Low-Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D16085390871BD7E6BB385E2CBA162A4</GUID>
+      <GUID>FE6513AE8B3CB3B2448358BBB3E092FC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -337,7 +337,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>From.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>From</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -558,7 +558,7 @@
         <Path>..\builds\Toolkit\Data\Pair\Into.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4D10B48C29927D151EA86291EC7D8889</GUID>
+      <GUID>A6204397B1DED7037A901D0E7F8E9469</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -705,7 +705,7 @@
         <Path>..\builds\Lexer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CFAD0BE4F05D832DB45F7C0263EFBFB8</GUID>
+      <GUID>FC79B05293E1BA553C8D7A07BA60FF68</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -936,7 +936,7 @@
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Search Path.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>631069C76DBCC4BA05FA72B70C77303F</GUID>
+      <GUID>96DECC467FA84600278D8D41A4E67C2F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -999,7 +999,7 @@
         <Path>..\builds\Toolkit\Low-Level\Readers\String\Is Done.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>62482B60163A802254AF82C7D1A5BD01</GUID>
+      <GUID>8761CC0A9551C0D6B1132660DD083434</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1062,7 +1062,7 @@
         <Path>..\builds\Toolkit\Low-Level\Writers\String\New.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>989A97C098BD8CDCA6F1E09F4DAE3F05</GUID>
+      <GUID>3729432F2668640D74CE6AF93408D738</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1293,7 +1293,7 @@
         <Path>..\builds\Toolkit\Low-Level\Tokens\Contentable\Read Content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D30CF420FC304E010A44FF3EE83362BA</GUID>
+      <GUID>EE08D62B721829B8A72542047279B733</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1552,7 +1552,7 @@
         <Path>..\builds\Toolkit\Low-Level\Nodes\Section\Read Inverted.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>40199C9646DE2D5A1C0F43373EDD28DE</GUID>
+      <GUID>88FAB463489AD339DA97BECF8BBBE4C7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1615,7 +1615,7 @@
         <Path>..\builds\Toolkit\Low-Level\Lexer\Run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A7ADE9A98DFA52036D6D0EAFF7BE2847</GUID>
+      <GUID>4CAD8AA22B7E19686004FC3FAB100820</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
