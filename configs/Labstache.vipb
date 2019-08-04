@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-04 12:50:14" Creator="cfield" Comments="" ID="b3e25bb4c0a782ebb9fd30319c9ac98e">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-04 13:07:24" Creator="cfield" Comments="" ID="0f1e73802dbe0f95de89a4f3e458faf6">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_Labstache</Package_File_Name>
     <Library_Version>1.0.0.4</Library_Version>
@@ -299,7 +299,7 @@
         <Path>..\builds\Low-Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FE6513AE8B3CB3B2448358BBB3E092FC</GUID>
+      <GUID>11270E21B03979939F89EFA1FF0772B0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -558,7 +558,7 @@
         <Path>..\builds\Toolkit\Data\Pair\Into.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A6204397B1DED7037A901D0E7F8E9469</GUID>
+      <GUID>F4877053245C2DDCFC86C683C82E6769</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -705,7 +705,7 @@
         <Path>..\builds\Lexer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FC79B05293E1BA553C8D7A07BA60FF68</GUID>
+      <GUID>025EAE0E5EBAE39C9C990FAF378F8D99</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -780,7 +780,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\Data\Load.vi</Path>
-        <VI_Title/>
+        <VI_Title>Load</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -794,7 +794,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\Data\Write Path.vi</Path>
-        <VI_Title/>
+        <VI_Title>Write Path</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -808,7 +808,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\Data\Write String.vi</Path>
-        <VI_Title/>
+        <VI_Title>Write String</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -822,7 +822,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Load.vi</Path>
-        <VI_Title/>
+        <VI_Title>Load</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -836,7 +836,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Read Extension.vi</Path>
-        <VI_Title/>
+        <VI_Title>Read Extension</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -850,7 +850,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Read Root.vi</Path>
-        <VI_Title/>
+        <VI_Title>Read Root</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -864,7 +864,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Read Search Path.vi</Path>
-        <VI_Title/>
+        <VI_Title>Read Search Path</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -878,7 +878,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\String\Load.vi</Path>
-        <VI_Title/>
+        <VI_Title>Load</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -892,7 +892,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\String\Write Key-Value.vi</Path>
-        <VI_Title/>
+        <VI_Title>Write Key-Value</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -906,7 +906,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Extension.vi</Path>
-        <VI_Title/>
+        <VI_Title>Write Extension</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -920,7 +920,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Root.vi</Path>
-        <VI_Title/>
+        <VI_Title>Write Root</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -934,9 +934,9 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Search Path.vi</Path>
-        <VI_Title/>
+        <VI_Title>Write Search Path</VI_Title>
       </Items_Data>
-      <GUID>96DECC467FA84600278D8D41A4E67C2F</GUID>
+      <GUID>4C604884969C24B1E97FF5EDE63AACDE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -969,7 +969,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Readers\String\From.vi</Path>
-        <VI_Title/>
+        <VI_Title>From</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -983,7 +983,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Readers\String\Next.vi</Path>
-        <VI_Title/>
+        <VI_Title>Next</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -997,9 +997,9 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Readers\String\Is Done.vi</Path>
-        <VI_Title/>
+        <VI_Title>Is Done</VI_Title>
       </Items_Data>
-      <GUID>8761CC0A9551C0D6B1132660DD083434</GUID>
+      <GUID>617D36C5AC6D1EECDF9BD0D70074CEDF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1032,7 +1032,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Writers\String\Write.vi</Path>
-        <VI_Title/>
+        <VI_Title>Write</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -1046,7 +1046,7 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Writers\String\Read Output.vi</Path>
-        <VI_Title/>
+        <VI_Title>Read Output</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
@@ -1060,9 +1060,9 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\builds\Toolkit\Low-Level\Writers\String\New.vi</Path>
-        <VI_Title/>
+        <VI_Title>New</VI_Title>
       </Items_Data>
-      <GUID>3729432F2668640D74CE6AF93408D738</GUID>
+      <GUID>B922491F90B9E231E2B11EC246CF9FE8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1293,7 +1293,7 @@
         <Path>..\builds\Toolkit\Low-Level\Tokens\Contentable\Read Content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EE08D62B721829B8A72542047279B733</GUID>
+      <GUID>43EB206156EA23A971AA4814C9B1B796</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1552,7 +1552,7 @@
         <Path>..\builds\Toolkit\Low-Level\Nodes\Section\Read Inverted.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>88FAB463489AD339DA97BECF8BBBE4C7</GUID>
+      <GUID>EB6F989B1E1BB960C4E247832F2E96D5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1615,7 +1615,7 @@
         <Path>..\builds\Toolkit\Low-Level\Lexer\Run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4CAD8AA22B7E19686004FC3FAB100820</GUID>
+      <GUID>754761B33A1F899D37758B15B71051D1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
