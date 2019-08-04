@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-04 13:07:24" Creator="cfield" Comments="" ID="0f1e73802dbe0f95de89a4f3e458faf6">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-04 16:49:32" Creator="cfield" Comments="" ID="611c346b1d9166a5aa09213ff388da12">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_Labstache</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -299,7 +299,7 @@
         <Path>..\builds\Low-Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>11270E21B03979939F89EFA1FF0772B0</GUID>
+      <GUID>1B026EFD25FB97B1C83040ADACBFC808</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -323,7 +323,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>From.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Map</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -337,7 +337,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>From</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Array</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -351,7 +351,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>From.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Boolean</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -365,7 +365,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>From.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>String</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -379,7 +379,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>From.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Path</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -393,7 +393,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Null</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -463,7 +463,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>From.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Pair</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -558,7 +558,7 @@
         <Path>..\builds\Toolkit\Data\Pair\Into.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F4877053245C2DDCFC86C683C82E6769</GUID>
+      <GUID>B97EABB738D6B3D1BEB48ED193232377</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -705,7 +705,7 @@
         <Path>..\builds\Lexer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>025EAE0E5EBAE39C9C990FAF378F8D99</GUID>
+      <GUID>BBB45750CD70F1D51E2AD5BBAA6E40CA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -936,7 +936,7 @@
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Search Path.vi</Path>
         <VI_Title>Write Search Path</VI_Title>
       </Items_Data>
-      <GUID>4C604884969C24B1E97FF5EDE63AACDE</GUID>
+      <GUID>E1467712B8C485F4D53635E9856EBF93</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -999,7 +999,7 @@
         <Path>..\builds\Toolkit\Low-Level\Readers\String\Is Done.vi</Path>
         <VI_Title>Is Done</VI_Title>
       </Items_Data>
-      <GUID>617D36C5AC6D1EECDF9BD0D70074CEDF</GUID>
+      <GUID>9A077B6B5BB1CFA319F9402651AA99CC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1062,7 +1062,7 @@
         <Path>..\builds\Toolkit\Low-Level\Writers\String\New.vi</Path>
         <VI_Title>New</VI_Title>
       </Items_Data>
-      <GUID>B922491F90B9E231E2B11EC246CF9FE8</GUID>
+      <GUID>0C210E537B75E9A0FE15A26684735B92</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1086,7 +1086,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Begin Section</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1100,7 +1100,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Comment</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1114,7 +1114,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>End Section</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1128,7 +1128,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Escaped Variable</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1142,7 +1142,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Inverted Section</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1156,7 +1156,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Partial</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1170,7 +1170,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Set Delimiter</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1184,7 +1184,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Text</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1198,7 +1198,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Unescaped Variable</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1293,7 +1293,7 @@
         <Path>..\builds\Toolkit\Low-Level\Tokens\Contentable\Read Content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>43EB206156EA23A971AA4814C9B1B796</GUID>
+      <GUID>8890C5B8D0AB4F862CDA83E9AB58EC9E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1317,7 +1317,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Comment</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1331,7 +1331,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Delimiter</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1345,7 +1345,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Partial</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1359,7 +1359,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Root</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1373,7 +1373,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Section</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1387,7 +1387,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Text</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1401,7 +1401,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Variable</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1552,7 +1552,7 @@
         <Path>..\builds\Toolkit\Low-Level\Nodes\Section\Read Inverted.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EB6F989B1E1BB960C4E247832F2E96D5</GUID>
+      <GUID>148896935B0B1AE7403D2BFFCDCFAFC0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1615,7 +1615,7 @@
         <Path>..\builds\Toolkit\Low-Level\Lexer\Run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>754761B33A1F899D37758B15B71051D1</GUID>
+      <GUID>205533D89925C3AFABFD7FD6CA763234</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
