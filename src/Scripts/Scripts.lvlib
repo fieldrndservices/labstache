@@ -46,8 +46,11 @@
 		<Item Name="Library Owning Palette.vi" Type="VI" URL="../Support/Library Owning Palette.vi"/>
 		<Item Name="Library VI Children Data.vi" Type="VI" URL="../Support/Library VI Children Data.vi"/>
 		<Item Name="Library.mustache" Type="Document" URL="../Support/Library.mustache"/>
+		<Item Name="Lint Class.vi" Type="VI" URL="../Support/Lint Class.vi"/>
+		<Item Name="Lint Library.vi" Type="VI" URL="../Support/Lint Library.vi"/>
 		<Item Name="Lint Owned Items.vi" Type="VI" URL="../Support/Lint Owned Items.vi"/>
 		<Item Name="Lint VI Controls.vi" Type="VI" URL="../Support/Lint VI Controls.vi"/>
+		<Item Name="Lint VI.vi" Type="VI" URL="../Support/Lint VI.vi"/>
 		<Item Name="Move VI Image.vi" Type="VI" URL="../Support/Move VI Image.vi"/>
 		<Item Name="Polymorphic Children Data.vi" Type="VI" URL="../Support/Polymorphic Children Data.vi"/>
 		<Item Name="Polymorphic_VI.mustache" Type="Document" URL="../Support/Polymorphic_VI.mustache"/>
@@ -65,9 +68,6 @@
 	</Item>
 	<Item Name="Build.vi" Type="VI" URL="../Build.vi"/>
 	<Item Name="Generate.vi" Type="VI" URL="../Generate.vi"/>
-	<Item Name="Lint Class.vi" Type="VI" URL="../Support/Lint Class.vi"/>
-	<Item Name="Lint Library.vi" Type="VI" URL="../Support/Lint Library.vi"/>
-	<Item Name="Lint VI.vi" Type="VI" URL="../Support/Lint VI.vi"/>
 	<Item Name="Lint.vi" Type="VI" URL="../Lint.vi"/>
 	<Item Name="Package.vi" Type="VI" URL="../Package.vi"/>
 	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
