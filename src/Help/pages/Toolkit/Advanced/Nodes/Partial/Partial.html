@@ -29,7 +29,7 @@
 
 <tr>
 <td class="Bordered"><a href="/pages/Toolkit/Advanced/Nodes/Partial/Read_Key.html">Read Key</a></td>
-<td class="Bordered">Gets the key to the Mustache Partial tag that uniquely identifies it within the data and template.</td>
+<td class="Bordered">Gets the key to the Mustache Partial tag that uniquely identifies it within the data and template. Depending on the partial loader, this is either the file stem (file name without extension) of a partial Mustache template stored in a file on disk or the key to a key-value pair where the partial Mustache template is stored as a string value.</td>
 </tr>
 
 <tr>
@@ -39,7 +39,7 @@
 
 <tr>
 <td class="Bordered"><a href="/pages/Toolkit/Advanced/Nodes/Partial/Read_Type.html">Read Type</a></td>
-<td class="Bordered">Gets the Node type. LabVIEW 2009 does not have the Get LV Class Name function, so this is a workaround to determine the Node class/type during run-time.</td>
+<td class="Bordered">Gets the Node type of an object. This is primarily used internally or when building custom compilers. This is more robust than using strings in case structures with the Get LV Class Name function, which is not available in older versions of LabVIEW.</td>
 </tr>
 
 </table>

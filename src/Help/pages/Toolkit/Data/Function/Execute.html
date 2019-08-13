@@ -17,7 +17,7 @@
 <h1>Execute VI</h1>
 <p class="Body"><strong>Owning Palette:</strong> <a href="/pages/Toolkit/Data/Function/Function.html">Function Classes, Controls, and VIs</a></p>
 <p class="Body"><strong>Requires:</strong> Labstache</p>
-<p class="Body">Renders a block from a raw Mustache template at render time.</p>
+<p class="Body">Executes rendering of a tag within a Mustache template. This is useful for implementing callbacks while a Mustache template is rendered. Within the Mustache specification and documentation, this is referred to as a lambda, or anonymous, function.</p>
 <p class="Anchor"><img src="/images/Toolkit/VIs/Data/Function/Executec.png" alt="Execute VI" border="0"></p>
 </div>
 
@@ -36,17 +36,17 @@
 
 <tr>
     <td class="Icon"><img src="/images/Toolkit/Icons/cstr.png" alt="cstr"></td>
-    <td>The <strong>Source</strong> is a block of raw, unrendered Mustache template to be rendered by the implementation of this VI.</td>
+    <td><strong>Source</strong> is a block of raw, unrendered Mustache template to be rendered by the implementation of this VI.</td>
 </tr>
 
 <tr>
     <td class="Icon"><img src="/images/Toolkit/Icons/i1dToolkit_lvlib_Nodes_lvlib_Nodelvclass.png" alt="i1dToolkit_lvlib_Nodes_lvlib_Nodelvclass"></td>
-    <td>The <strong>Nodes</strong> array represents an abstract syntax tree of the rendered <strong>Source</strong> based on the implementation of this callable object (function or lambda).</td>
+    <td><strong>Nodes</strong> array represents an abstract syntax tree of the rendered <strong>Source</strong> based on the implementation of this callable object (function or lambda).</td>
 </tr>
 
 <tr>
     <td class="Icon"><img src="/images/Toolkit/Icons/iToolkit_lvlib_Data_lvlib_Functionlvclass.png" alt="iToolkit_lvlib_Data_lvlib_Functionlvclass"></td>
-    <td>The <strong>Function Out</strong> object is the same object as the <strong>Function In</strong> control.</td>
+    <td><strong>Function Out</strong> object is the same object as the <strong>Function In</strong> control.</td>
 </tr>
 
 <tr>
