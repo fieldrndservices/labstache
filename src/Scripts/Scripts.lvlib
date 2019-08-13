@@ -23,6 +23,7 @@
 		<Item Name="Destination.vi" Type="VI" URL="../Support/Destination.vi"/>
 		<Item Name="Filter Class Owned Items.vi" Type="VI" URL="../Support/Filter Class Owned Items.vi"/>
 		<Item Name="Filter Library Owned Items.vi" Type="VI" URL="../Support/Filter Library Owned Items.vi"/>
+		<Item Name="First Description Paragraph.vi" Type="VI" URL="../Support/First Description Paragraph.vi"/>
 		<Item Name="Folder Tree.vi" Type="VI" URL="../Support/Folder Tree.vi"/>
 		<Item Name="From Control Icons to Array.vi" Type="VI" URL="../Support/From Control Icons to Array.vi"/>
 		<Item Name="Generate All Class HTML Documentation.vi" Type="VI" URL="../Support/Generate All Class HTML Documentation.vi"/>
