@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-05 12:43:34" Creator="cfield" Comments="" ID="99ff071e67f6710b3d15dee70a558c48">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-13 15:36:23" Creator="cfield" Comments="" ID="40858b559803bb6e3418bd5ec3e0dc7f">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_Labstache</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.1.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -32,24 +32,15 @@
       <Copyright/>
       <Packager>Christopher R Field</Packager>
       <URL>http://www.fieldrndservices.com/</URL>
-      <Release_Notes>### Added
+      <Release_Notes>Added
 
-- High-level Compile VI
-- High-level Data VIs to create Mustache data values and types from LabVIEW primitives
-- Low-level rendering of an abstract syntax tree to a string based on provided data values and types
-- Low-level parsing of tokens into an abstract syntax tree
-- Low-level Lexer class
-- Tests
-- Examples
-- VI documentation
-- Class documentation
-- Project library documentation
-- HTML Help documentation
-- Scripts for building and packaging toolkit
-- Script for generating HTML help documentation from VIs, Classes, and project libraries
-- License file
-- On-disk project organization
-- LabVIEW project file</Release_Notes>
+- Input and output descriptions to VI descriptions
+
+Fixed
+
+- Controls and indicators descriptions to be more consistent in formatting and wording
+
+</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -299,7 +290,7 @@
         <Path>..\builds\Low-Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B0BA3CA73C498CA5B695BE6CA49A3AAA</GUID>
+      <GUID>717F8F95178A4443D0249CDFC4AE848D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -558,7 +549,7 @@
         <Path>..\builds\Toolkit\Data\Pair\Into.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2A23702F5AD9C92DFD64E3BD5160CB35</GUID>
+      <GUID>871A175EF8AAB3F8D1EEC7BA87D93754</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -705,7 +696,7 @@
         <Path>..\builds\Lexer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>95AC922B89FFC13DEF0901070C9ACDB5</GUID>
+      <GUID>1A66E27C40ABB068C5E969C5828DF217</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -936,7 +927,7 @@
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Search Path.vi</Path>
         <VI_Title>Write Search Path</VI_Title>
       </Items_Data>
-      <GUID>1D1B291890E758548F19770D7F95801C</GUID>
+      <GUID>A607050CA8DCBF0F426064928E786EC0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -999,7 +990,7 @@
         <Path>..\builds\Toolkit\Low-Level\Readers\String\Is Done.vi</Path>
         <VI_Title>Is Done</VI_Title>
       </Items_Data>
-      <GUID>EFF21400B9CC6CE71591232D4B7A2E69</GUID>
+      <GUID>AE98001738E2FAE0BB4861BEA66DEA76</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1062,7 +1053,7 @@
         <Path>..\builds\Toolkit\Low-Level\Writers\String\New.vi</Path>
         <VI_Title>New</VI_Title>
       </Items_Data>
-      <GUID>6158B6B1164340175AE8425C70B52F4A</GUID>
+      <GUID>A4E9EDA58BA145092EFA5E23818B1BD2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1293,7 +1284,7 @@
         <Path>..\builds\Toolkit\Low-Level\Tokens\Contentable\Read Content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>749D4395EE3264E37FF4B48B6834BD98</GUID>
+      <GUID>D23865F3264FEB69FC903A38B94E452B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1552,7 +1543,7 @@
         <Path>..\builds\Toolkit\Low-Level\Nodes\Section\Read Inverted.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6A48F37AFC8A33FA6E1FD4AB768599A4</GUID>
+      <GUID>613F41DB2A06D495BB53206CF3CA02E7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1615,7 +1606,7 @@
         <Path>..\builds\Toolkit\Low-Level\Lexer\Run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D5F1CC30CE1DDF422CCA72433E9ADF73</GUID>
+      <GUID>228B04F42A1707C708F0DB3B332D6580</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

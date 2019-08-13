@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file, which is wr
 
 ## [Unreleased][Unreleased]
 
+## [1.0.1] - 2019-08-13
+
+### Added
+
+- Input and output descriptions to VI descriptions
+
+### Fixed
+
+- Controls and indicators descriptions to be more consistent in formatting and wording
+
 ## [1.0.0] - 2019-08-05
 
 ### Added
