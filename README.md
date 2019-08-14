@@ -22,10 +22,6 @@ A [VI snippet](http://www.ni.com/tutorial/9330/en/) of compiling, or rendering, 
 
 ![Simple Mustache String Rendering](https://github.com/fieldrndservices/labstache/blob/master/docs/Simple-Mustache-String-Rendering.png)
 
-A VI snippet of compiling, or rendering, a mustache template from a file to another file:
-
-![Simple Mustache File Rendering](https://github.com/fieldrndservices/labstache/blob/master/docs/Simple-Mustache-File-Rendering.png)
-
 ## Dependencies
 
 ### Installation <a name="dependencies-installation"/>
