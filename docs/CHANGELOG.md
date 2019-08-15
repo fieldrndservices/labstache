@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file, which is wr
 
 ## [Unreleased][Unreleased]
 
+### Changed
+
+- Input and output descriptions to be consistent
+
 ## [1.0.1] - 2019-08-13
 
 ### Added
