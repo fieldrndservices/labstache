@@ -19,6 +19,9 @@
 	<Item Name="Render Non-Empty List Section.vi" Type="VI" URL="../Render Non-Empty List Section.vi"/>
 	<Item Name="Render Non-False Section.vi" Type="VI" URL="../Render Non-False Section.vi"/>
 	<Item Name="Render Non-False Value Section.vi" Type="VI" URL="../Render Non-False Value Section.vi"/>
+	<Item Name="Render Recursive Partial with Multiple Recursion.vi" Type="VI" URL="../Render Recursive Partial with Multiple Recursion.vi"/>
+	<Item Name="Render Recursive Partial without Recursion.vi" Type="VI" URL="../Render Recursive Partial without Recursion.vi"/>
+	<Item Name="Render Recusive Partial with Single Recursion.vi" Type="VI" URL="../Render Recusive Partial with Single Recursion.vi"/>
 	<Item Name="Render Section-Text.vi" Type="VI" URL="../Render Section-Text.vi"/>
 	<Item Name="Render String Partial.vi" Type="VI" URL="../Render String Partial.vi"/>
 	<Item Name="Render Text-Comment-Text.vi" Type="VI" URL="../Render Text-Comment-Text.vi"/>

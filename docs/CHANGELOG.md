@@ -4,9 +4,19 @@ All notable changes to this project will be documented in this file, which is wr
 
 ## [Unreleased][Unreleased]
 
+### Added
+
+- Some tests for the Data project library VIs and Classes
+- Some tests for recursive partials
+
 ### Changed
 
 - Input and output descriptions to be consistent
+
+### Fixed
+
+- Recursive partials causing an infinite loop
+- Data stack searching from the bottom instead of the top
 
 ## [1.0.1] - 2019-08-13
 
