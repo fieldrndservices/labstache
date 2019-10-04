@@ -11,6 +11,8 @@ All notable changes to this project will be documented in this file, which is wr
 
 ### Changed
 
+- Partial loading to the rendering stage
+- Parsing partials to the rendering stage
 - Input and output descriptions to be consistent
 
 ### Fixed
