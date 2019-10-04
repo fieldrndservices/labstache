@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file, which is wr
 
 ## [Unreleased][Unreleased]
 
+## [1.1.0] - 2019-10-04
+
 ### Added
 
 - Some tests for the Data project library VIs and Classes
