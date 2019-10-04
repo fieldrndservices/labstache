@@ -26,14 +26,14 @@ A [VI snippet](http://www.ni.com/tutorial/9330/en/) of compiling, or rendering, 
 
 ### Installation <a name="dependencies-installation"/>
 
-- LabVIEW 2010 or newer (All systems)
+- LabVIEW 2014 or newer (All systems)
 
 ### Development <a name="dependencies-development"/>
 
 - [Caraya](http://sine.ni.com/nips/cds/view/p/lang/en/nid/215909)
 - [HTML Help Workshop](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-downloads) (for compiling the help documentation)
 - [JKI State Machine](http://sine.ni.com/nips/cds/view/p/lang/en/nid/209025)
-- LabVIEW 2010 or newer (for building)
+- LabVIEW 2014 or newer (for building)
 - LabVIEW 2018 or newer
 - Labricator (only for automated builds, private package available upon request)
 - [OpenG Array Library](http://sine.ni.com/nips/cds/view/p/lang/en/nid/209027)
@@ -41,7 +41,7 @@ A [VI snippet](http://www.ni.com/tutorial/9330/en/) of compiling, or rendering, 
 - [VIPM Pro](https://vipm.jki.net/get) (only for automated builds)
 - [VIPM API](https://support.jki.net/hc/en-us/articles/214136183-VIPM-API) (only for automated builds)
 
-The Caraya, JKI State Machine, OpenG Array Library, OpenG File Library, and VIPM API dependencies must be installed for all versions of LabVIEW (2010 and 2018) to avoid errors during automated builds.
+The Caraya, JKI State Machine, OpenG Array Library, OpenG File Library, and VIPM API dependencies must be installed for all versions of LabVIEW (2014 and 2018) to avoid errors during automated builds.
 
 ## Installation
 
@@ -55,9 +55,9 @@ The VI Package Build (.vipb) specification, located in the `configs` folder rela
 
 ### Packaging using VIPM Pro (recommended)
 
-__Important__, if creating a package for LabVIEW 2010 from LabVIEW 2018, the [VI Server TCP/IP ports](http://zone.ni.com/reference/en-XX/help/371361P-01/lvhowto/configuring_the_vi_server/) must be different for each version of LabVIEW and verified with the [VIPM](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000P9YmSAK) application _before_ proceeding. An error will occur when the VIPM is started if both LabVIEW 2010 and 2018 are running at the same time. Basically, VIPM will not know which VI server to use if both versions of LabVIEW are using the same TCP/IP port.
+__Important__, if creating a package for LabVIEW 2014 from LabVIEW 2018, the [VI Server TCP/IP ports](http://zone.ni.com/reference/en-XX/help/371361P-01/lvhowto/configuring_the_vi_server/) must be different for each version of LabVIEW and verified with the [VIPM](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000P9YmSAK) application _before_ proceeding. An error will occur when the VIPM is started if both LabVIEW 2014 and 2018 are running at the same time. Basically, VIPM will not know which VI server to use if both versions of LabVIEW are using the same TCP/IP port.
 
-If VIPM Pro is available, then open the `Labstache.lvproj` file in any version of LabVIEW newer than 2010 and run the `Package.vi` located in the `Scripts.lvlib` project library of the Project Explorer window. Ensure all dependencies are installed before running the `Package.vi` script.
+If VIPM Pro is available, then open the `Labstache.lvproj` file in any version of LabVIEW newer than 2014 and run the `Package.vi` located in the `Scripts.lvlib` project library of the Project Explorer window. Ensure all dependencies are installed before running the `Package.vi` script.
 
 Note, the version number for the package is set in the `configs\Labstache.vipb` file. The version number in the VIP build specification file should be modified and saved _before_ running the `Package.vi` script.
 
@@ -67,21 +67,21 @@ If VIPM Pro is _not_ available, then the following steps can be executed to do e
 
 1. Start LabVIEW 2018 or newer and open the `Labstache.lvproj` file.
 2. From the Project Explorer window, **File>>Save for Previous Version...**, a new dialog will appear.
-3. Select **10.0** from the drop down menu.
+3. Select **14.0** from the drop down menu.
 4. Click **Save...**. A new dialog will open.
-5. Create the `target\10.0` folder hierarchy in the project root, i.e. the same folder as the `Labstache.lvproj` file, if it does not already exists.
+5. Create the `target\14.0` folder hierarchy in the project root, i.e. the same folder as the `Labstache.lvproj` file, if it does not already exists.
 6. Click **Save**.
 7. Close LabVIEW 2018 or newer and the `Labstache.lvproj` file.
 8. Navigate to `<project root>\src`.
-9. Copy the `Help` folder to `<project root>\target\10.0\src`.
-10. Start LabVIEW 2010.
-11. Open the `<project root>\target\10.0\Labstache.lvproj` file. Do NOT open the project in any other version of LabVIEW.
-12. Open each Source Distribution build specification under the "Build Specifications" tree item in the Project Explorer and change the _Output Destination_ to `<project root>\target\10.0\builds`. Save and close each build specification.
-13. Run the `Build.vi` in the `Scripts` project library to build each Source Distribution under the "Build Specifications" tree item and the compiled help documentation file (`Labstache.chm`). The output of each build will be available in `<project root>\target\10.0\builds`.
-14. Open the `<project root>\target\10.0\configs\Labstache.vipb` file in VIPM.
-15. Build the VI package with VIPM. The output will be available at `<project root>\target\10.0\packages`. Do NOT modify anything in the package build specification, but ensure the "2010" version of LabVIEW is selected in the upper, right-hand corner of the VIPM application window.
+9. Copy the `Help` folder to `<project root>\target\14.0\src`.
+10. Start LabVIEW 2014.
+11. Open the `<project root>\target\14.0\Labstache.lvproj` file. Do NOT open the project in any other version of LabVIEW.
+12. Open each Source Distribution build specification under the "Build Specifications" tree item in the Project Explorer and change the _Output Destination_ to `<project root>\target\14.0\builds`. Save and close each build specification.
+13. Run the `Build.vi` in the `Scripts` project library to build each Source Distribution under the "Build Specifications" tree item and the compiled help documentation file (`Labstache.chm`). The output of each build will be available in `<project root>\target\14.0\builds`.
+14. Open the `<project root>\target\14.0\configs\Labstache.vipb` file in VIPM.
+15. Build the VI package with VIPM. The output will be available at `<project root>\target\14.0\packages`. Do NOT modify anything in the package build specification, but ensure the "2014" version of LabVIEW is selected in the upper, right-hand corner of the VIPM application window.
 16. Close VIPM.
-17. Close LabVIEW 2010 and the `<project root>\target\10.0\Labstache.lvproj` file.
+17. Close LabVIEW 2014 and the `<project root>\target\14.0\Labstache.lvproj` file.
 
 ## [Documentation](https://help.fieldrndservices.com/labstache/index.html)
 
