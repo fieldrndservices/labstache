@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-10-04 15:38:43" Creator="cfield" Comments="" ID="f1c836f75dcaaafb4c66cdb00e5ebca2">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-10-04 15:45:33" Creator="cfield" Comments="" ID="3ecf0fe7e85df181b8ac3b702ced573f">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_Labstache</Package_File_Name>
-    <Library_Version>1.1.0.11</Library_Version>
+    <Library_Version>1.1.0.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -296,7 +296,7 @@
         <Path>..\builds\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>099E09FD9CE31CDB65EBAD66F0FCD53C</GUID>
+      <GUID>F5CE0DC4FC88CCD36D278A4CAD21C57C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -443,7 +443,7 @@
         <Path>..\builds\Lexer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F5A3B6F2FF523268B222A66F74BE1407</GUID>
+      <GUID>B6572F1E8AE1F4C43FB4564F098815CE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -674,7 +674,7 @@
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Search Path.vi</Path>
         <VI_Title>Write Search Path</VI_Title>
       </Items_Data>
-      <GUID>5D188913C45E86B5E0C8DE2ED86B8B84</GUID>
+      <GUID>6BA49B32D96A6DDF78294CBEB337E95F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -737,7 +737,7 @@
         <Path>..\builds\Toolkit\Low-Level\Readers\String\Is Done.vi</Path>
         <VI_Title>Is Done</VI_Title>
       </Items_Data>
-      <GUID>E5110936304FEB00024A1DD562F0DED0</GUID>
+      <GUID>7AABFACBD549EBB9F513EB16131266A3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -800,7 +800,7 @@
         <Path>..\builds\Toolkit\Low-Level\Writers\String\New.vi</Path>
         <VI_Title>String Writer</VI_Title>
       </Items_Data>
-      <GUID>2D0275850FC5EDFDC077AB5D5C3039B6</GUID>
+      <GUID>A9D3B0700EE90D1C8ABEBED446C629A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1031,7 +1031,7 @@
         <Path>..\builds\Toolkit\Low-Level\Tokens\Contentable\Read Content.vi</Path>
         <VI_Title>Read Content</VI_Title>
       </Items_Data>
-      <GUID>D3B1DC718B93B4307C73485643ABDEEE</GUID>
+      <GUID>1CFC60833B79CA977972669546CAE4D0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1290,7 +1290,7 @@
         <Path>..\builds\Toolkit\Low-Level\Nodes\Section\Read Inverted.vi</Path>
         <VI_Title>Read Inverted</VI_Title>
       </Items_Data>
-      <GUID>7D9C648064926006D47140D7FDE8B72A</GUID>
+      <GUID>CE0BE7959C2A5CDEFA8BB709308302CC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1353,7 +1353,7 @@
         <Path>..\builds\Toolkit\Low-Level\Lexer\Run.vi</Path>
         <VI_Title>Run</VI_Title>
       </Items_Data>
-      <GUID>5BD40E5B46C6DCE0786025035ED5FD83</GUID>
+      <GUID>B87DC7FE41BFBA02E661A1527DACEF2C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1612,7 +1612,7 @@
         <Path>..\builds\Toolkit\Data\Datum\Read Type.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>55F0E8F3E6153FEE0A799EAF9FC573DF</GUID>
+      <GUID>59D0D2746F6F7C365A86EC5ED6718E43</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
