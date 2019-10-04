@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-08-13 16:58:12" Creator="cfield" Comments="" ID="cbf071ddeaa19e308be615039df770b8">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-10-04 15:25:40" Creator="cfield" Comments="" ID="f94268c6887a46425ca3043560ebe714">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_Labstache</Package_File_Name>
-    <Library_Version>1.0.1.11</Library_Version>
+    <Library_Version>1.1.0.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -32,15 +32,21 @@
       <Copyright/>
       <Packager>Christopher R Field</Packager>
       <URL>http://www.fieldrndservices.com/</URL>
-      <Release_Notes>Added
+      <Release_Notes>### Added
 
-- Input and output descriptions to VI descriptions
+- Some tests for the Data project library VIs and Classes
+- Some tests for recursive partials
 
-Fixed
+### Changed
 
-- Controls and indicators descriptions to be more consistent in formatting and wording
+- Partial loading to the rendering stage
+- Parsing partials to the rendering stage
+- Input and output descriptions to be consistent
 
-</Release_Notes>
+### Fixed
+
+- Recursive partials causing an infinite loop
+- Data stack searching from the bottom instead of the top</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -290,7 +296,7 @@ Fixed
         <Path>..\builds\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0B99B697A75B29C3BC963B0A6678DC99</GUID>
+      <GUID>C4FDF212CEB0B9658F8C1EA7F6C3ACCD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -437,7 +443,7 @@ Fixed
         <Path>..\builds\Lexer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D534597F825F4CC99D64C33B1F77C559</GUID>
+      <GUID>DAC5F16D023646EECEC8E708B8E68C04</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -668,7 +674,7 @@ Fixed
         <Path>..\builds\Toolkit\Low-Level\Loaders\File\Write Search Path.vi</Path>
         <VI_Title>Write Search Path</VI_Title>
       </Items_Data>
-      <GUID>63EEA75354FABD699AB0007E5ED74B70</GUID>
+      <GUID>17BBFD63C07FC04968FDC3F1CA72FE87</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -731,7 +737,7 @@ Fixed
         <Path>..\builds\Toolkit\Low-Level\Readers\String\Is Done.vi</Path>
         <VI_Title>Is Done</VI_Title>
       </Items_Data>
-      <GUID>080A2472D4D7CD5A8998744CA9EBD494</GUID>
+      <GUID>BB713E8F8A0D0E3B4BEC597B26C35AD4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -794,7 +800,7 @@ Fixed
         <Path>..\builds\Toolkit\Low-Level\Writers\String\New.vi</Path>
         <VI_Title>String Writer</VI_Title>
       </Items_Data>
-      <GUID>C2177C000E8F98404BC2C7FDC2EDC1C7</GUID>
+      <GUID>700668008FDF061FFBE25E0503300C19</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1025,7 +1031,7 @@ Fixed
         <Path>..\builds\Toolkit\Low-Level\Tokens\Contentable\Read Content.vi</Path>
         <VI_Title>Read Content</VI_Title>
       </Items_Data>
-      <GUID>C23AF940E7B5000A6B15D128B4A444C7</GUID>
+      <GUID>5C148A5CE0988BD334B23BE2D0B755CE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1284,7 +1290,7 @@ Fixed
         <Path>..\builds\Toolkit\Low-Level\Nodes\Section\Read Inverted.vi</Path>
         <VI_Title>Read Inverted</VI_Title>
       </Items_Data>
-      <GUID>6F7B5827DC1A4C156CB27FBAA78AE585</GUID>
+      <GUID>CB6FB1694E882175B4EFDF389DD8EB55</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1347,7 +1353,7 @@ Fixed
         <Path>..\builds\Toolkit\Low-Level\Lexer\Run.vi</Path>
         <VI_Title>Run</VI_Title>
       </Items_Data>
-      <GUID>AC0B0C5991978A6244B9AF30682E3D11</GUID>
+      <GUID>74388133B82AB4EBDB44E4C1B656CF0B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1606,7 +1612,7 @@ Fixed
         <Path>..\builds\Toolkit\Data\Datum\Read Type.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6D3A17B525DA2E0A72368D28498A7181</GUID>
+      <GUID>39A6E5A7B731138A17F0B917373D2CC9</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
