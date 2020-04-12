@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file, which is wr
 
 ## [Unreleased][Unreleased]
 
+## [1.1.1] - 2020-04-12
+
+### Fixed
+
+- Inverted and Non-Inverted sections both rendering content if the data is a non-empty array
+
 ## [1.1.0] - 2019-10-04
 
 ### Added

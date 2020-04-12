@@ -12,10 +12,15 @@
 	<Item Name="Render Comment-Text.vi" Type="VI" URL="../Render Comment-Text.vi"/>
 	<Item Name="Render Comment.vi" Type="VI" URL="../Render Comment.vi"/>
 	<Item Name="Render Delimiter.vi" Type="VI" URL="../Render Delimiter.vi"/>
+	<Item Name="Render Empty List Section.vi" Type="VI" URL="../Render Empty List Section.vi"/>
 	<Item Name="Render Escaped Tag-Text.vi" Type="VI" URL="../Render Escaped Tag-Text.vi"/>
 	<Item Name="Render Escaped Tag.vi" Type="VI" URL="../Render Escaped Tag.vi"/>
 	<Item Name="Render False Section.vi" Type="VI" URL="../Render False Section.vi"/>
-	<Item Name="Render Inverted Section.vi" Type="VI" URL="../Render Inverted Section.vi"/>
+	<Item Name="Render Inverted Section with Boolean False Pair.vi" Type="VI" URL="../Render Inverted Section with Boolean False Pair.vi"/>
+	<Item Name="Render Inverted Section with Empty Array Object.vi" Type="VI" URL="../Render Inverted Section with Empty Array Object.vi"/>
+	<Item Name="Render Inverted Section with Empty Map Object Array.vi" Type="VI" URL="../Render Inverted Section with Empty Map Object Array.vi"/>
+	<Item Name="Render Inverted Section with Null Array.vi" Type="VI" URL="../Render Inverted Section with Null Array.vi"/>
+	<Item Name="Render Inverted Section with Null.vi" Type="VI" URL="../Render Inverted Section with Null.vi"/>
 	<Item Name="Render Non-Empty List Section.vi" Type="VI" URL="../Render Non-Empty List Section.vi"/>
 	<Item Name="Render Non-False Section.vi" Type="VI" URL="../Render Non-False Section.vi"/>
 	<Item Name="Render Non-False Value Section.vi" Type="VI" URL="../Render Non-False Value Section.vi"/>
