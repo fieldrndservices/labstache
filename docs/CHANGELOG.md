@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file, which is wr
 
 ## [Unreleased][Unreleased]
 
+### Fixed
+
+- Scripts tag URL in some HTML documentation files
+
 ## [1.1.1] - 2020-04-12
 
 ### Fixed
