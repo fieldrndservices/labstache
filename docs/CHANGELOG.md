@@ -4,9 +4,22 @@ All notable changes to this project will be documented in this file, which is wr
 
 ## [Unreleased][Unreleased]
 
+### Added
+
+- The `Acknowledgements` section to the HTML help documentation preface
+- The `AUTHORS.txt` documentation file
+
+### Changed
+
+- The `Generate` VI script to use the Labricator's API for HTML documentation file generation
+
 ### Fixed
 
 - Scripts tag URL in some HTML documentation files
+
+### Removed
+
+- Custom HTML help generation script
 
 ## [1.1.1] - 2020-04-12
 
