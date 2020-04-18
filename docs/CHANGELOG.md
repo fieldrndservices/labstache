@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file, which is wr
 
 ### Changed
 
+- The `Lint` VI script to use the Labricator's API
 - The `Generate` VI script to use the Labricator's API for HTML documentation file generation
 
 ### Fixed
@@ -19,6 +20,7 @@ All notable changes to this project will be documented in this file, which is wr
 
 ### Removed
 
+- Custom lint script
 - Custom HTML help generation script
 
 ## [1.1.1] - 2020-04-12
