@@ -21,10 +21,14 @@
 	<Item Name="Render Inverted Section with Empty Map Object Array.vi" Type="VI" URL="../Render Inverted Section with Empty Map Object Array.vi"/>
 	<Item Name="Render Inverted Section with Null Array.vi" Type="VI" URL="../Render Inverted Section with Null Array.vi"/>
 	<Item Name="Render Inverted Section with Null.vi" Type="VI" URL="../Render Inverted Section with Null.vi"/>
+	<Item Name="Render Missing Section Key.vi" Type="VI" URL="../Render Missing Section Key.vi"/>
+	<Item Name="Render Missing Variable Key in Section.vi" Type="VI" URL="../Render Missing Variable Key in Section.vi"/>
+	<Item Name="Render Missing Variable Key.vi" Type="VI" URL="../Render Missing Variable Key.vi"/>
 	<Item Name="Render Non-Empty List Section.vi" Type="VI" URL="../Render Non-Empty List Section.vi"/>
 	<Item Name="Render Non-False Section.vi" Type="VI" URL="../Render Non-False Section.vi"/>
 	<Item Name="Render Non-False Value Section.vi" Type="VI" URL="../Render Non-False Value Section.vi"/>
 	<Item Name="Render Recursive Partial with Multiple Recursion.vi" Type="VI" URL="../Render Recursive Partial with Multiple Recursion.vi"/>
+	<Item Name="Render Recursive Partial with Wrong Key.vi" Type="VI" URL="../Render Recursive Partial with Wrong Key.vi"/>
 	<Item Name="Render Recursive Partial without Recursion.vi" Type="VI" URL="../Render Recursive Partial without Recursion.vi"/>
 	<Item Name="Render Recusive Partial with Single Recursion.vi" Type="VI" URL="../Render Recusive Partial with Single Recursion.vi"/>
 	<Item Name="Render Section-Text.vi" Type="VI" URL="../Render Section-Text.vi"/>
