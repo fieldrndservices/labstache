@@ -14,6 +14,5 @@
 		<Item Name="Types.ctl" Type="VI" URL="../Type Definitions/Types.ctl"/>
 	</Item>
 	<Item Name="Hook.lvclass" Type="LVClass" URL="../Hook/Hook.lvclass"/>
-	<Item Name="Render Section.lvclass" Type="LVClass" URL="../Render Section/Render Section.lvclass"/>
-	<Item Name="Render Variable.lvclass" Type="LVClass" URL="../Render Variable/Render Variable.lvclass"/>
+	<Item Name="Render.lvlib" Type="Library" URL="../Render/Render.lvlib"/>
 </Library>
