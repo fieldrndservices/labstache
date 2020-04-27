@@ -36,6 +36,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 			<Item Name="Delimiters.ctl" Type="VI" URL="../Low-Level/Type Definitions/Delimiters.ctl"/>
+			<Item Name="Hooks.ctl" Type="VI" URL="../Low-Level/Type Definitions/Hooks.ctl"/>
 		</Item>
 		<Item Name="Lex.vi" Type="VI" URL="../Low-Level/Lex.vi"/>
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
@@ -56,4 +57,6 @@
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
 	<Item Name="Hooks.lvlib" Type="Library" URL="../Hooks/Hooks.lvlib"/>
+	<Item Name="Run Post-Render Hook.vi" Type="VI" URL="../Low-Level/Support/Run Post-Render Hook.vi"/>
+	<Item Name="Run Pre-Render Hook.vi" Type="VI" URL="../Low-Level/Support/Run Pre-Render Hook.vi"/>
 </Library>
