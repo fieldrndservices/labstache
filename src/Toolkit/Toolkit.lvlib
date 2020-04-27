@@ -15,7 +15,7 @@
 		<Item Name="Support" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Property Name="NI.SortType" Type="Int">0</Property>
-			<Item Name="Context.lvclass" Type="LVClass" URL="../Low-Level/Support/Context/Context.lvclass"/>
+			<Item Name="Context.lvclass" Type="LVClass" URL="../Low-Level/Support/Context/Context/Context.lvclass"/>
 			<Item Name="Lex Reader.vi" Type="VI" URL="../Low-Level/Support/Lex Reader.vi"/>
 			<Item Name="Lex String.vi" Type="VI" URL="../Low-Level/Support/Lex String.vi"/>
 			<Item Name="Parse Token.vi" Type="VI" URL="../Low-Level/Support/Parse Token.vi"/>
@@ -55,4 +55,5 @@
 	</Item>
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
+	<Item Name="Hooks.lvlib" Type="Library" URL="../Hooks/Hooks.lvlib"/>
 </Library>
