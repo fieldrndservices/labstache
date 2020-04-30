@@ -55,6 +55,8 @@
 		<Item Name="Compile with Data.vi" Type="VI" URL="../Support/Compile with Data.vi"/>
 		<Item Name="Compile with Pair Array.vi" Type="VI" URL="../Support/Compile with Pair Array.vi"/>
 		<Item Name="Compile with String Array.vi" Type="VI" URL="../Support/Compile with String Array.vi"/>
+		<Item Name="Run Post-Compile Hook.vi" Type="VI" URL="../Support/Run Post-Compile Hook.vi"/>
+		<Item Name="Run Pre-Compile Hook.vi" Type="VI" URL="../Support/Run Pre-Compile Hook.vi"/>
 	</Item>
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>

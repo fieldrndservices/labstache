@@ -13,6 +13,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Types.ctl" Type="VI" URL="../Type Definitions/Types.ctl"/>
 	</Item>
+	<Item Name="Compile.lvlib" Type="Library" URL="../Compile/Compile.lvlib"/>
 	<Item Name="Hook.lvclass" Type="LVClass" URL="../Hook/Hook.lvclass"/>
 	<Item Name="Render.lvlib" Type="Library" URL="../Render/Render.lvlib"/>
 </Library>
