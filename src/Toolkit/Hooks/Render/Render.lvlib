@@ -11,7 +11,10 @@
 </Property>
 	<Item Name="Comment.lvclass" Type="LVClass" URL="../Comment/Comment.lvclass"/>
 	<Item Name="Delimiter.lvclass" Type="LVClass" URL="../Delimiter/Delimiter.lvclass"/>
-	<Item Name="Process.lvclass" Type="LVClass" URL="../Render/Process.lvclass"/>
+	<Item Name="Node.lvclass" Type="LVClass" URL="../Node/Node.lvclass"/>
+	<Item Name="Partial.lvclass" Type="LVClass" URL="../Partial/Partial.lvclass"/>
+	<Item Name="Process.lvclass" Type="LVClass" URL="../Process/Process.lvclass"/>
 	<Item Name="Section.lvclass" Type="LVClass" URL="../Section/Section.lvclass"/>
+	<Item Name="Text.lvclass" Type="LVClass" URL="../Text/Text.lvclass"/>
 	<Item Name="Variable.lvclass" Type="LVClass" URL="../Variable/Variable.lvclass"/>
 </Library>
