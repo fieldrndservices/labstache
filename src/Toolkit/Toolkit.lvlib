@@ -31,6 +31,8 @@
 			<Item Name="Render to String.vi" Type="VI" URL="../Low-Level/Support/Render to String.vi"/>
 			<Item Name="Render to Writer.vi" Type="VI" URL="../Low-Level/Support/Render to Writer.vi"/>
 			<Item Name="Render Variable.vi" Type="VI" URL="../Low-Level/Support/Render Variable.vi"/>
+			<Item Name="Run Post-Render Hook.vi" Type="VI" URL="../Low-Level/Support/Run Post-Render Hook.vi"/>
+			<Item Name="Run Pre-Render Hook.vi" Type="VI" URL="../Low-Level/Support/Run Pre-Render Hook.vi"/>
 			<Item Name="Token Key.vi" Type="VI" URL="../Low-Level/Support/Token Key.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
@@ -57,6 +59,4 @@
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
 	<Item Name="Hooks.lvlib" Type="Library" URL="../Hooks/Hooks.lvlib"/>
-	<Item Name="Run Post-Render Hook.vi" Type="VI" URL="../Low-Level/Support/Run Post-Render Hook.vi"/>
-	<Item Name="Run Pre-Render Hook.vi" Type="VI" URL="../Low-Level/Support/Run Pre-Render Hook.vi"/>
 </Library>
