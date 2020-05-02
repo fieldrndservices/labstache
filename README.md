@@ -45,7 +45,7 @@ The Caraya, JKI State Machine, OpenG Array Library, OpenG File Library, and VIPM
 
 ## Installation
 
-A [VI Package (VIP)](https://www.vipm.io/package/field_rnd_services_labstache/) is available at [VIPM.io](https://www.vipm.io). The recommended installation instruction is to:
+A [VI Package (VIP)](https://www.vipm.io/package/field_rnd_services_labstache/) is available at [VIPM.io](https://www.vipm.io). The recommended installation instructions are to:
 
 1. Navigate to the [Labstache package](https://www.vipm.io/package/field_rnd_services_labstache/) at [VIPM.io](https://www.vipm.io/).
 2. Click on the _Install_ button to the right. The [VI Package Manager (VIPM)](https://www.vipm.io/download/) (freely available from [JKI](https://jki.net)) will start automatically.
