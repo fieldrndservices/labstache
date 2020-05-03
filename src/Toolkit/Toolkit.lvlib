@@ -15,7 +15,6 @@
 		<Item Name="Support" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Property Name="NI.SortType" Type="Int">0</Property>
-			<Item Name="Context.lvclass" Type="LVClass" URL="../Low-Level/Support/Context/Context/Context.lvclass"/>
 			<Item Name="Lex Reader.vi" Type="VI" URL="../Low-Level/Support/Lex Reader.vi"/>
 			<Item Name="Lex String.vi" Type="VI" URL="../Low-Level/Support/Lex String.vi"/>
 			<Item Name="Parse Token.vi" Type="VI" URL="../Low-Level/Support/Parse Token.vi"/>
@@ -31,8 +30,6 @@
 			<Item Name="Render to String.vi" Type="VI" URL="../Low-Level/Support/Render to String.vi"/>
 			<Item Name="Render to Writer.vi" Type="VI" URL="../Low-Level/Support/Render to Writer.vi"/>
 			<Item Name="Render Variable.vi" Type="VI" URL="../Low-Level/Support/Render Variable.vi"/>
-			<Item Name="Run Post-Render Hook.vi" Type="VI" URL="../Low-Level/Support/Run Post-Render Hook.vi"/>
-			<Item Name="Run Pre-Render Hook.vi" Type="VI" URL="../Low-Level/Support/Run Pre-Render Hook.vi"/>
 			<Item Name="Token Key.vi" Type="VI" URL="../Low-Level/Support/Token Key.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
@@ -40,6 +37,7 @@
 			<Item Name="Delimiters.ctl" Type="VI" URL="../Low-Level/Type Definitions/Delimiters.ctl"/>
 			<Item Name="Hooks.ctl" Type="VI" URL="../Low-Level/Type Definitions/Hooks.ctl"/>
 		</Item>
+		<Item Name="Context.lvclass" Type="LVClass" URL="../Low-Level/Context/Context.lvclass"/>
 		<Item Name="Lex.vi" Type="VI" URL="../Low-Level/Lex.vi"/>
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
 		<Item Name="Loaders.lvlib" Type="Library" URL="../Low-Level/Loaders/Loaders.lvlib"/>
@@ -55,8 +53,6 @@
 		<Item Name="Compile with Data.vi" Type="VI" URL="../Support/Compile with Data.vi"/>
 		<Item Name="Compile with Pair Array.vi" Type="VI" URL="../Support/Compile with Pair Array.vi"/>
 		<Item Name="Compile with String Array.vi" Type="VI" URL="../Support/Compile with String Array.vi"/>
-		<Item Name="Run Post-Compile Hook.vi" Type="VI" URL="../Support/Run Post-Compile Hook.vi"/>
-		<Item Name="Run Pre-Compile Hook.vi" Type="VI" URL="../Support/Run Pre-Compile Hook.vi"/>
 	</Item>
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
