@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file, which is wr
 
 ### Changed
 
+- Installation instructions to use VIPM.io links and references
 - The `Lint` VI script to use the Labricator's API
 - The `Generate` VI script to use the Labricator's API for HTML documentation file generation
 
