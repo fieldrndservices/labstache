@@ -17,5 +17,4 @@
 	<Item Name="Compile with Data.vi" Type="VI" URL="../Compile with Data.vi"/>
 	<Item Name="Compile with Hook.vi" Type="VI" URL="../Compile with Hook.vi"/>
 	<Item Name="Run All.vi" Type="VI" URL="../Run All.vi"/>
-	<Item Name="Untitled 8.vi" Type="VI" URL="../Untitled 8.vi"/>
 </Library>
