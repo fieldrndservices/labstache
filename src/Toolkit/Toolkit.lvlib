@@ -16,7 +16,7 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 			<Item Name="Delimiters.ctl" Type="VI" URL="../Low-Level/Type Definitions/Delimiters.ctl"/>
 		</Item>
-		<Item Name="Compiler.lvclass" Type="LVClass" URL="../Low-Level/Context/Compiler.lvclass"/>
+		<Item Name="Compiler.lvclass" Type="LVClass" URL="../Low-Level/Compiler/Compiler.lvclass"/>
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
 		<Item Name="Loaders.lvlib" Type="Library" URL="../Low-Level/Loaders/Loaders.lvlib"/>
 		<Item Name="Nodes.lvlib" Type="Library" URL="../Low-Level/Nodes/Nodes.lvlib"/>
