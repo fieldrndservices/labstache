@@ -13,7 +13,6 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Mock Compile Hook.lvclass" Type="LVClass" URL="../Support/Mock Compile Hook/Mock Compile Hook.lvclass"/>
 	</Item>
-	<Item Name="Compile with Context.vi" Type="VI" URL="../Compile with Context.vi"/>
 	<Item Name="Compile with Data.vi" Type="VI" URL="../Compile with Data.vi"/>
 	<Item Name="Compile with Hook.vi" Type="VI" URL="../Compile with Hook.vi"/>
 	<Item Name="Run All.vi" Type="VI" URL="../Run All.vi"/>
