@@ -34,5 +34,4 @@
 	</Item>
 	<Item Name="Compile.vi" Type="VI" URL="../Compile.vi"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
-	<Item Name="Hooks.lvlib" Type="Library" URL="../Hooks/Hooks.lvlib"/>
 </Library>
