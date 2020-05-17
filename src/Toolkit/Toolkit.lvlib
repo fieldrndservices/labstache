@@ -12,38 +12,17 @@
 </Property>
 	<Item Name="Low-Level" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
-		<Item Name="Support" Type="Folder">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-			<Property Name="NI.SortType" Type="Int">0</Property>
-			<Item Name="Context.lvclass" Type="LVClass" URL="../Low-Level/Support/Context/Context.lvclass"/>
-			<Item Name="Lex Reader.vi" Type="VI" URL="../Low-Level/Support/Lex Reader.vi"/>
-			<Item Name="Lex String.vi" Type="VI" URL="../Low-Level/Support/Lex String.vi"/>
-			<Item Name="Parse Token.vi" Type="VI" URL="../Low-Level/Support/Parse Token.vi"/>
-			<Item Name="Parse Tokens.vi" Type="VI" URL="../Low-Level/Support/Parse Tokens.vi"/>
-			<Item Name="Render Children.vi" Type="VI" URL="../Low-Level/Support/Render Children.vi"/>
-			<Item Name="Render Comment.vi" Type="VI" URL="../Low-Level/Support/Render Comment.vi"/>
-			<Item Name="Render Delimiter.vi" Type="VI" URL="../Low-Level/Support/Render Delimiter.vi"/>
-			<Item Name="Render Node.vi" Type="VI" URL="../Low-Level/Support/Render Node.vi"/>
-			<Item Name="Render Partial.vi" Type="VI" URL="../Low-Level/Support/Render Partial.vi"/>
-			<Item Name="Render Section Children.vi" Type="VI" URL="../Low-Level/Support/Render Section Children.vi"/>
-			<Item Name="Render Section.vi" Type="VI" URL="../Low-Level/Support/Render Section.vi"/>
-			<Item Name="Render Text.vi" Type="VI" URL="../Low-Level/Support/Render Text.vi"/>
-			<Item Name="Render to String.vi" Type="VI" URL="../Low-Level/Support/Render to String.vi"/>
-			<Item Name="Render to Writer.vi" Type="VI" URL="../Low-Level/Support/Render to Writer.vi"/>
-			<Item Name="Render Variable.vi" Type="VI" URL="../Low-Level/Support/Render Variable.vi"/>
-			<Item Name="Token Key.vi" Type="VI" URL="../Low-Level/Support/Token Key.vi"/>
-		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 			<Item Name="Delimiters.ctl" Type="VI" URL="../Low-Level/Type Definitions/Delimiters.ctl"/>
 		</Item>
-		<Item Name="Lex.vi" Type="VI" URL="../Low-Level/Lex.vi"/>
+		<Item Name="Compiler.lvclass" Type="LVClass" URL="../Low-Level/Compiler/Compiler.lvclass"/>
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Low-Level/Lexer/Lexer.lvclass"/>
 		<Item Name="Loaders.lvlib" Type="Library" URL="../Low-Level/Loaders/Loaders.lvlib"/>
 		<Item Name="Nodes.lvlib" Type="Library" URL="../Low-Level/Nodes/Nodes.lvlib"/>
-		<Item Name="Parse.vi" Type="VI" URL="../Low-Level/Parse.vi"/>
+		<Item Name="Parser.lvclass" Type="LVClass" URL="../Low-Level/Parser/Parser.lvclass"/>
 		<Item Name="Readers.lvlib" Type="Library" URL="../Low-Level/Readers/Readers.lvlib"/>
-		<Item Name="Render.vi" Type="VI" URL="../Low-Level/Render.vi"/>
+		<Item Name="Renderer.lvclass" Type="LVClass" URL="../Low-Level/Renderer/Renderer.lvclass"/>
 		<Item Name="Tokens.lvlib" Type="Library" URL="../Low-Level/Tokens/Tokens.lvlib"/>
 		<Item Name="Writers.lvlib" Type="Library" URL="../Low-Level/Writers/Writers.lvlib"/>
 	</Item>

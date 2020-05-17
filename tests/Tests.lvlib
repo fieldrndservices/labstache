@@ -13,6 +13,7 @@
 		<Item Name="Assert Is Class.vi" Type="VI" URL="../Support/Assert Is Class.vi"/>
 		<Item Name="Assert Key is Correct.vi" Type="VI" URL="../Support/Assert Key is Correct.vi"/>
 	</Item>
+	<Item Name="Compile.lvlib" Type="Library" URL="../Compile/Compile.lvlib"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
 	<Item Name="Lexer.lvlib" Type="Library" URL="../Lexer/Lexer.lvlib"/>
 	<Item Name="Nodes.lvlib" Type="Library" URL="../Nodes/Nodes.lvlib"/>
