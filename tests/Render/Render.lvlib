@@ -41,4 +41,6 @@
 	<Item Name="Render Unescaped Tag-Text.vi" Type="VI" URL="../Render Unescaped Tag-Text.vi"/>
 	<Item Name="Render Unescaped Tag.vi" Type="VI" URL="../Render Unescaped Tag.vi"/>
 	<Item Name="Run All.vi" Type="VI" URL="../Run All.vi"/>
+	<Item Name="Setup.vi" Type="VI" URL="../Support/Setup.vi"/>
+	<Item Name="Teardown.vi" Type="VI" URL="../Support/Teardown.vi"/>
 </Library>
